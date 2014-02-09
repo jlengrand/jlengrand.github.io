@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Look up to the future
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:title
