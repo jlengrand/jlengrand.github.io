@@ -49,7 +49,8 @@ Just for the beauty of it, I want to quickly present some results :
 Here is an example of sonar image manually segmented by two different experts. Observe how the results are similar, but also different at the same time.
 
 <a href="http://dl.dropbox.com/u/4286043/expert.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/expert.png" alt="" border="0" /></a>
-Here is the results I got using my fully automated method :
+
+Here are the results I got using my fully automated method :
 
 <a href="http://dl.dropbox.com/u/4286043/algo.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/algo.png" alt="" border="0" /></a>
 

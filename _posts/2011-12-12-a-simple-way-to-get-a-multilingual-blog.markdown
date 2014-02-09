@@ -62,7 +62,8 @@ To do this, you need two things :
 <ul>
 	<li>Insert some <strong>javascript</strong> functions in your webpage. You can do this by importing a file, or simply copying the following code in your template:</li>
 </ul>
-<div>[javascript]
+
+{% highlight javascript %}
 
 <!-- Script créé par KevBrok ;-) -->
 <script type="text/javascript">// <![CDATA[
@@ -133,13 +134,15 @@ To do this, you need two things :
 				}
 		}
 // ]]></script>
-[/javascript]
 
-</div>
+{% endhighlight %}
+
 <ul>
 	<li>Then, <strong>Write down your article in both languages</strong>, one after the other in you editor. Each language should be placed in a separate div; and a button placed to switch from one language to the other. Here is an example :</li>
 </ul>
-<div>[javascript]
+
+{% highlight javascript %}
+
 <a href="javascript:InverseTout( 'mondiv' )">Français / English</a></pre>
 <div id="mondiv1" class="cachediv">
 <div style="border: 1px solid black; background-color: whitesmoke; margin-bottom: 2px;">My article in english</div>
@@ -148,9 +151,9 @@ To do this, you need two things :
 <div style="border: 1px solid black; background-color: whitesmoke; margin-bottom: 2px;">Mon article en français</div>
 </div>
 <pre>
-[/javascript]
 
-</div>
+{% endhighlight %}
+
 <div>
 
 There you are ! The<strong> "class = cachediv"</strong> is used to hide the on load.
@@ -165,4 +168,4 @@ Hope this help ;)
 
 </div>
 <div>[<a title="source" href="http://www.editeurjavascript.com/scripts/scripts_navigation_3_182.php" target="_blank">source</a>]</div>
-<div><em>NOTE : Sorry for the code being in french (its not mine). I could take some time to translate it if you want :) </em></div><!--:-->
+<div><em>NOTE : Sorry for the code being in french (its not mine). I could take some time to translate it if you want :) </em></div>

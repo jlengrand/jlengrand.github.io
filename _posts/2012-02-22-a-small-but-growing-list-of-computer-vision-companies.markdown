@@ -30,8 +30,6 @@ comments:
     to know that how is the job market for a PHD of computer vision? which skills
     are required?\r\nand is it easy to find a job with a PHD of Computer vision?\r\nthanks"
 ---
-Hi,
-
 Here is something I wanted to do for a long time.
 
 Some time ago, I left France to go international. Since my 6 internship in The Hague, English had become a need and I absolutely wanted to work abroad.

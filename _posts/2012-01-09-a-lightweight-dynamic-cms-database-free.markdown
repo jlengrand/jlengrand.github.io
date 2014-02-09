@@ -76,12 +76,15 @@ The installation is way simple :
 <ul>
 	<li><a title="pluxml latest" href="http://www.pluxml.org/" target="_blank">Simply download the last version of Pluxml here</a>, and unzip it in the desired folder of your server.</li>
 </ul>
+
+Main install page of pluxml
+
 <div>
 
-[caption id="attachment_495" align="aligncenter" width="584" caption="main install page of pluxml"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/install.jpeg"><img class="size-large wp-image-495" title="install of pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/install-1024x616.jpg" alt="main install page of pluxml" width="584" height="351" /></a>[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/install.jpeg"><img class="size-large wp-image-495" title="install of pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/install-1024x616.jpg" alt="main install page of pluxml" width="584" height="351" /></a>
 
 </div>
-<div></div>
+
 <ul>
 	<li>Connect to the main page of your website. You will be answered to set up the CMS.</li>
 	<li>Simply click on install if all dependencies you need are installed. Note that you can choose the language you want to use. Immediately, you will be redirected to the main page of your website.</li>
@@ -90,15 +93,16 @@ The installation is way simple :
 <strong>Your website is now ready for use !</strong>
 You can change most of the settings, write articles and handle comments in the admin menu :
 
-[caption id="attachment_496" align="aligncenter" width="584" caption="some admin settings of Pluxml"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_settings.jpeg"><img class="size-large wp-image-496" title="admin settings of Pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_settings-1024x618.jpg" alt="some admin settings of Pluxml" width="584" height="352" /></a>[/caption]
+Some admin settings of Pluxml
+
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_settings.jpeg"><img class="size-large wp-image-496" title="admin settings of Pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_settings-1024x618.jpg" alt="some admin settings of Pluxml" width="584" height="352" /></a>
 
 The system to add <strong>plugins</strong> is similar to most of CMS, <a title="plugins page pluxml" href="http://www.pluxml.org/?static7/download  " target="_blank">download it on the dedicated page</a>, dowload it in the plugin folder of pluxml and enable it in the admin menu :
 
-[caption id="attachment_497" align="aligncenter" width="584" caption="plugin activation in pluxml"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_plugins.jpeg"><img class="size-large wp-image-497" title="plugin activation in pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_plugins-1024x612.jpg" alt="plugin activation in pluxml" width="584" height="349" /></a>[/caption]
+Plugin activation in pluxml
 
-&nbsp;
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_plugins.jpeg"><img class="size-large wp-image-497" title="plugin activation in pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_plugins-1024x612.jpg" alt="plugin activation in pluxml" width="584" height="349" /></a>
 
-&nbsp;
 
 Lots of <strong>themes</strong> have been created by the community. <strong><a title="pluxml themes" href="http://ressources.pluxml.org/" target="_blank">They can be downlodaded here</a></strong>. To install a theme, dowload the source, unzip it and dowload it to the themes folder of pluxml's root. Finally, choose it in the admin menu (section "display settings").
 <em>Final tip :</em> Most of your information are stored in the parametres.xml file available in the data/configuration folder.

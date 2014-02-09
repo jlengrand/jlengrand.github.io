@@ -76,7 +76,9 @@ After this operation, 28.1 MB disk space will be freed.Do you want to continue [
 	<li>Finally, you simply have to<strong> reinstall all previously removed packages</strong> (which depends on your system).</li>
 </ul>
 <div>
-<div>{% highlight bash %}
+<div>
+
+{% highlight bash %}
 [jlengrand@ubuntu:~/downloads/OpenCV-2.3.1/release]$sudo apt-get install gstreamer0.10-plugins-good libgstfarsight0.10-0 libpurple-bin libpurple0 libv4l-0 libv4l-dev pidgin vlc vlc-nox vlc-plugin-notify vlc-plugin-pulse
 {% endhighlight %}
 
@@ -84,4 +86,4 @@ After this operation, 28.1 MB disk space will be freed.Do you want to continue [
 </div>
 </div>
 </div>
-<div>There it is, the library is successfully <strong>installed</strong>, you may use it as you wish ;).</div><!--:-->
+<div>There it is, the library is successfully <strong>installed</strong>, you may use it as you wish ;).</div>

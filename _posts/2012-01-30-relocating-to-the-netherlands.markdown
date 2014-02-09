@@ -49,7 +49,7 @@ Hi all,
 
 <strong>Long time no see !</strong>
 I stayed silent those last days for the simple reason that I relocated to the Netherlands.
-Two years ago, I spent some months working at <strong><a title="TNO website" href="http://www.tno.nl/index.cfm?Taal=2" target="_blank">TNO </a></strong>in underwater mine recognition. The internship took place in <a title="The Hague wiki" href="http://en.wikipedia.org/wiki/The_Hague" target="_blank">The Hague</a> and I discovered how fascinating life could be outside of your native country.I should write more soon about<a title="ECUA ATR" href="http://dl.dropbox.com/u/4286043/215.pdf" target="_blank"> the results of this project</a>:).
+Two years ago, I spent some months working at <strong><a title="TNO website" href="http://www.tno.nl/index.cfm?Taal=2" target="_blank">TNO</a></strong> in underwater mine recognition. The internship took place in <a title="The Hague wiki" href="http://en.wikipedia.org/wiki/The_Hague" target="_blank">The Hague</a> and I discovered how fascinating life could be outside of your native country.I should write more soon about <a title="ECUA ATR" href="http://dl.dropbox.com/u/4286043/215.pdf" target="_blank">the results of this project</a>:).
 
 Back in France, I realized that each day I was missing international life more and more and my girlfriend and me finally took the decision to relocate abroad as soon as possible
 
@@ -58,7 +58,7 @@ Now that I 'm somehow installed and currently searching for a new Position in th
 
 Those days without official job is an excellent oportunity to finally get on with some of the items that lie on my TODO list for months :). Here are some new goals for the coming weeks :
 <ul>
-	<li>Start a project using<a title="Google App Engine" href="http://code.google.com/appengine/" target="_blank"> Google App Engine</a> (Python side, of course). My idea is to create a Job Dashboard using the power of Google's tools.</li>
+	<li>Start a project using <a title="Google App Engine" href="http://code.google.com/appengine/" target="_blank">Google App Engine</a> (Python side, of course). My idea is to create a Job Dashboard using the power of Google's tools.</li>
 	<li>Set up a complete productive environment. I kept reading about <a title="agile development" href="http://en.wikipedia.org/wiki/Agile_software_development" target="_blank">productivity in software </a>those months, and I have some posts to write about :).</li>
 	<li>Contribute to the Open Source software in pushing<strong> at least one patch.</strong></li>
 	<li>Get back to jogging and push ups , and start learning dutch . . .</li>

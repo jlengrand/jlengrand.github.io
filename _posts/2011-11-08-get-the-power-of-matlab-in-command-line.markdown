@@ -22,22 +22,27 @@ comments: []
 Hi all,
 
 I got a small hint for you if you use <strong><a title="matlab" href="http://www.mathworks.fr/" target="_blank">Matlab</a></strong> on a daily basis but still love your command line!
-<h3></h3>
+
 <div id="post-body-872517502060080737">
 
 I am really not a <a title="IDE" href="http://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank">IDE</a> kinda guy and always try to avoid using a huge interface when an editor is enough. Personally,  I haven't found a more powerful tool than the <strong>emacs/terminal</strong> combination yet.
 
 In addition, the Matlab interface is fully coded in Java and is way too much ram-consuming imho. So I decided to get rid of it! Simply run
 
-[matlab]
+{% highlight matlab %}
+
 $ matlab -nojvm -r script //run without implying the jvm
-[/matlab]
+
+{% endhighlight %}
 
 or
 
-[matlab]
+{% highlight matlab %}
+
 $ matlab -nodisplay -nosplash -nodesktop -r script
-[/matlab]
+
+{% endhighlight %}
+
 
 The result is a Matlab command line interface. You will simply have to use your favourite editor to create your scripts, and then run them using the command line.
 

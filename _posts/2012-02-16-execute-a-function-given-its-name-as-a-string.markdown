@@ -33,13 +33,13 @@ And here came the issue : I would have <strong>the name of the binary as a strin
 Well, this could be a problem in C; but I was in Lua . . . Magic trick !
 Problem solved in 3 simple lines of code :
 
-[php]
+{% highlight php %}
 
 post_func = loadstring("param = printf(\"Hello ! \")")
 post_func()
 appli_repo = os.execute(param)
 
-[/php]
+{% endhighlight %}
 
 if I want to execute param.
 

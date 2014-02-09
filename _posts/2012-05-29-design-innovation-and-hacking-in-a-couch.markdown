@@ -210,7 +210,7 @@ I am a <strong>huge</strong> fan, at a point that most of the times I need anyth
 <div>In the middle of the huge list of items, there was <strong><a title="manstad" href="http://www.ikea.com/ca/fr/catalog/products/90198978/?query=manstad" target="_blank">this corner couch</a>.</strong></div>
 <div>
 
-[caption id="" align="aligncenter" width="500" caption="Awesome Ikea couch"]<img title="Manstad Couch" src="http://www.ikea.com/ca/fr/images/products/manstad-canape-lit-dangle-avec-rangement__75652_PE194140_S4.jpg" alt="the perfect ikea couch" width="500" height="500" />[/caption]
+<img title="Manstad Couch" src="http://www.ikea.com/ca/fr/images/products/manstad-canape-lit-dangle-avec-rangement__75652_PE194140_S4.jpg" alt="the perfect ikea couch" width="500" height="500" />
 
 </div>
 <div></div>
@@ -224,17 +224,18 @@ I am a <strong>huge</strong> fan, at a point that most of the times I need anyth
 	<li>It ships into 3 packages, each <strong>exactly fitting into a 4 people (french) car</strong>. No need to be delivered if you are a bit patient and agree to do it in three rows.</li>
 </ul>
 </div>
-<div></div>
-<div></div>
+
+My ikea couch in a normal state
 <div>
 
-[caption id="attachment_609" align="aligncenter" width="640" caption="My ikea couch in a normal state"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.00.31.jpg"><img class="size-full wp-image-609" title="My Manstad " src="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.00.31.jpg" alt="my ikea couch" width="640" height="480" /></a>[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.00.31.jpg"><img class="size-full wp-image-609" title="My Manstad " src="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.00.31.jpg" alt="my ikea couch" width="640" height="480" /></a>
 
 </div>
-<div></div>
+
+Same Ikea couch, ready to receive!
 <div>
 
-[caption id="attachment_610" align="aligncenter" width="640" caption="Same Ikea couch, ready to receive!"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.01.17.jpg"><img class="size-full wp-image-610" title="Ikea couch, deployed" src="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.01.17.jpg" alt="Ikea couch deployed" width="640" height="480" /></a>[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.01.17.jpg"><img class="size-full wp-image-610" title="Ikea couch, deployed" src="http://www.lengrand.fr/wp-content/uploads/2012/05/2012-05-28-21.01.17.jpg" alt="Ikea couch deployed" width="640" height="480" /></a>
 
 </div>
 <div>The couch is really smooth, the trunk really huge and the bed awesome (no "ouch my back hurts like hell!" when getting up in the morning). I even had my 70 year old grand-parents and then slept like babies.</div>
@@ -248,7 +249,7 @@ I am a <strong>huge</strong> fan, at a point that most of the times I need anyth
 <div>Where in the first version of the couch you had to choose where you want your chaise, everything is now symmetrical, and you choose where to place it <strong>as you build the furniture</strong>.</div>
 <div>
 
-[caption id="attachment_611" align="aligncenter" width="537" caption="Each page of the manual shows both chaise positions"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/05/symetrical.png"><img class="size-full wp-image-611" title="Ikea Manstad is now symmetrical" src="http://www.lengrand.fr/wp-content/uploads/2012/05/symetrical.png" alt="picture of the couch manual" width="537" height="755" /></a>[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/05/symetrical.png"><img class="size-full wp-image-611" title="Ikea Manstad is now symmetrical" src="http://www.lengrand.fr/wp-content/uploads/2012/05/symetrical.png" alt="picture of the couch manual" width="537" height="755" /></a>
 
 </div>
 <div><strong> What does it mean for Ikea ?</strong></div>
