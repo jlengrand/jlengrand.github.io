@@ -91,7 +91,7 @@ The background color method is needed to avoid the ugly white background behind 
 
 And here is the layout file :
 
-[xml]
+{% highlight xml %}
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -108,7 +108,7 @@ And here is the layout file :
         android:layout_height="fill_parent"/>
 
 </RelativeLayout>
-[/xml]
+{% endhighlight %}
 
 I used fill_parent because I wanted to give as much space as possible to the Webview.
 

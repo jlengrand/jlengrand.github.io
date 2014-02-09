@@ -101,11 +101,11 @@ Problem is, it is not. never. Ever. . .
 
 After having verified hundred times that I had
 
-[xml]
+{% highlight xml %}
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-[/xml]
+{% endhighlight %}
 
 correctly defined in my manifest, and that yes, other GPS based apps were working fine on my phone; I finally found the solution.
 
