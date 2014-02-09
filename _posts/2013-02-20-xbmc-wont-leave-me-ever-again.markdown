@@ -43,6 +43,6 @@ When adding movies to the library, <strong>xbmc</strong> will automatically down
 <p style="text-align: justify;">And as a bonus, here are some pictures to convert you too :)</p>
 
 
-[caption id="attachment_835" align="aligncenter" width="584"]<a href="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.16.28.jpg"><img class="size-large wp-image-835" alt="XBMC movie library" src="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.16.28-1024x768.jpg" width="584" height="438" /></a> XBMC movie library, all pictures downloaded automatically[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.16.28.jpg"><img class="size-large wp-image-835" alt="XBMC movie library" src="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.16.28-1024x768.jpg" width="584" height="438" /></a>
 
-[caption id="attachment_836" align="aligncenter" width="584"]<a href="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.17.21.jpg"><img class="size-large wp-image-836" alt="XBMC main screen" src="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.17.21-1024x768.jpg" width="584" height="438" /></a> XBMC main screen, awesome isn't it?[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.17.21.jpg"><img class="size-large wp-image-836" alt="XBMC main screen" src="http://www.lengrand.fr/wp-content/uploads/2013/02/2013-02-20-14.17.21-1024x768.jpg" width="584" height="438" /></a>

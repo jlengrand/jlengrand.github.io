@@ -31,7 +31,7 @@ More lately, my<strong><a title="brestram" href="https://play.google.com/store/s
 
 Those last weeks, I have been working on <a title="spo2tu.be" href="http://spo2tu.be/" target="_blank"><strong>spo2tu.be</strong></a>, a simple <strong>spotify to youtube converter</strong> and could finally release it this week end. So I can officially say that I also created my first web app!
 <h2>The concept is really simple:</h2>
-<a title="spotify" href="spotify.com" target="_blank">Spotify </a>users can share songs via facebook. But I hate facebook, and I hate the facebook integration in other parties even more.
+<a title="spotify" href="spotify.com" target="_blank">Spotify</a> users can share songs via facebook. But I hate facebook, and I hate the facebook integration in other parties even more.
 
 The other aternative is a http link. Thing is <strong>this link is only playable for spotify customers</strong>. And this is boring!
 
