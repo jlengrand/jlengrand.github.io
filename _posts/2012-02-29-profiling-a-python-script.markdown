@@ -27,9 +27,9 @@ The main common option would be to use the <a title="profile" href="http://docs.
 <ul>
 	<li>As a module, by directly running</li>
 </ul>
-<div>[python]
+<div>{% highlight python %}
 python -m cProfile script.py
-[/python]
+{% endhighlight %}
 
 </div>
 <div></div>
@@ -37,20 +37,20 @@ python -m cProfile script.py
 <ul>
 	<li>In your code, by importing the utilities</li>
 </ul>
-<div>[python]
+<div>{% highlight python %}
 import cProfile
 cProfile.run('function()') # in your __main__
-[/python]
+{% endhighlight %}
 
 <em>Bonus : You can use several options for sorting results using the -s switch (cumulative/name/time/file sorting are available).</em>
 <h1><strong>SOLUTION 2:</strong></h1>
 If you want to avoid using a command line, or you don't have the profile module installed; here os another possibility. There is also the <strong><a title="timeit module" href="http://docs.python.org/library/timeit.html" target="_blank">timeit </a></strong>module available.
 
-[python]
+{% highlight python %}
 import timeit
 t1 = timeit.Timer("function()", "from __main__ import function")
 print t1.timeit(1)
-[/python]
+{% endhighlight %}
 
 I use this option on Eclipse because I didn't want to install the profile module on Windows.
 

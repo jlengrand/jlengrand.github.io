@@ -54,7 +54,7 @@ Let's say I want to create a (dum) function calculating the square value of a 
 <ul>
 	<li>First, here is the corresponding (still dum :p) function in file dum_function.py :</li>
 </ul>
-[python]
+{% highlight python %}
 def square_value(a):
     """
     Returns the square value of a.
@@ -65,11 +65,11 @@ def square_value(a):
         raise TypeError("Input should be a string:")
 
     return out
-[/python]
+{% endhighlight %}
 <ul>
 	<li>Here is the test to be performed (only this test is inserted):</li>
 </ul>
-[python]
+{% highlight python %}
 import dum_function as df # import function module
 import unittest
 class Test(unittest.TestCase):
@@ -95,11 +95,11 @@ class Test(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-[/python]
+{% endhighlight %}
 <ul>
 	<li>We are now ready to test our function! Here is what happens when trying to run the test :</li>
 </ul>
-[python]
+{% highlight python %}
 ======================================================================
 ERROR: test_square_value (__main__.Test)
 ----------------------------------------------------------------------
@@ -114,26 +114,26 @@ TypeError: Input should be a string:
 Ran 1 test in 0.000s
 
 FAILED (errors=1)
-[/python]
+{% endhighlight %}
 
 The <strong>TypeError</strong> is actullay raised, and generates a test failure. The problem is that this is <strong>exactly the behavior</strong> we wanted :s.
 
 To avoid this error, simply run the function using lambda in the test call :
 
-[python]
+{% highlight python %}
 
 self.assertRaises(TypeError, lambda: df.square_value(self.false_int))
 
-[/python]
+{% endhighlight %}
 
 The final output :
 
-[python]
+{% highlight python %}
 ----------------------------------------------------------------------
 Ran 1 test in 0.000s
 
 OK
-[/python]
+{% endhighlight %}
 
 Perfect !
 

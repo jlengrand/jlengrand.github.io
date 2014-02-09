@@ -202,7 +202,7 @@ Due to the method itself, <strong>only grayscale images</strong> may be processe
 <div class="mceTemp" style="text-align: center;"><dl id="attachment_320" class="wp-caption alignnone" style="width: 639px;"><dt class="wp-caption-dt"><a href="http://www.lengrand.fr/wp-content/uploads/2011/11/region_growing.jpg"><img class="size-full wp-image-320" title="region growing tests with a gnu" src="http://www.lengrand.fr/wp-content/uploads/2011/11/region_growing.jpg" alt="region growing tests with a gnu" width="629" height="285" /></a></dt><dd class="wp-caption-dd">Here is the input image, the image with the seed point placed, and the final result!</dd></dl></div>
 Here is the region growing function implemented in Tippy:
 
-[python]
+{% highlight python %}
 import sys
 import cv
 import numpy
@@ -289,12 +289,12 @@ def simple_region_growing(img, seed, threshold=1):
         del contour_val[index]
 
     return reg
-[/python]
+{% endhighlight %}
 
 Here is a <strong>simple test</strong> of the function, using Tippy functions. If you only want to use the function, juste remove the tippy stuff and copy the function in your source.
 Please note than <strong><a title="Compiling OpenCV for Linux (Debian)" href="http://www.lengrand.fr/2011/11/compiling-opencv-for-linux-debian/" target="_blank">OpenCV</a></strong> is needed for the function to work ;)
 
-[python]
+{% highlight python %}
 import cv
 
 import tippy.segmentations as se
@@ -315,7 +315,7 @@ else:
 out_img = se.simple_region_growing(img, seed, threshold)
 
 do.display_single_image(out_img, "Region Growing result")
-[/python]
+{% endhighlight %}
 
 As you can see, the implementation is rather short in code.
 An option has been included to let user interactively choose their seed.

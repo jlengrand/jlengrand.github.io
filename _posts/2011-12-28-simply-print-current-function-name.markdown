@@ -26,7 +26,7 @@ Hopefully, Python offers a simple (but curious) way to perform this.
 
 Here is how to <strong>print your function name as a string</strong> in Python :
 
-[python]
+{% highlight python %}
 import sys
 
 def tutut():
@@ -37,7 +37,7 @@ def tutut():
 
 if __name__ == '__main__':
     tutut()
-[/python]
+{% endhighlight %}
 
 And here is the result
 

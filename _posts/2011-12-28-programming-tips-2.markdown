@@ -457,13 +457,13 @@ echo ${FOLDER%/}
 <h1>PYTHON</h1>
 <span style="color: #ff9900;">Get variable name as a string:</span>
 
-[python]
+{% highlight python %}
 
 blah = 1
 
 blah_name = [ k for k , v in locals (). iteritems () if v is blah ][ 0 ]
 
-[/python]
+{% endhighlight %}
 
 <span style="text-decoration: underline;"> WARNING</span> : Not very clever however, as variables in Python may have more that one name ! Use with caution!
 
@@ -471,7 +471,7 @@ blah_name = [ k for k , v in locals (). iteritems () if v is blah ][ 0 ]
 
 <span style="color: #ff9900;">Replace a part of a table [Numpy]:</span>
 
-[python]
+{% highlight python %}
 
 small_BW=where((L[temp[ptr-1]]==ptr),1,0)
 
@@ -479,7 +479,7 @@ a=BW[posi_0:posi_1,posi_2:posi_3]
 
 a[:,:]=small_BW.copy()
 
-[/python]
+{% endhighlight %}
 
 <hr />
 
@@ -487,31 +487,31 @@ a[:,:]=small_BW.copy()
 
 Put -1 as second argument, the info will automatically be processed.
 
-[python]
+{% highlight python %}
 
 array.reshape(3,-1)
 
-[/python]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Concatenate 2 tables [Numpy]: </span>
 
-[python]
+{% highlight python %}
 
 c=numpy.concatenate((a,b),axis=0)
 
-[/python]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Cast data in table to int:</span>
 
-[python]
+{% highlight python %}
 
 Ndarray.astype(int)
 
-[/python]
+{% endhighlight %}
 
 <hr />
 
@@ -519,39 +519,39 @@ Ndarray.astype(int)
 
 Use <strong>add</strong> mode :
 
-[python]
+{% highlight python %}
 
 file.open(file_name, 'a')
 
-[/python]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Test if variable exists:</span>
 
-[python]
+{% highlight python %}
 try:
     print variable
 except NameError:
     print "Error!"
-[/python]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Check if variable is one of several choices:</span>
 
-[python]
+{% highlight python %}
 if a in [b, c,d]:
     blabla
-[/python]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Multi instanciation in Python:</span>
 
-[python]
+{% highlight python %}
 a = b = c = 1+1
-[/python]
+{% endhighlight %}
 
 <span style="text-decoration: underline;">WARNING</span>: Those three variables are the same object!
 
@@ -559,7 +559,7 @@ a = b = c = 1+1
 
 <span style="color: #ff9900;">Print function name :</span>
 
-[python]
+{% highlight python %}
 import sys
 
 def tutut():
@@ -570,7 +570,7 @@ def tutut():
 
 if __name__ == '__main__':
     tutut()
-[/python]
+{% endhighlight %}
 
 And here is the result
 

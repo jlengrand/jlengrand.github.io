@@ -73,7 +73,7 @@ Basically, the following example will be perfect for applications in which<stron
 
 Here is a simple multiprocessing example, coming from the <a title="python doc" href="http://www.python.org/doc/">Python documentation</a>:
 
-[python]
+{% highlight python %}
 
 from multiprocessing import Process
 
@@ -85,7 +85,7 @@ if __name__ == '__main__':
     p.start()
     p.join()
 
-[/python]
+{% endhighlight %}
 
 This example creates a <strong>process</strong>, performing the <strong>f</strong> function. The first line indicates the function to be run and its arguments. The second line (<strong>start) </strong>starts the processus.
 
@@ -93,7 +93,7 @@ Finally, the <strong>join</strong> keyword waits for the function to finish prop
 
 Creating two processes now appears to be pretty simple :
 
-[python]
+{% highlight python %}
 
 from multiprocessing import Process
 
@@ -110,17 +110,17 @@ if __name__ == '__main__':
 
     print('Exiting!)
 
-[/python]
+{% endhighlight %}
 
 In  this second example, the <strong>print </strong>will be performed only when <strong>p1</strong> and <strong>p2</strong> have been killed.
 
 In order to enhance you productivity, a simple idea is to create as much processes as the <strong>number of cores in your computer</strong>. Once again, Python has already made the work for you.
 
-[python]
+{% highlight python %}
 
 nb_processes = multiprocessing.cpu_count()
 
-[/python]
+{% endhighlight %}
 
 Here it is, Your application should now run slightly faster !
 

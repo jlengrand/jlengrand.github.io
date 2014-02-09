@@ -24,7 +24,7 @@ You may encounter this error when using <a title="opencv" href="http://opencv.w
 
 Here is an example :
 
-[python]
+{% highlight python %}
 #!/usr/bin/env python
 
 import cv
@@ -33,22 +33,22 @@ img = cv.LoadImage("test.jpg")
 dims = cv.GetSize(img)
 roi = [0, 0, dims[0] / 2, dims[1] / 2 ]
 cv.SetImageROI(img, roi)
-[/python]
+{% endhighlight %}
 
 You will get this result:
 
-[python]
+{% highlight python %}
 Traceback (most recent call last):
   File "newfile.py", line 8, in <module>
     cv.SetImageROI(img, roi)
 TypeError: CvRect argument 'rect' expects four integers
-[/python]
+{% endhighlight %}
 
 The answer is pretty simple, you have to set rect as a <strong>tuple </strong>and not a list<strong>:</strong>
 
-[python]
+{% highlight python %}
 roi = (0, 0, dims[0] / 2, dims[1] / 2 )
-[/python]
+{% endhighlight %}
 
 There it is, pretty simple, isn't?!
 

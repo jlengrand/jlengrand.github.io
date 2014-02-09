@@ -41,7 +41,7 @@ $ docfinder folder extension
 
 So here is the code :
 
-[python]
+{% highlight python %}
 #!/usr/bin/python
 #_*_ coding: ISO-8859-15 _*_
 import os
@@ -56,7 +56,7 @@ def scan_rep(repertoir, extension):
                 print '%s '%\(nom_complet)
 if __name__=='__main__':
     scan_rep(sys.argv[1],sys.argv[2])
-[/python]
+{% endhighlight %}
 
 Pretty lame, isn't it ? :)
 
