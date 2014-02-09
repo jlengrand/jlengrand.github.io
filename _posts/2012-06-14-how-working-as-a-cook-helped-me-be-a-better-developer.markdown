@@ -73,15 +73,19 @@ You find yourself with 2 minuts free to help your collegue in the kitchen? <stro
 
 The same rule applies for software development : Let's write some dirty code, I'll clean it afterwards . . . Bad idea! When I write dirty code <a title="good developers bad code" href="http://taylonr.com/only-good-developers-write-bad-code" target="_blank">(everyone does, isn't it?)</a>, I always constraint it in a method and don't let it spread everywhere ! And <strong>if my collegue is struggling with deadlines, I try to help him by cleaning up</strong> all those elements that he hasn't time enough to perfect. Doesn't take much time to get into it (as it is constraint), and it will definitely help him work faster.
 
-&nbsp;
+Which one . . .
+
 <div>
 
-[caption id="attachment_675" align="alignleft" width="600" caption="Which one . . ."]<a href="http://www.lengrand.fr/wp-content/uploads/2012/06/Kitchen-mess.jpg"><img class=" wp-image-675  " title="Kitchen-mess" src="http://www.lengrand.fr/wp-content/uploads/2012/06/Kitchen-mess.jpg" alt="mess in the kitchen" width="600" height="448" /></a>[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/06/Kitchen-mess.jpg"><img class=" wp-image-675  " title="Kitchen-mess" src="http://www.lengrand.fr/wp-content/uploads/2012/06/Kitchen-mess.jpg" alt="mess in the kitchen" width="600" height="448" /></a>
 
 </div>
+
+Do you prefer?
+
 <div>
 
-[caption id="attachment_676" align="alignright" width="600" caption=". . . do I prefer ?"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/06/clean-kitchen.jpg"><img class=" wp-image-676  " title="clean kitchen" src="http://www.lengrand.fr/wp-content/uploads/2012/06/clean-kitchen.jpg" alt="clean kitchen" width="600" height="448" /></a>[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/06/clean-kitchen.jpg"><img class=" wp-image-676  " title="clean kitchen" src="http://www.lengrand.fr/wp-content/uploads/2012/06/clean-kitchen.jpg" alt="clean kitchen" width="600" height="448" /></a>
 
 </div>
 <div></div>
@@ -91,7 +95,7 @@ As a cook, part of my job was to operate a factory restaurant. I would be alone 
 
 Customer contact is a fuel that keeps you motivated, and make you give the best of yourself every day. What reward is better than a smile on someone's face after you spent the whole morning preparing him lunch ?
 
-Of course, with cooking even more than with software customer contact also means that if you screw up there is nowhere to hide (especially when you have a plate in your hand :)). I had forgotten about that feeling until some days ago, when<strong><a title="facemovie" href="http://jlengrand.github.com/FaceMovie/" target="_blank"> Ignacio contacted me about FaceMovie</a>.</strong> It gave me a great push of motivation. <strong><a title="first customers" href="http://leostartsup.com/2012/06/the-first-people-using-your-product-are-an-amazing-breed/" target="_blank">Customer contact is really the best fuel on Earth !</a></strong>
+Of course, with cooking even more than with software customer contact also means that if you screw up there is nowhere to hide (especially when you have a plate in your hand :)). I had forgotten about that feeling until some days ago, when <strong><a title="facemovie" href="http://jlengrand.github.com/FaceMovie/" target="_blank">Ignacio contacted me about FaceMovie</a>.</strong> It gave me a great push of motivation. <strong><a title="first customers" href="http://leostartsup.com/2012/06/the-first-people-using-your-product-are-an-amazing-breed/" target="_blank">Customer contact is really the best fuel on Earth !</a></strong>
 
 <em>One last thing though</em> : As cool as customers can be, never forget that you have to make money from them! At the very beginning, I had a tendancy to please them as much as possible, reducing my margin as a side-effect. . . Not a really good idea in the long run.
 <div></div>
@@ -103,8 +107,7 @@ They would not know how to copy-paste, would fill up an excel sheet while doing 
 I think this effect tends to disappear (in fact my boss was pretty good at creating macros), but it still true though.
 
 This can be a good point for you, as long as you take this into account when talking to your customers. And this also means that user experience is really the main key to enter those niches.
-<div></div>
-<div></div>
+
 <h1><strong>Bonus :</strong></h1>
 As I said, being a cook also helped me get my last Job. <strong>More people that you think are really into food</strong>, and this is one of the reasons I like to keep this experience in my resume.
 
@@ -120,9 +123,7 @@ Cooking is a social experience that definitely tie relationships; and it also sh
 
 I found the idea excellent, clever and elegant at the same time. It amazed me !
 
-&nbsp;
-
-<strong>Needless to say today won't be the day where I remove the word cook<a title="resume advices" href="http://lbrandy.com/blog/2009/01/resume-advice-for-software-engineering-new-grads-interns/" target="_blank"> from my CV</a> !</strong>
+<strong>Needless to say today won't be the day where I remove the word cook <a title="resume advices" href="http://lbrandy.com/blog/2009/01/resume-advice-for-software-engineering-new-grads-interns/" target="_blank">from my CV</a> !</strong>
 
 <em>And you, what past experience makes you a better developer ? </em><em>Do you love cooking, how do you feel yourself in a kitchen ? </em>
 

@@ -41,7 +41,7 @@ Originally, I developed my GUI in pyGTK and was running it under Linux. But the 
 
 <strong>So I redeveloped a new interface from scratch, this time using wxPython.</strong> Here is what it looks like right now :
 
-[caption id="attachment_731" align="aligncenter" width="337"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/08/ivolution_29_08.png"><img class=" wp-image-731 " title="ivolution_29_08" src="http://www.lengrand.fr/wp-content/uploads/2012/08/ivolution_29_08.png" alt="New gui of ivolution" width="337" height="391" /></a> New version of ivolution interface[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/08/ivolution_29_08.png"><img class=" wp-image-731 " title="ivolution_29_08" src="http://www.lengrand.fr/wp-content/uploads/2012/08/ivolution_29_08.png" alt="New gui of ivolution" width="337" height="391" /></a>
 
 It is still really raw, and some of the menus are not implemented yet. But I find it <strong>way simpler and catchy</strong> than the old one.
 <ul>

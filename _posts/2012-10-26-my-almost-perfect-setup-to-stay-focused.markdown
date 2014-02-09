@@ -346,5 +346,4 @@ I usually finish the week with an average<strong> 70% productivity</strong>, whi
 <div></div>
 <div></div>
 <div><strong>I'd love to hear about the tools you use to stay focused. Especially how you force yourself into having enough sleep. I must say this is the part is still struggle with :). </strong></div>
-<div></div>
-<div><a title="stay focused sand" href="http://www.asla-socal.org/2012/02/stay-focused%E2%80%94the-more-successful-you-become-the-more-distractions-will-appear/" target="_blank">[source language="image"][/source]</a></div>
+

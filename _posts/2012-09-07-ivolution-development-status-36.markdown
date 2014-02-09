@@ -56,7 +56,8 @@ I especially struggled finding solutions for the uninstall script to be reliable
 
 But I am proud to say that the Ivolution now can be properly installed on a Windows machine, and the user is even given pretty shortcuts ! To create this installer I used <strong><a title="NSIS" href="http://www.winamp.com/" target="_blank">NSIS</a></strong>, a tool created by the developers of <strong><a title="winamp" href="http://www.winamp.com/" target="_blank">Winamp</a> </strong>(amongst other great software). And I must say I was impressed how simple it was to get a simple working example. I definitely recommend using it !
 
-[caption id="attachment_748" align="aligncenter" width="763"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/09/00_ivolution_installer.png"><img class="size-full wp-image-748" title="00_ivolution_installer" src="http://www.lengrand.fr/wp-content/uploads/2012/09/00_ivolution_installer.png" alt="Ivolution windows installer" width="763" height="543" /></a> Ivolution windows installer, and desktop icon as a bonus ![/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/09/00_ivolution_installer.png"><img class="size-full wp-image-748" title="00_ivolution_installer" src="http://www.lengrand.fr/wp-content/uploads/2012/09/00_ivolution_installer.png" alt="Ivolution windows installer" width="763" height="543" /></a>
+
 <h3>My objectives for next week:</h3>
 <ul>
 	<li><strong>Write a proper documentation/manual.</strong></li>

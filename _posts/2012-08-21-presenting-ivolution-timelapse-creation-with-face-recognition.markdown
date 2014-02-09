@@ -36,9 +36,9 @@ Basically, it is an application that aims at helping you create videos of yourse
 <div></div>
 But as Napoleon once said :
 <blockquote>Un petit dessin vaut mieux qu'un long discours</blockquote>
-here is a demonstration of Ivolution capabilities.
+Here is a demonstration of Ivolution capabilities.
 
-http://www.youtube.com/watch?v=9ZpKnSjvmXo
+<iframe width="420" height="315" src="//www.youtube.com/embed/9ZpKnSjvmXo" frameborder="0" allowfullscreen></iframe>
 
 I have been working on it for dozens of hours now, and slowly see it taking shape. If I had a functional core for some weeks now, it is far from enough to get a nice product and much is still missing (nice interface, performance, documentation, easy installation, . . . ). And <a title="Job Space" href="http://www.lengrand.fr/job-space/" target="_blank">as a computer vision engineer</a>, it takes me a lot of time to implement all those elements !
 <div></div>
@@ -49,7 +49,7 @@ Hopefully, all this work is not lost! The perspective of a contest gave me a big
 <div></div>
 <div>
 
-[caption id="" align="aligncenter" width="294"]<a href="https://dl.dropbox.com/u/4286043/ivolution_gtk.png"><img title="Ivolution interface" src="https://dl.dropbox.com/u/4286043/ivolution_gtk.png" alt="" width="294" height="547" /></a> Ivolution interface[/caption]
+<a href="https://dl.dropbox.com/u/4286043/ivolution_gtk.png"><img title="Ivolution interface" src="https://dl.dropbox.com/u/4286043/ivolution_gtk.png" alt="" width="294" height="547" /></a>
 
 </div>
 <div></div>
