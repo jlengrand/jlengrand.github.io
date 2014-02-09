@@ -208,38 +208,38 @@ import cv
 import numpy
 
 def simple_region_growing(img, seed, threshold=1):
-    &quot;&quot;&quot;
+    """
     A (very) simple implementation of region growing.
     Extracts a region of the input image depending on a start position and a stop condition.
     The input should be a single channel 8 bits image and the seed a pixel position (x, y).
     The threshold corresponds to the difference between outside pixel intensity and mean intensity of region.
     In case no new pixel is found, the growing stops.
     Outputs a single channel 8 bits binary (0 or 255) image. Extracted region is highlighted in white.
-    &quot;&quot;&quot;
+    """
 
     try:
         dims = cv.GetSize(img)
     except TypeError:
-        raise TypeError(&quot;(%s) img : IplImage expected!&quot; % (sys._getframe().f_code.co_name))
+        raise TypeError("(%s) img : IplImage expected!" % (sys._getframe().f_code.co_name))
 
     # img test
     if not(img.depth == cv.IPL_DEPTH_8U):
-        raise TypeError(&quot;(%s) 8U image expected!&quot; % (sys._getframe().f_code.co_name))
+        raise TypeError("(%s) 8U image expected!" % (sys._getframe().f_code.co_name))
     elif not(img.nChannels is 1):
-        raise TypeError(&quot;(%s) 1C image expected!&quot; % (sys._getframe().f_code.co_name))
+        raise TypeError("(%s) 1C image expected!" % (sys._getframe().f_code.co_name))
     # threshold tests
     if (not isinstance(threshold, int)) :
-        raise TypeError(&quot;(%s) Int expected!&quot; % (sys._getframe().f_code.co_name))
-    elif threshold &lt; 0:
-        raise ValueError(&quot;(%s) Positive value expected!&quot; % (sys._getframe().f_code.co_name))
+        raise TypeError("(%s) Int expected!" % (sys._getframe().f_code.co_name))
+    elif threshold < 0:
+        raise ValueError("(%s) Positive value expected!" % (sys._getframe().f_code.co_name))
     # seed tests
     if not((isinstance(seed, tuple)) and (len(seed) is 2) ) :
-        raise TypeError(&quot;(%s) (x, y) variable expected!&quot; % (sys._getframe().f_code.co_name))
+        raise TypeError("(%s) (x, y) variable expected!" % (sys._getframe().f_code.co_name))
 
-    if (seed[0] or seed[1] ) &lt; 0 :
-        raise ValueError(&quot;(%s) Seed should have positive values!&quot; % (sys._getframe().f_code.co_name))
-    elif ((seed[0] &gt; dims[0]) or (seed[1] &gt; dims[1])):
-        raise ValueError(&quot;(%s) Seed values greater than img size!&quot; % (sys._getframe().f_code.co_name))
+    if (seed[0] or seed[1] ) < 0 :
+        raise ValueError("(%s) Seed should have positive values!" % (sys._getframe().f_code.co_name))
+    elif ((seed[0] > dims[0]) or (seed[1] > dims[1])):
+        raise ValueError("(%s) Seed values greater than img size!" % (sys._getframe().f_code.co_name))
 
     reg = cv.CreateImage( dims, cv.IPL_DEPTH_8U, 1)
     cv.Zero(reg)
@@ -257,14 +257,14 @@ def simple_region_growing(img, seed, threshold=1):
     cur_pix = [seed[0], seed[1]]
 
     #Spreading
-    while(dist&lt;threshold and size&lt;pix_area):
+    while(dist<threshold and size<pix_area):
     #adding pixels
         for j in range(4):
             #select new candidate
             temp_pix = [cur_pix[0] +orient[j][0], cur_pix[1] +orient[j][1]]
 
             #check if it belongs to the image
-            is_in_img = dims[0]&gt;temp_pix[0]&gt;0 and dims[1]&gt;temp_pix[1]&gt;0 #returns boolean
+            is_in_img = dims[0]>temp_pix[0]>0 and dims[1]>temp_pix[1]>0 #returns boolean
             #candidate is taken if not already selected before
             if (is_in_img and (reg[temp_pix[1], temp_pix[0]]==0)):
                 contour.append(temp_pix)
@@ -303,18 +303,18 @@ import tippy.display_operations as do
 
 user_input = 0
 
-img_name = &quot;tippy/data/gnu.jpg&quot;
+img_name = "tippy/data/gnu.jpg"
 threshold = 20
 img = cv.LoadImage(img_name, cv.CV_LOAD_IMAGE_GRAYSCALE)
 
 if user_input:
-    seed = bo.mouse_point(img, mode=&quot;S&quot;) # waits for user click to get seed
+    seed = bo.mouse_point(img, mode="S") # waits for user click to get seed
 else:
     seed = (70, 106)
 
 out_img = se.simple_region_growing(img, seed, threshold)
 
-do.display_single_image(out_img, &quot;Region Growing result&quot;)
+do.display_single_image(out_img, "Region Growing result")
 [/python]
 
 As you can see, the implementation is rather short in code.

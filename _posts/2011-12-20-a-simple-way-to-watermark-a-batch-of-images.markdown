@@ -43,7 +43,7 @@ As a bonus, the script automatically detects whether an image is in landscape or
 
 Here is an example of the result :
 
-[caption id="attachment_424" align="aligncenter" width="200" caption="picture of the &quot;jardin des plantes&quot; in Nantes"]<a href="http://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha.jpg"><img class="size-medium wp-image-424" title="Pourquoi le bitume?" src="http://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha-200x300.jpg" alt="picture of the &quot;jardin des plantes&quot; in Nantes" width="200" height="300" /></a>[/caption]
+[caption id="attachment_424" align="aligncenter" width="200" caption="picture of the "jardin des plantes" in Nantes"]<a href="http://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha.jpg"><img class="size-medium wp-image-424" title="Pourquoi le bitume?" src="http://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha-200x300.jpg" alt="picture of the "jardin des plantes" in Nantes" width="200" height="300" /></a>[/caption]
 
 This script is in an early stage for now, and should be upgraded with time. You can check out the <strong><a title="TODO list" href="https://github.com/jlengrand/batchWaterMarking">TODO list here. </a></strong>
 

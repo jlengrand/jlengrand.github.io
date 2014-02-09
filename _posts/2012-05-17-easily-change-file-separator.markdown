@@ -30,7 +30,7 @@ Simply open a console and run this line
 
 [bash]
 
-sed -e $&quot;s/,/\ /g&quot; myfile &gt; newfile
+sed -e $"s/,/\ /g" myfile > newfile
 
 [/bash]
 
@@ -38,7 +38,7 @@ or more generally,
 
 [bash]
 
-sed -e $&quot;s/old_separator/new_separator/g&quot; myfile &gt; newfile
+sed -e $"s/old_separator/new_separator/g" myfile > newfile
 
 [/bash]
 

@@ -48,7 +48,7 @@ If you want to avoid using a command line, or you don't have the profile module 
 
 [python]
 import timeit
-t1 = timeit.Timer(&quot;function()&quot;, &quot;from __main__ import function&quot;)
+t1 = timeit.Timer("function()", "from __main__ import function")
 print t1.timeit(1)
 [/python]
 

@@ -35,7 +35,7 @@ Problem solved in 3 simple lines of code :
 
 [php]
 
-post_func = loadstring(&quot;param = printf(\&quot;Hello ! \&quot;)&quot;)
+post_func = loadstring("param = printf(\"Hello ! \")")
 post_func()
 appli_repo = os.execute(param)
 

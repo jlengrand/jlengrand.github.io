@@ -135,7 +135,7 @@ The command to search for is<strong> start-stop-daemon</strong>, with start opti
 To avoid any output in stdout, use redirection:
 
 [bash]
-$ command &amp;&gt; /dev/null&amp;
+$ command &amp;> /dev/null&amp;
 [/bash]
 
 <hr />
@@ -166,7 +166,7 @@ Simply add the line
 
 [bash]
 
-trap &quot; 2 3
+trap " 2 3
 
 [/bash]
 
@@ -188,7 +188,7 @@ The operations can be performed with bc :
 
 [bash]
 
-$ VAR=$(echo &quot;2.2/ 10.65&quot; | bc -l)
+$ VAR=$(echo "2.2/ 10.65" | bc -l)
 
 [/bash]
 
@@ -206,7 +206,7 @@ $ (ceil) INT=${VAR/.*}
 
 [bash]
 
-$ &quot;find ./ -name .svn -prune -o -type f -print | xargs grep -Hi&quot; //pattern//
+$ "find ./ -name .svn -prune -o -type f -print | xargs grep -Hi" //pattern//
 
 [/bash]
 
@@ -239,7 +239,7 @@ Simply add a new line at the end of the file :
 
 [bash]
 
-alias_name = &quot;my_one_line_command&quot;
+alias_name = "my_one_line_command"
 
 [/bash]
 
@@ -251,7 +251,7 @@ Restart your terminal, you're done!
 
 [bash]
 
-$ date -d &quot;$FIRST_TIME&quot; +&quot;%s&quot;
+$ date -d "$FIRST_TIME" +"%s"
 
 [/bash]
 
@@ -261,7 +261,7 @@ $ date -d &quot;$FIRST_TIME&quot; +&quot;%s&quot;
 
 [bash]
 
-$ which //language// &gt; my_script
+$ which //language// > my_script
 
 [/bash]
 
@@ -269,7 +269,7 @@ $ which //language// &gt; my_script
 
 [bash]
 
-$ which bash &gt; my_script.sh
+$ which bash > my_script.sh
 
 [/bash]
 
@@ -291,7 +291,7 @@ $ file -i //unkown_file_type//
 
 $ cd //my_folder///
 
-$ find -name &quot;.svn&quot; -exec rm -rf {} \;
+$ find -name ".svn" -exec rm -rf {} \;
 
 [/bash]
 
@@ -407,7 +407,7 @@ in your <strong>.bashrc. </strong>It can be done simply in running the followin
 
 [bash]
 
-$ echo &quot;complete -cf sudo&quot; &gt; ~/.bashrc
+$ echo "complete -cf sudo" > ~/.bashrc
 
 [/bash]
 
@@ -533,7 +533,7 @@ file.open(file_name, 'a')
 try:
     print variable
 except NameError:
-    print &quot;Error!&quot;
+    print "Error!"
 [/python]
 
 <hr />
@@ -563,9 +563,9 @@ a = b = c = 1+1
 import sys
 
 def tutut():
-    &quot;&quot;&quot;
+    """
     Dum function displaying its name!
-    &quot;&quot;&quot;
+    """
     print sys._getframe().f_code.co_name
 
 if __name__ == '__main__':
@@ -613,13 +613,13 @@ with
 
 <span style="text-decoration: underline;">About variables</span> :
 <ul>
-	<li>age -&gt; value</li>
-	<li>&amp;age -&gt; pointer</li>
+	<li>age -> value</li>
+	<li>&amp;age -> pointer</li>
 </ul>
 <span style="text-decoration: underline;">About pointers</span> :
 <ul>
-	<li>ptr -&gt; ptr value(which is an address)</li>
-	<li>*ptr -&gt; variable value placed in the address.</li>
+	<li>ptr -> ptr value(which is an address)</li>
+	<li>*ptr -> variable value placed in the address.</li>
 </ul>
 <span style="text-decoration: underline;"> If <strong><em>age</em></strong> is a variable</span> :
 <ul>
@@ -645,7 +645,7 @@ int age = 10;
 
 <span style="color: #ff9900;">Those two are equivalent (used for structures):</span>
 <ul>
-	<li>a-&gt;b</li>
+	<li>a->b</li>
 	<li>*(a.b)</li>
 </ul>
 
@@ -796,7 +796,7 @@ Memos and Tips about the <strong><a title="External link to http://opencv.willow
 Can be used to naviguate through pixels easily (and more efficiently than some openCV functions).
 
 [c]
-char *pImage = iplImage-&gt;ImageData
+char *pImage = iplImage->ImageData
 [/c]
 
 <hr />
@@ -876,7 +876,7 @@ It should solve the problem.
 </ul>
 [bash]
 
-$ svn cp trunk -&gt; new_branch
+$ svn cp trunk -> new_branch
 
 [/bash]
 
@@ -958,7 +958,7 @@ $ sudo apt-get install gprof
 </ul>
 [bash]
 
-$ gprof your_binary gmon.out &gt;&gt; saved_report
+$ gprof your_binary gmon.out >> saved_report
 
 $ vim saved_report
 
@@ -988,7 +988,7 @@ Some very simple tips and hints for wordpress.
 
 <span style="color: #ff9900;">Insert an horizontal line in a post :</span>
 
-Simply insert the <strong>&lt;hr/&gt; tag</strong> while in <strong>html</strong> edition mode .
+Simply insert the <strong><hr/> tag</strong> while in <strong>html</strong> edition mode .
 
 <hr />
 
@@ -998,7 +998,7 @@ This is done in two different steps :
 <ul>
 	<li><strong>Define the anchor</strong>. You should place the following code where you want the user to be redirected.</li>
 </ul>
-[html]your article &lt;a name= &quot;name_of_the_anchor&quot;&gt;&lt;/a&gt; here.[/html]
+[html]your article <a name= "name_of_the_anchor"></a> here.[/html]
 
 
 <ul>
@@ -1006,11 +1006,11 @@ This is done in two different steps :
 </ul>
 
 <div><span style="text-decoration: underline;">If the anchor is placed in the same page :</span></div>
-[html]&lt;a href= »#name_of_the_anchor »&gt;my highlighted text&lt;/a&gt;[/html]
+[html]<a href= »#name_of_the_anchor »>my highlighted text</a>[/html]
 
 <div><span style="text-decoration: underline;">If the anchor is in another page :</span></div>
-[html]&lt;a href= »http://www.website.fr/#name_of_the_anchor »&gt;my highlighted text&lt;/a&gt;
-&lt;a href= »#name_of_the_anchor »&gt;my highlighted text&lt;/a&gt;
+[html]<a href= »http://www.website.fr/#name_of_the_anchor »>my highlighted text</a>
+<a href= »#name_of_the_anchor »>my highlighted text</a>
 [/html]
 
 <strong>You can see the result everywhere on this page, in the topic listing :).</strong>

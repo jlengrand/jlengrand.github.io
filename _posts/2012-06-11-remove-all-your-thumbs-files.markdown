@@ -33,7 +33,7 @@ So here is the magic solution to get rid of those parasites :
 
 [bash]
 
-$ sudo find any_folder -name &quot;Thumbs.db&quot; -exec rm {} \;
+$ sudo find any_folder -name "Thumbs.db" -exec rm {} \;
 
 [/bash]
 

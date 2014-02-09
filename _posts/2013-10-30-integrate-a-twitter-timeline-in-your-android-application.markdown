@@ -36,10 +36,11 @@ I started by creating a dedicated filter on the twitter account of BresTram.
 
 This gives me two lines of code to integrate into the website of my choice :
 
-[html]
-&lt;a class=&quot;twitter-timeline&quot; href=&quot;https://twitter.com/search?q=%23BresTram&quot; data-widget-id=&quot;394415351972114432&quot;&gt;Tweets about &quot;#BresTram&quot;&lt;/a&gt;
-&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&quot;://platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
-[/html]
+{% highlight html %}
+
+<a class="twitter-timeline" href="https://twitter.com/search?q=%23BresTram" data-widget-id="394415351972114432">Tweets about "#BresTram"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+{% endhighlight %}
 
 Then, I simply created a new Activity in my Application, that contains a webview.
 
@@ -51,12 +52,12 @@ import android.os.Bundle;
 import android.webkit.WebView;
 
 public class TimeLineActivity extends BaseActivity {
-    public static final String TAG = &quot;TimeLineActivity&quot;;
+    public static final String TAG = "TimeLineActivity";
 
-    private static final String baseURl = &quot;https://twitter.com&quot;;
+    private static final String baseURl = "https://twitter.com";
 
-    private static final String widgetInfo = &quot;&lt;a class=\&quot;twitter-timeline\&quot; href=\&quot;https://twitter.com/search?q=%23BresTram\&quot; data-widget-id=\&quot;394415351972114432\&quot;&gt;Tweets about \&quot;#BresTram\&quot;&lt;/a&gt; &quot; +
-            &quot;&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\&quot;://platform.twitter.com/widgets.js\&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,\&quot;script\&quot;,\&quot;twitter-wjs\&quot;);&lt;/script&gt;&quot;;
+    private static final String widgetInfo = "<a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23BresTram\" data-widget-id=\"394415351972114432\">Tweets about \"#BresTram\"</a> " +
+            "<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,7 +70,7 @@ public class TimeLineActivity extends BaseActivity {
         webView.getSettings().setDomStorageEnabled(true);
         webView.getSettings().setJavaScriptEnabled(true);
 
-        webView.loadDataWithBaseURL(baseURl, widgetInfo, &quot;text/html&quot;, &quot;UTF-8&quot;, null);
+        webView.loadDataWithBaseURL(baseURl, widgetInfo, "text/html", "UTF-8", null);
     }
 
     /**
@@ -91,22 +92,22 @@ The background color method is needed to avoid the ugly white background behind 
 And here is the layout file :
 
 [xml]
-&lt;RelativeLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
-    xmlns:tools=&quot;http://schemas.android.com/tools&quot;
-    android:layout_width=&quot;match_parent&quot;
-    android:layout_height=&quot;match_parent&quot;
-    android:paddingBottom=&quot;@dimen/activity_vertical_margin&quot;
-    android:paddingLeft=&quot;@dimen/activity_horizontal_margin&quot;
-    android:paddingRight=&quot;@dimen/activity_horizontal_margin&quot;
-    android:paddingTop=&quot;@dimen/activity_vertical_margin&quot;
-    tools:context=&quot;.TimeLineActivity&quot; &gt;
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".TimeLineActivity" >
 
-    &lt;WebView
-        android:id=&quot;@+id/timeline_webview&quot;
-        android:layout_width=&quot;fill_parent&quot;
-        android:layout_height=&quot;fill_parent&quot;/&gt;
+    <WebView
+        android:id="@+id/timeline_webview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
 
-&lt;/RelativeLayout&gt;
+</RelativeLayout>
 [/xml]
 
 I used fill_parent because I wanted to give as much space as possible to the Webview.

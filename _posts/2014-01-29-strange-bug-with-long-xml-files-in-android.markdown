@@ -32,73 +32,73 @@ I decided to go for XML, for all the reasons above, and also because android sup
 
 Here is how my update file would look like :
 
-[xml]
+{% highlight xml %}
 
-&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
-&lt;resources&gt;
-&lt;!-- This file contains all the update messages displayed to the user--&gt;
-&lt;!-- To create a new update message:
+<?xml version="1.0" encoding="utf-8">
+<resources>
+<!-- This file contains all the update messages displayed to the user-->
+<!-- To create a new update message:
 - Create a new update array, with a incremented update number
 - Add a reference to this new array in the updates array
---&gt;
+-->
 
-&lt;!-- Template is : --&gt;
+<!-- Template is : -->
 
-&lt;!--
-&lt;array name=&quot;update0&quot;&gt;
-&lt;item&gt;update title&lt;/item&gt;
-&lt;item&gt;update message&lt;/item&gt;
-&lt;/array&gt;
---&gt;
+<!--
+<array name="update0">
+<item>update title</item>
+<item>update message</item>
+</array>
+-->
 
-&lt;string-array name=&quot;update0&quot;&gt;
-&lt;item&gt;
-&quot;Mise à jour du site Bibus&quot;
-&lt;/item&gt;
-&lt;item&gt;
-&quot;Bibus a récemment changé son protocole de communication pour les horaires temps réel.\n
+<string-array name="update0">
+<item>
+"Mise à jour du site Bibus"
+</item>
+<item>
+"Bibus a récemment changé son protocole de communication pour les horaires temps réel.\n
 Il est donc en ce moment impossible pour BresTram de fonctionner correctement.\n
 (Merci Lucas de m'avoir prévenu!)\n
 Ceci est totalement indépendant de BresTram, et je fais mon possible pour corriger ceci au plus vite!\n
 En attendant, si vous trouvez l'application utile, aidez-moi en votant sur le play store!\n
-Merci d'avance, et désolé pour le dérangement.&quot;
-&lt;/item&gt;
-&lt;/string-array&gt;
+Merci d'avance, et désolé pour le dérangement."
+</item>
+</string-array>
 . . .
 
-&lt;array name=&quot;update12&quot;&gt;
-&lt;!-- French --&gt;
-&lt;item&gt;
-&quot;Mise à jour du 27 Janvier&quot;
-&lt;/item&gt;
-&lt;item&gt;
-&quot;BresTram vient d'être mis à jour.\n\n&quot;
-&quot;Un nouvel onglet a été ajouté pour vous permettre de faire des recherches par ligne de bus.\n&quot;
-&quot;Il vous est maintenant possible de voir la liste de toutes les lignes possibles dans l'onglet lignes.\n\n&quot;
-&quot;Cette nouvelle fonctionnalité est pour le moment encore en beta, il est donc possible que vous rencontriez des bugs.&quot;
-&quot;Faites moi part de vos remarques sur le play store où sur le Twitter de l'application!&quot;
-&lt;/item&gt;
-&lt;!-- English --&gt;
-&lt;item&gt;
-&quot;BresTram was updated to version 1.5&quot;
-&lt;/item&gt;
-&lt;item&gt;
-&quot;BresTram has been updated to the latest version.\n\n&quot;
-&quot;A new tab has been added, that lists all bus lines and their associated bus stops.\n&quot;
-&quot;This functionality is currently still in beta, and you might find bugs.\n\n&quot;
-&quot;Let me know your suggestions on the playstore or the twitter of the application!&quot;
-&lt;/item&gt;
-&lt;/array&gt;
+<array name="update12">
+<!-- French -->
+<item>
+"Mise à jour du 27 Janvier"
+</item>
+<item>
+"BresTram vient d'être mis à jour.\n\n"
+"Un nouvel onglet a été ajouté pour vous permettre de faire des recherches par ligne de bus.\n"
+"Il vous est maintenant possible de voir la liste de toutes les lignes possibles dans l'onglet lignes.\n\n"
+"Cette nouvelle fonctionnalité est pour le moment encore en beta, il est donc possible que vous rencontriez des bugs."
+"Faites moi part de vos remarques sur le play store où sur le Twitter de l'application!"
+</item>
+<!-- English -->
+<item>
+"BresTram was updated to version 1.5"
+</item>
+<item>
+"BresTram has been updated to the latest version.\n\n"
+"A new tab has been added, that lists all bus lines and their associated bus stops.\n"
+"This functionality is currently still in beta, and you might find bugs.\n\n"
+"Let me know your suggestions on the playstore or the twitter of the application!"
+</item>
+</array>
 
-&lt;!-- Array containing a reference to all the messages --&gt;
-&lt;array name=&quot;updates&quot;&gt;
-&lt;item&gt;@array/update0&lt;/item&gt;
+<!-- Array containing a reference to all the messages -->
+<array name="updates">
+<item>@array/update0</item>
 . . .
-&lt;item&gt;@array/update12&lt;/item&gt;
-&lt;/array&gt;
-&lt;/resources&gt;
+<item>@array/update12</item>
+</array>
+</resources>
 
-[/xml]
+{% endhighlight %}
 
 Basically, my update mechanism rely on two different things :
 <ul>
@@ -115,7 +115,7 @@ The updater <strong>compares the value of the latest update</strong> <strong>wit
 
 But basically, the java code of interest can be summarized in the few following lines :
 
-[java]
+{% highlight java %}
  private Resources res;
  // gets a reference to the array of updates
  res = ctx.getResources();
@@ -130,7 +130,7 @@ But basically, the java code of interest can be summarized in the few following 
  public int getLatestVersion(){
  return update_messages.length();
  }
-[/java]
+{% endhighlight %}
 
 
 But for some strange reason, things started acted weird last month. <strong>My 11th update wouldn't show up. Instead, it was the 8th being displayed!</strong>

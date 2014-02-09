@@ -48,7 +48,7 @@ import os
 import sys
 
 def scan_rep(repertoir, extension):
-    &quot;&quot;&quot;scanne le rep courant pour trouver des tex&quot;&quot;&quot;
+    """scanne le rep courant pour trouver des tex"""
     for racine, reps, fichiers in os.walk(repertoir, topdown=True):
         for fichier in fichiers:
             if fichier.endswith('.%s' % extension):

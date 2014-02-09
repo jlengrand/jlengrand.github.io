@@ -29,7 +29,7 @@ Here is an example :
 
 import cv
 
-img = cv.LoadImage(&quot;test.jpg&quot;)
+img = cv.LoadImage("test.jpg")
 dims = cv.GetSize(img)
 roi = [0, 0, dims[0] / 2, dims[1] / 2 ]
 cv.SetImageROI(img, roi)
@@ -39,7 +39,7 @@ You will get this result:
 
 [python]
 Traceback (most recent call last):
-  File &quot;newfile.py&quot;, line 8, in &lt;module&gt;
+  File "newfile.py", line 8, in <module>
     cv.SetImageROI(img, roi)
 TypeError: CvRect argument 'rect' expects four integers
 [/python]

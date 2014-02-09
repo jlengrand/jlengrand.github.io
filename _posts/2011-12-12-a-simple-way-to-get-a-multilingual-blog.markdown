@@ -64,8 +64,8 @@ To do this, you need two things :
 </ul>
 <div>[javascript]
 
-&lt;!-- Script créé par KevBrok ;-) --&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;// &lt;![CDATA[
+<!-- Script créé par KevBrok ;-) -->
+<script type="text/javascript">// <![CDATA[
 	/*
 	* Montre / Cache un div
 	*/
@@ -132,7 +132,7 @@ To do this, you need two things :
 						}
 				}
 		}
-// ]]&gt;&lt;/script&gt;
+// ]]></script>
 [/javascript]
 
 </div>
@@ -140,14 +140,14 @@ To do this, you need two things :
 	<li>Then, <strong>Write down your article in both languages</strong>, one after the other in you editor. Each language should be placed in a separate div; and a button placed to switch from one language to the other. Here is an example :</li>
 </ul>
 <div>[javascript]
-&lt;a href=&quot;javascript:InverseTout( 'mondiv' )&quot;&gt;Français / English&lt;/a&gt;&lt;/pre&gt;
-&lt;div id=&quot;mondiv1&quot; class=&quot;cachediv&quot;&gt;
-&lt;div style=&quot;border: 1px solid black; background-color: whitesmoke; margin-bottom: 2px;&quot;&gt;My article in english&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&quot;mondiv2&quot;&gt;
-&lt;div style=&quot;border: 1px solid black; background-color: whitesmoke; margin-bottom: 2px;&quot;&gt;Mon article en français&lt;/div&gt;
-&lt;/div&gt;
-&lt;pre&gt;
+<a href="javascript:InverseTout( 'mondiv' )">Français / English</a></pre>
+<div id="mondiv1" class="cachediv">
+<div style="border: 1px solid black; background-color: whitesmoke; margin-bottom: 2px;">My article in english</div>
+</div>
+<div id="mondiv2">
+<div style="border: 1px solid black; background-color: whitesmoke; margin-bottom: 2px;">Mon article en français</div>
+</div>
+<pre>
 [/javascript]
 
 </div>

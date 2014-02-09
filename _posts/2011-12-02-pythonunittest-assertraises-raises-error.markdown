@@ -56,13 +56,13 @@ Let's say I want to create a (dum) function calculating the square value of a 
 </ul>
 [python]
 def square_value(a):
-    &quot;&quot;&quot;
+    """
     Returns the square value of a.
-    &quot;&quot;&quot;
+    """
     try:
         out = a*a
     except TypeError:
-        raise TypeError(&quot;Input should be a string:&quot;)
+        raise TypeError("Input should be a string:")
 
     return out
 [/python]
@@ -73,19 +73,19 @@ def square_value(a):
 import dum_function as df # import function module
 import unittest
 class Test(unittest.TestCase):
-    &quot;&quot;&quot;
+    """
     The class inherits from unittest
-    &quot;&quot;&quot;
+    """
     def setUp(self):
-        &quot;&quot;&quot;
+        """
         This method is called before each test
-        &quot;&quot;&quot;
-        self.false_int = &quot;A&quot;
+        """
+        self.false_int = "A"
 
     def tearDown(self):
-        &quot;&quot;&quot;
+        """
         This method is called after each test
-        &quot;&quot;&quot;
+        """
         pass
     #---
     ## TESTS
@@ -93,7 +93,7 @@ class Test(unittest.TestCase):
         # assertRaises(excClass, callableObj) prototype
         self.assertRaises(TypeError, df.square_value(self.false_int))
 
-if __name__ == &quot;__main__&quot;:
+if __name__ == "__main__":
     unittest.main()
 [/python]
 <ul>
@@ -104,10 +104,10 @@ if __name__ == &quot;__main__&quot;:
 ERROR: test_square_value (__main__.Test)
 ----------------------------------------------------------------------
 Traceback (most recent call last):
-  File &quot;test_dum_function.py&quot;, line 22, in test_square_value
+  File "test_dum_function.py", line 22, in test_square_value
     self.assertRaises(TypeError, df.square_value(self.false_int))
-  File &quot;/home/jlengrand/Desktop/function.py&quot;, line 8, in square_value
-    raise TypeError(&quot;Input should be a string:&quot;)
+  File "/home/jlengrand/Desktop/function.py", line 8, in square_value
+    raise TypeError("Input should be a string:")
 TypeError: Input should be a string:
 
 ----------------------------------------------------------------------

@@ -30,9 +30,9 @@ Here is how to <strong>print your function name as a string</strong> in Python :
 import sys
 
 def tutut():
-    &quot;&quot;&quot;
+    """
     Dum function displaying its name!
-    &quot;&quot;&quot;
+    """
     print sys._getframe().f_code.co_name
 
 if __name__ == '__main__':

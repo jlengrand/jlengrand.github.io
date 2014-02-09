@@ -82,8 +82,8 @@ To run on startup, this module had to be added to the list of apps to be started
 On my Openbox based Crunchbang, the solution was to edit my autostart.sh to add a new line :
 
 [bash]
-$ echo &quot;(sleep 5s &amp;&amp; numlock) &amp;&quot; \
-&gt;&gt; ~/.config/openbox/autostart.sh
+$ echo "(sleep 5s &amp;&amp; numlock) &amp;" \
+>> ~/.config/openbox/autostart.sh
 [/bash]
 
 <div>That's all !</div>

@@ -53,14 +53,14 @@ Here is what my Activity would look like :
 [java]
 
 public class DisplayGPSInfoActivity extends BaseActivity implements LocationListener {
-private static final String TAG = &quot;DisplayGPSInfoActivity&quot;;
+private static final String TAG = "DisplayGPSInfoActivity";
 
 private ViewFlipper vf;
 
 private LocationManager locationManager;
 private String provider;
 
-@SuppressLint(&quot;NewApi&quot;)
+@SuppressLint("NewApi")
 @Override
 protected void onCreate(Bundle savedInstanceState) {
 super.onCreate(savedInstanceState);
@@ -82,10 +82,10 @@ Location location = locationManager.getLastKnownLocation(provider);
 
 @Override
 public void onLocationChanged(Location location) {
-Log.d(TAG, &quot;GPS LocationChanged&quot;);
+Log.d(TAG, "GPS LocationChanged");
 double lat = location.getLatitude();
 double lng = location.getLongitude();
-Log.d(TAG, &quot;Received GPS request for &quot; + String.valueOf(lat) + &quot;,&quot; + String.valueOf(lng) + &quot; , ready to rumble!&quot;);
+Log.d(TAG, "Received GPS request for " + String.valueOf(lat) + "," + String.valueOf(lng) + " , ready to rumble!");
 
 // Do clever stuff here
 }
@@ -102,8 +102,8 @@ Problem is, it is not. never. Ever. . .
 After having verified hundred times that I had
 
 [xml]
-&lt;uses-permission android:name=&quot;android.permission.ACCESS_COARSE_LOCATION&quot; /&gt;
-&lt;uses-permission android:name=&quot;android.permission.ACCESS_FINE_LOCATION&quot; /&gt;
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
 [/xml]
 
@@ -117,7 +117,7 @@ Something like that would do the job :
 @Override
  protected void onResume() {
 super.onResume();
-Log.v(TAG, &quot;Resuming&quot;);
+Log.v(TAG, "Resuming");
 locationManager.requestLocationUpdates(provider, 400, 1, this);
  }
 

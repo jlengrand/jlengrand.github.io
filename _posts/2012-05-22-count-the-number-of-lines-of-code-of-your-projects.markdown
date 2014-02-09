@@ -26,7 +26,7 @@ I found this simple command that will pop out the number of lines of code for a 
 
 [bash]
 
-cat `find . -name &quot;*.py&quot;` | wc -l
+cat `find . -name "*.py"` | wc -l
 
 [/bash]
 
@@ -34,6 +34,6 @@ You can also do it for a whole folder
 
 [bash]
 
-find . -name &quot;*.py&quot; | xargs wc -l
+find . -name "*.py" | xargs wc -l
 
 [/bash]
