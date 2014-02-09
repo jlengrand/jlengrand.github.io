@@ -114,7 +114,7 @@ I used fill_parent because I wanted to give as much space as possible to the Web
 
 The result is far from perfect, but it's not that bad for roughly 30 minutes of work :).
 
-[caption id="attachment_900" align="aligncenter" width="480"]<a href="http://www.lengrand.fr/wp-content/uploads/2013/10/twitter_timeline.png"><img class="size-full wp-image-900" alt="twitter timeline embedded into an android application" src="http://www.lengrand.fr/wp-content/uploads/2013/10/twitter_timeline.png" width="480" height="800" /></a> twitter timeline embedded into an android application[/caption]
+<a href="http://www.lengrand.fr/wp-content/uploads/2013/10/twitter_timeline.png"><img class="size-full wp-image-900" alt="twitter timeline embedded into an android application" src="http://www.lengrand.fr/wp-content/uploads/2013/10/twitter_timeline.png" width="480" height="800" /></a>
 
 On top of that, It directly allows my users to post tweets from the application (using the timeline), and will let everybody know about the <a title="BresTram twitter account" href="https://twitter.com/BresTramApp" target="_blank">BresTram twitter account</a>.
 Hopefully, this will help me get some useful feedback.

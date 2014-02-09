@@ -33,14 +33,14 @@ I knew that for native linux (.so) files, <strong>objdump</strong> would be my w
 
 So I gave it a shot, and tried:
 
-[bash]
+{% highlight bash %}
 $ objdump -x my_windows.dll | head -n 15 # returns the first 15 lines of the result
 
-[/bash]
+{% endhighlight %}
 
 And here was the result :
 
-[bash]
+{% highlight bash %}
 
 libxuggle-5.dll: file format pei-i386
 
@@ -51,8 +51,6 @@ architecture: i386, flags 0x00000133:
 HAS_RELOC, EXEC_P, HAS_SYMS, HAS_LOCALS, D_PAGED
 
 start address 0x6e741058
-
-&amp;nbsp;
 
 Characteristics 0x2306
 
@@ -66,9 +64,7 @@ debugging information removed
 
 DLL
 
-[/bash]
-
-&nbsp;
+{% endhighlight %}
 
 Pretty neat, huh?
 
