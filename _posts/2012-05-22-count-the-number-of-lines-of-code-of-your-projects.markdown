@@ -24,16 +24,16 @@ After having finished a project, I always like to know its actual size. It does 
 
 I found this simple command that will pop out the number of lines of code for a given file extension.
 
-[bash]
+{% highlight bash %}
 
 cat `find . -name "*.py"` | wc -l
 
-[/bash]
+{% endhighlight %}
 
 You can also do it for a whole folder
 
-[bash]
+{% highlight bash %}
 
 find . -name "*.py" | xargs wc -l
 
-[/bash]
+{% endhighlight %}

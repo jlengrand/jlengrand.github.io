@@ -36,24 +36,24 @@ Here is the way to do it:
 
 Create a new folder in your DropBox repo :
 
-[bash]
+{% highlight bash %}
 $ mkdir DropBoxRepo/laptopConfig
-[/bash]
+{% endhighlight %}
 
 Move in it and create simlinks to each config file you want to backup (for example your .bashrc):
 
-[bash]
+{% highlight bash %}
 $cd DropBoxRepo/laptopConfig; ln -s ~/.bashrc .bashrc
-[/bash]
+{% endhighlight %}
 Voilà!
 
 Now, you have access to a copy of your bashrc <strong>wherever you go</strong>, and may use it to tune another computer. And it works even with entire folders (like your ~/bin)
 
 In case all you computer have the exact same configuration files, you might do the other way around, and use your DropBox folder as basis for your config files :
 
-[bash]
+{% highlight bash %}
 $cd ~; ln -s  DropBoxRepo/Config/.bashrc .bashrc
-[/bash]
+{% endhighlight %}
 
 Be careful however, because modifications will have to be done in the DropBox folder now. And updates will only take place after your DropBox synchronization. <strong>So avoid dangerous ideas</strong>, such as synchronizing your /etc/fstab :D
 

@@ -35,7 +35,7 @@ By default, your external hard drives should be mounted in <strong><em>/media</e
 
 So if I want to share my external hard drive (called Elements) on the network, I'd do something like that:
 
-[bash]
+{% highlight bash %}
 [Elements]
 path = /media/Elements
 comment = data drive
@@ -43,31 +43,31 @@ writable = yes
 browsable = yes
 guest ok = yes
 
-[/bash]
+{% endhighlight %}
 
 The <strong>guest ok </strong>option will allow anyone on your local network to access the drive without having to authenticate, so be careful.
 Now check that the other users will be able to read/write on the device
 
-[bash]
+{% highlight bash %}
 $ ll /media/Elements
 
-[/bash]
+{% endhighlight %}
 
 and if not, run
 
-[bash]
+{% highlight bash %}
 
 $ chmod -R 755 /media/Elements
 
-[/bash]
+{% endhighlight %}
 
 and restart samba (or the whole computer if you have a doubt :))
 
-[bash]
+{% highlight bash %}
 
 $ /etc/init.d/sbmd restart
 
-[/bash]
+{% endhighlight %}
 
 Now check on your other computers, you should be able to access your new folder without troubles :).
 

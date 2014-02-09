@@ -52,23 +52,23 @@ For the past months, I had a huge issue with My <strong>debian</strong> based sy
 
 I got a  Radeon 5770 graphical card and here are some more information:
 
-[bash]
+{% highlight bash %}
 [airballman@crunchbang:~]$ lspci | grep VGA
 01:00.0 VGA compatible controller: ATI Technologies Inc Juniper [Radeon HD 5700 Series]
-[/bash]
+{% endhighlight %}
 
 On startup, I would have 15/20 seconds of errors flooding my boot screen.
 
 Here is the Error log, repeated again and again:
 
-[bash]
+{% highlight bash %}
 
 [drm:radeon_ttm_backend_bind] *ERROR* failed to bind 1 pages at 0x0040F000
 [TTM] Couldn't bind backend.
 radeon 0000:01:00.0: object_init failed for (4096, 0x00000002)
 [drm:radeon_gem_object_create] *ERROR* Failed to allocate GEM object (4096, 2, 4096, -22)
 
-[/bash]
+{% endhighlight %}
 
 The problem as quite annoying, even causing<strong> graphical startup failures</strong>. . . I searched a lot for a solution and <a title="cr-fr" href="http://crunchbanglinux-fr.org/forum/viewtopic.php?id=1123" target="_blank">asked for some help</a>.
 
@@ -78,11 +78,11 @@ After a lot of problems, <a title="darth" href="https://plus.google.com/10943403
 
 The problem was coming from <strong><a title="plymouth" href="http://en.wikipedia.org/wiki/Plymouth_(software)" target="_blank">Plymouth</a></strong>, and removing it would remove the error :
 
-[bash]
+{% highlight bash %}
 
 $ sudo apt-get remove plymouth
 
-[/bash]
+{% endhighlight %}
 
 The con of this method is that you will lose your beautiful startup image. . .
 

@@ -41,10 +41,10 @@ if __name__ == '__main__':
 
 And here is the result
 
-[bash]
+{% highlight bash %}
 [airballman@ubuntu:~]$ python tutut.py
 tutut
-[/bash]
+{% endhighlight %}
 
 There it is !
 

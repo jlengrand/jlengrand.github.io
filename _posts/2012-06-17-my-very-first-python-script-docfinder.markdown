@@ -33,11 +33,11 @@ Some days ago, I found myself into the very first Python script I ever written (
 
 It aims at listing all documents from a given extension in a folder. To use it, simply run
 
-[bash]
+{% highlight bash %}
 
 $ docfinder folder extension
 
-[/bash]
+{% endhighlight %}
 
 So here is the code :
 

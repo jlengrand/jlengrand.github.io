@@ -35,9 +35,9 @@ I finally developed my own function with some bash and<strong> <a title="image m
 </ul>
 When run, the script inserts the watermark in all images of the input folder and save them in the output folder.
 
-[bash]
+{% highlight bash %}
 $ waterMark in_folder out_folder watermark_image
-[/bash]
+{% endhighlight %}
 
 As a bonus, the script automatically detects whether an image is in landscape or portrait mode before inserting the watermark, so that it is always in the right side.
 
@@ -49,11 +49,11 @@ This script is in an early stage for now, and should be upgraded with time. You 
 
 You can download the script <strong><a title="my github" href="https://github.com/jlengrand/batchWaterMarking">on my gitHub</a>, </strong>or more simply download the project using git
 
-[bash]
+{% highlight bash %}
 
 $ git clone git://github.com/jlengrand/batchWaterMarking.git
 
-[/bash]
+{% endhighlight %}
 
 Feel free to fork the project or let me know about what would be useful for you.
 

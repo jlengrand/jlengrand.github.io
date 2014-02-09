@@ -28,19 +28,19 @@ Do you run Linux ? In this case, your case will be solved in 10 seconds (who sai
 
 Simply open a console and run this line
 
-[bash]
+{% highlight bash %}
 
 sed -e $"s/,/\ /g" myfile > newfile
 
-[/bash]
+{% endhighlight %}
 
 or more generally,
 
-[bash]
+{% highlight bash %}
 
 sed -e $"s/old_separator/new_separator/g" myfile > newfile
 
-[/bash]
+{% endhighlight %}
 
 If not, well <a title="why linux is better" href="http://www.whylinuxisbetter.net/" target="_blank">you may want to think about switching</a> then :)
 

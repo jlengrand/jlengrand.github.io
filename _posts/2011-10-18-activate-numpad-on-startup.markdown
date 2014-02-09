@@ -71,9 +71,9 @@ Running Ubuntu, the solution was quite simple  : installing the numlockx packag
 
 Gaving Debian now, I tried the same :
 
-[bash]
+{% highlight bash %}
 $sudo apt-get install numlockx
-[/bash]
+{% endhighlight %}
 
 The package did install actually, but seems like it was not enough. . .
 
@@ -81,10 +81,10 @@ To run on startup, this module had to be added to the list of apps to be started
 
 On my Openbox based Crunchbang, the solution was to edit my autostart.sh to add a new line :
 
-[bash]
+{% highlight bash %}
 $ echo "(sleep 5s &amp;&amp; numlock) &amp;" \
 >> ~/.config/openbox/autostart.sh
-[/bash]
+{% endhighlight %}
 
 <div>That's all !</div>
 <div>CU</div>

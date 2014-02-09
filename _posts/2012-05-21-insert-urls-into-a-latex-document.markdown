@@ -25,27 +25,27 @@ If you use <a title="latex" href="http://fr.wikipedia.org/wiki/LaTeX" target="_b
 
 The process is quite simple, simply include the url package in the header of your document
 
-[bash]
+{% highlight bash %}
 
 \usepackage{url}
 
-[/bash]
+{% endhighlight %}
 
 and then insert your desired url :
 
-[bash]
+{% highlight bash %}
 
 \url{http://www.lengrand.fr}
 
-[/bash]
+{% endhighlight %}
 
 You may want to play a bit, a there are different url styles. Here is a simple example
 
-[bash]
+{% highlight bash %}
 
 \urlstyle{rm}
 
-[/bash]
+{% endhighlight %}
 
 Of course, all those links are still active after your pdf conversion!
 

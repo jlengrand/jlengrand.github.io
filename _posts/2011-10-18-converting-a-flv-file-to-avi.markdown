@@ -31,16 +31,16 @@ This tip is useful for Linux users only ;)
 
 First of all, install the <strong>ffmpeg</strong> package. All debian based distros can do the following. For the others, look at your package manager possibilities, or check for <a href="http://ffmpeg.org/download.html">sources</a>.
 
-[bash]
+{% highlight bash %}
 $ sudo apt-get install ffmpeg
-[/bash]
+{% endhighlight %}
 
 Now, convert the video, replacing the argument to fit with your flv file.
 
-[bash]
+{% highlight bash %}
 $ ffmpeg -o /your/flv/file.flv -vcodec mpeg1-video \
  -acodec copy -ar 44100 -s 320x240 -y /your/avi/file.avi
-[/bash]
+{% endhighlight %}
 
 For more information, check at <a href="http://pwet.fr/man/linux/commandes/ffmpeg">ffmpeg man page</a> ;)
 

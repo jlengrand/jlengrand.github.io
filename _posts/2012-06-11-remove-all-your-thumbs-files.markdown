@@ -31,11 +31,11 @@ And<strong><a title="why Linux is better" href="http://www.whylinuxisbetter.net/
 
 So here is the magic solution to get rid of those parasites :
 
-[bash]
+{% highlight bash %}
 
 $ sudo find any_folder -name "Thumbs.db" -exec rm {} \;
 
-[/bash]
+{% endhighlight %}
 
 <em>any_folder</em> being of course the location you want to sanitize.
 
