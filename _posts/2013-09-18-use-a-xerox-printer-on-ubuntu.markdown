@@ -33,11 +33,9 @@ try to install <a title="foomatic website" href="http://www.linuxfoundation.org/
 
 It is as simple as
 
-[bash]
+{% highlight bash %}
 sudo apt-get install foomatic-db
-
-[/bash]
-
+{% endhighlight %}
 
 on an ubuntu (13.04, in my case).
 
