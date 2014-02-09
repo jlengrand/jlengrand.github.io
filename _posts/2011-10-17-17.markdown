@@ -1,0 +1,16 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Julien Lengrand-Lambert
+author_login: jlengrand
+author_email: julien@lengrand.fr
+author_url: http://www.lengrand.fr
+wordpress_id: 17
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=17
+date: 2011-10-17 13:44:22.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+You are now in the professional part of my website. Here you will learn a bit more about my Job. I am an Image Processing Engineer, and my daily work is to design algorithms based on Computer Vision. Most of my previous experiences have taken place in the sonar world; and especially in automatic mine hunting techniques. Today, I work with smart cameras in which hardware essources are very limited. I deal with low footprint developments, algorithms optimization and embedded electronics. You can find my Resume both in French and English right here : English Resume French Resume Some of the projects of my previous experiences have led to publications. You can find copies here : Sonar images segmentation and classification fusion, ECUA 2010 Automatic target recognition in synthetic aperture sonar images for autonomous mine hunting, ECUA 2010 Fusion de segmentation et classification automatique d’images sonar, EGC 2010 Finally, here are various links where my name was mentioned. They deal with a personal project managed with friends during the engineering cursus. Ouest France Mars 2010 – Nouveau logiciel de tri postal pour l’Esat Courrier Cadres Juin 2011 – Les Secteurs qui recrutent Deviensingenieur.fr – L’ingénieur est le quotidien L’Express Avril 2011…

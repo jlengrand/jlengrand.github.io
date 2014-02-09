@@ -1,0 +1,88 @@
+---
+layout: page
+status: publish
+published: true
+title: About me
+author: Julien Lengrand-Lambert
+author_login: jlengrand
+author_email: julien@lengrand.fr
+author_url: http://www.lengrand.fr
+wordpress_id: 10
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?page_id=10
+date: 2011-10-17 13:13:28.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 1058
+  author: Design, Innovation and Hacking in a couch | loup2fu
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/05/design-innovation-and-hacking-in-a-couch/
+  date: !binary |-
+    MjAxMi0wNS0yOSAwOToyMzo0MCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNS0yOSAwODoyMzo0MCArMDIwMA==
+  content: ! '[...] About me [...]'
+- id: 7305
+  author: Ivor Diosi
+  author_email: ivor.diosi@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAxMy0wNC0wMSAwODozMzo1NSArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMy0wNC0wMSAwNzozMzo1NSArMDIwMA==
+  content: ! "Dear Julien,\r\n\r\nI've stumbled upon your beautiful website and I
+    am wondering how to get in touch.\r\nI am looking for a CV collaborator, please
+    respond so I can tell you more.\r\n\r\nThank you very much.\r\n\r\nIvor Diosi"
+- id: 8423
+  author: Julien Lengrand-Lambert
+  author_email: julien@lengrand.fr
+  author_url: http://www.lengrand.fr
+  date: !binary |-
+    MjAxMy0wNC0xMSAwOToyODo0MCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMy0wNC0xMSAwODoyODo0MCArMDIwMA==
+  content: ! "Hey Ivor, \r\n\r\nI just sent you an email :)."
+- id: 17325
+  author: Yukti Suri
+  author_email: yukti.buzz@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAxMy0wOS0xMSAxNzoyNDoyNyArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMy0wOS0xMSAxNjoyNDoyNyArMDIwMA==
+  content: ! "Hello Julien,\r\n\r\nI have recently finished my Masters in Computer
+    Vision and Robotics and I am looking for a research oriented software development
+    job in Image Processing and Computer Vision. I stumbled upon your website and
+    found your list of relevant companies. I am now looking into the list and would
+    be applying in most. Your list looks great and I would like to thank you for sharing
+    it.\r\nOn the other hand if you can give me any other advise or contacts in this
+    regard, than I would be really thankful.\r\nCheers,\r\nYukti"
+- id: 17521
+  author: Julien Lengrand-Lambert
+  author_email: julien@lengrand.fr
+  author_url: http://www.lengrand.fr
+  date: !binary |-
+    MjAxMy0wOS0xNyAwNzo1MTo1NyArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMy0wOS0xNyAwNjo1MTo1NyArMDIwMA==
+  content: ! "Hey Yukti, \n\nThanks for the kind words!\nI hope you find what you
+    search for in the list. \n\nLet me know if you find other companies I should add.
+    \n\nCheers, \nJulien"
+---
+<div class="mceTemp"><dl class="wp-caption alignright" style="width: 310px;"><dt><a href="http://www.lengrand.fr/wp-content/uploads/2011/12/avatar1.jpg"><img title="Avatar_full_res" src="http://www.lengrand.fr/wp-content/uploads/2011/12/avatar1-300x200.jpg" alt="my avatar" width="300" height="200" /></a></dt></dl></div>
+I am <strong>Julien Lengrand-Lambert</strong>, a french 24 year old guy living in Utrecht, the Netherlands.
+
+After some time hanging around with a Flickr, a blogger, a local server, . . . I finally acquired my own domain name. I am lucky enough (unlucky some might say? ) to have a family name complex enough for the domain still to be available :)
+
+This website aims at regrouping in one place most of my online identity.
+I am an <strong>Image Processing Engineer</strong>, and you will find professional stuff in the <strong><a title="Job Space" href="http://www.lengrand.fr/job-space/">Job section</a></strong> .
+My hobbies are diverse from photography to software programming, often Computer Vision related. You can find my <strong>personal projects</strong> on my <strong><a href="https://github.com/jlengrand">github account</a></strong> ..
+
+And as the aim of knowledge is to be shared, I keep track of my <strong><a href="http://lengrand.fr/progTips.html">programming tips</a></strong> and use my <strong><a title="my blog" href="http://lengrand.fr/" target="_blank">blog</a></strong> to share information.
+
+On a wider world, I am a <strong>Linux lover</strong> for 5 years now, running Crunchbang and ArchLinux on a daily basis. I climb and boulder twice a week for some years, and listen to all kind of music (from death metal to hardcore music :P ).
+
+<strong>Feel free to join my <a title="linkedin" href="http://nl.linkedin.com/pub/julien-lengrand-lambert/14/660/551/en" target="_blank">network</a></strong>, and spend some time to visit my contacts, they're worth it!
+
+<strong>C U !</strong>
+<strong>Julien</strong>

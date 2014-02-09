@@ -1,0 +1,101 @@
+---
+layout: page
+status: publish
+published: true
+title: Job Space
+author: Julien Lengrand-Lambert
+author_login: jlengrand
+author_email: julien@lengrand.fr
+author_url: http://www.lengrand.fr
+wordpress_id: 2
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?page_id=2
+date: 2011-10-13 15:14:21.000000000 +02:00
+categories: []
+tags: []
+comments:
+- id: 1063
+  author: Design, Innovation and Hacking in a couch | loup2fu
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/05/design-innovation-and-hacking-in-a-couch/
+  date: !binary |-
+    MjAxMi0wNS0yOSAxMjowNzo0NiArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNS0yOSAxMTowNzo0NiArMDIwMA==
+  content: ! '[...] Job Space [...]'
+- id: 1148
+  author: Is Descartes the father of Agile development? | loup2fu
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/06/is-descartes-the-father-of-agile-development/
+  date: !binary |-
+    MjAxMi0wNi0wNCAxMDowNToyNSArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNi0wNCAwOTowNToyNSArMDIwMA==
+  content: ! '[...] Job Space [...]'
+- id: 1207
+  author: ! 'Llama : Profile activation problems | loup2fu'
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/06/llama-profile-activation-problems/
+  date: !binary |-
+    MjAxMi0wNi0xMyAxMjo0OTo1NSArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNi0xMyAxMTo0OTo1NSArMDIwMA==
+  content: ! '[...] Job Space [...]'
+- id: 1210
+  author: How working as a cook helped me be a better developer | loup2fu
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/06/how-working-as-a-cook-helped-me-be-a-better-developer/
+  date: !binary |-
+    MjAxMi0wNi0xNCAxMzoyMjo1NCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wNi0xNCAxMjoyMjo1NCArMDIwMA==
+  content: ! '[...] Job Space [...]'
+- id: 1921
+  author: ! 'Presenting Ivolution : Timelapse creation with face recognition | loup2fu'
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/08/presenting-ivolution-timelapse-creation-with-face-recognition/
+  date: !binary |-
+    MjAxMi0wOC0yMSAxMzozNDowOSArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wOC0yMSAxMjozNDowOSArMDIwMA==
+  content: ! '[...] Job Space [...]'
+- id: 2121
+  author: Petit guide de l&#8217;expatriation. . . | loup2fu
+  author_email: ''
+  author_url: http://www.lengrand.fr/2012/09/petit-guide-de-lexpatriation/
+  date: !binary |-
+    MjAxMi0wOS0yNiAxMjozMjozNCArMDIwMA==
+  date_gmt: !binary |-
+    MjAxMi0wOS0yNiAxMTozMjozNCArMDIwMA==
+  content: ! '[...] Job Space [...]'
+---
+<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/face.jpg"><img class="alignright size-full wp-image-506" title="Job profile" src="http://www.lengrand.fr/wp-content/uploads/2012/01/face.jpg" alt="my Job profile" width="147" height="298" /></a>Welcome in the professional part of my website. Here you will learn a bit more about my Job experience.
+
+I am an <strong>Image Processing Engineer</strong>, and my daily work is to design algorithms based on <strong>Computer Vision</strong>.
+
+Most of my educational internships have taken place in the sonar world; and especially in automatic mine hunting techniques.
+
+Right after school, I spent some time working with <strong>smart cameras</strong> in which hardware ressources were very limited. I dealt with <strong>low footprint developments</strong>, algorithms optimization and embedded electronics.
+
+Lately, my girlfriend and me decided to leave France and move to<strong> the Netherlands</strong>. I now work as a<strong> software engineer</strong> at <a title="spacemetric" href="http://www.spacemetric.com/" target="_blank">Spacemetric</a>, a Swedish company that provides image management solutions for satellite and airborne sensor.
+
+You can find my <strong>Resume</strong><a title="Resume" href="http://dl.dropbox.com/u/4286043/00_Website/00_CV/en_Lengrandlambert.pdf" target="_blank"> right here</a>.
+<div>Some of the projects of my previous experiences have led to <strong>publications</strong>. You can find copies here :</div>
+<div>
+<ul>
+	<li><a title="ECUA2010_1" href="http://dl.dropbox.com/u/4286043/00_Website/01_Publis/Fusion_GESMA_ECUA.pdf" target="_blank">Sonar images segmentation and classification fusion, ECUA 2010</a></li>
+	<li><a title="ECUA2010_2" href="http://dl.dropbox.com/u/4286043/00_Website/01_Publis/ATR_TNO_ECUA.pdf" target="_blank">Automatic target recognition in synthetic aperture sonar images for autonomous mine hunting, ECUA 2010</a></li>
+	<li><a title="EGC2010" href="http://dl.dropbox.com/u/4286043/00_Website/01_Publis/Fusion_GESMA_EGC.pdf" target="_blank">Fusion de segmentation et classification automatique d’images sonar, EGC 2010</a></li>
+</ul>
+</div>
+Finally, here are various links where my name was mentioned. They deal with a personal project managed with friends during the engineering cursus.
+<ul>
+	<li><a title="Ouest_France" href="http://www.ouest-france.fr/actu/actuLocale_-Nouveau-logiciel-de-tri-postal-pour-l-Esat-_-1299976------29019-aud_actu.Htm" target="_blank">Ouest France Mars 2010 – Nouveau logiciel de tri postal pour l’Esat</a></li>
+	<li><a title="Courrier_Cadres" href="http://dl.dropbox.com/u/4286043/00_Website/02_Articles/Courrier_Cadres.pdf" target="_blank">Courrier Cadres Juin 2011 – Les Secteurs qui recrutent</a></li>
+	<li><a title="Deviens_Ingenieur" href="http://www.deviensingenieur.fr/07243663/0/fiche___pagelibre/%26RH=1263900174129%26RF=1263907205390" target="_blank">Deviensingenieur.fr – L’ingénieur est le quotidien</a></li>
+	<li><a title="l_Express" href="http://lexpansion.lexpress.fr/carriere/cinq-secteurs-en-grande-forme_251835.html" target="_blank">L’Express Avril 2011 – Cinq secteurs en grande forme</a></li>
+</ul>
+As knowledge is meant to be <strong>shared</strong>, I would enjoy to give you some more information about my previous projects.
+
+So <strong>feel free</strong> to ask for more information, and <a title="Mail_Me" href="mailto:julien@lengrandlambert.fr" target="_blank">let me know</a> about your opportunities!
+
+<strong>Julien</strong>
