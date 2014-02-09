@@ -44,7 +44,7 @@ This gives me two lines of code to integrate into the website of my choice :
 
 Then, I simply created a new Activity in my Application, that contains a webview.
 
-[java]
+{% highlight java %}
 package fr.lengrand.brestram;
 
 import fr.lengrand.brestram.activities.BaseActivity;
@@ -84,7 +84,7 @@ public class TimeLineActivity extends BaseActivity {
     }
 }
 
-[/java]
+{% endhighlight %}
 
 The background color method is needed to avoid the ugly white background behind the timeline. I use a transparent background in this case.
 <strong>It is not possible to set the background directly in the xml layout for webviews; you will have to do it in the activity directly.</strong>

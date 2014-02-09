@@ -50,7 +50,7 @@ But whatever I was trying, my location was never set, and <a title="java doc onl
 
 Here is what my Activity would look like :
 
-[java]
+{% highlight java %}
 
 public class DisplayGPSInfoActivity extends BaseActivity implements LocationListener {
 private static final String TAG = "DisplayGPSInfoActivity";
@@ -91,7 +91,7 @@ Log.d(TAG, "Received GPS request for " + String.valueOf(lat) + "," + String.valu
 }
 }
 
-[/java]
+{% endhighlight %}
 
 You can forget about the <a title="viewFlipper javadoc" href="http://developer.android.com/reference/android/widget/ViewFlipper.html" target="_blank">ViewFlipper</a>, that is here only to show something to the user.
 Basically, I am letting android decide which provider he wants to use (GPS or Network), and request for the last known location.
@@ -112,7 +112,7 @@ correctly defined in my manifest, and that yes, other GPS based apps were workin
 As stupid as it seems,<strong> I had forgotten to request the updates. . .</strong>
 Something like that would do the job :
 
-[java]
+{% highlight java %}
 
 @Override
  protected void onResume() {
@@ -121,7 +121,7 @@ Log.v(TAG, "Resuming");
 locationManager.requestLocationUpdates(provider, 400, 1, this);
  }
 
-[/java]
+{% endhighlight %}
 
 I was somehow expecting that is was automatic, implied by the fact that my activity implements <a title="Location listener javadoc" href="http://developer.android.com/reference/android/location/LocationListener.html" target="_blank">LocationListener</a>.
 
