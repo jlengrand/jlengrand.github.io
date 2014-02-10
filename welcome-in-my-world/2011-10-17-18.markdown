@@ -1,0 +1,16 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Julien Lengrand-Lambert
+author_login: jlengrand
+author_email: julien@lengrand.fr
+author_url: http://www.lengrand.fr
+wordpress_id: 18
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=18
+date: 2011-10-17 13:44:22.000000000 +02:00
+categories: []
+tags: []
+comments: []
+---
+I am Julien Lengrand-Lambert, a french 23 year old guy living in France. After some time hanging around with a Flickr, a blogger, a local server, . . . I finally acquired my own domain name. I am lucky enough (unlucky some might say? ) to have a family name complex enough for the domain still to be available :) This website aims at regrouping in one place most of my online identity. I am an Image Processing Engineer, and you will find professional stuff in the Job section . My hobbies are diverse from photography to software programming, often Computer Vision related. You can find my personal projects on my github account .. And as the aim of knowledge is to be shared, I keep track of my programming tips and use my blog to share information. On a wider world, I am a Linux lover for 5 years now, running Crunchbang and ArchLinux on a daily basis. I climb and boulder twice a week for some years, and listen to all kind of music (from death metal to hardcore music :P ). Feel free to join my network, and spend some time to visit my contacts, they’re worth it! C U ! JulienCet article est à traduire en français. Mais vous pouvez…
