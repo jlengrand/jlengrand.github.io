@@ -70,11 +70,11 @@ Hopefully one of those tips will help someone :)
 
 You will need ffmpeg
 
-[bash]
+{% highlight bash %}
 $ sudo apt-get install ffmpeg
 $ ffmpeg -o /your/flv/file.flv -vcodec mpeg1-video \
  -acodec copy -ar 44100 -s 320x240 -y /your/avi/file.avi
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -82,10 +82,10 @@ $ ffmpeg -o /your/flv/file.flv -vcodec mpeg1-video \
 
 You will need mencoder
 
-[bash]
+{% highlight bash %}
 $ sudo apt-get install mencoder
 $ mencoder out.ogv -ovc xvid -oac mp3lame -xvidencopts pass=1 -o Winner.avi
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -93,10 +93,10 @@ $ mencoder out.ogv -ovc xvid -oac mp3lame -xvidencopts pass=1 -o Winner.avi
 
 Here are two simple ways:
 
-[bash]
+{% highlight bash %}
 $ ls -s file
 $ stat file-c %s
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -104,9 +104,9 @@ $ stat file-c %s
 
 Simply run the same command prepended with <em>time</em>
 
-[bash]
+{% highlight bash %}
 $ time previous_command
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -122,9 +122,9 @@ Use the variable<strong> $# </strong>to get the number of arguments of previous 
 
 Simply run the same command prepended with <em>ldd</em> :
 
-[bash]
+{% highlight bash %}
 $ ldd previous_command
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -134,9 +134,9 @@ The command to search for is<strong> start-stop-daemon</strong>, with start opti
 
 To avoid any output in stdout, use redirection:
 
-[bash]
+{% highlight bash %}
 $ command &amp;> /dev/null&amp;
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -144,13 +144,13 @@ $ command &amp;> /dev/null&amp;
 
 A link must be placed in /etc/init.d, using ln -s
 
-[bash]
+{% highlight bash %}
 
 $ mv /etc/init.d
 
 $ ln -s /path/to/file link
 
-[/bash]
+{% endhighlight %}
 
 <span style="text-decoration: underline;">WARNING:</span> A printf in a startup process will lead to a crash as it blocks the remaining processes.
 
@@ -164,21 +164,21 @@ The processes will be run in ascending order, so be careful not to block the sys
 
 Simply add the line
 
-[bash]
+{% highlight bash %}
 
 trap " 2 3
 
-[/bash]
+{% endhighlight %}
 
 where you want to 'trap' the command.
 
 End catching interruptions by adding where you want to stop
 
-[bash]
+{% highlight bash %}
 
 trap 2 3
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -186,37 +186,37 @@ trap 2 3
 
 The operations can be performed with bc :
 
-[bash]
+{% highlight bash %}
 
 $ VAR=$(echo "2.2/ 10.65" | bc -l)
 
-[/bash]
+{% endhighlight %}
 
 To switch back to the int value :
 
-[bash]
+{% highlight bash %}
 
 $ (ceil) INT=${VAR/.*}
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Search for pattern in all files of a folder:</span>
 
-[bash]
+{% highlight bash %}
 
 $ "find ./ -name .svn -prune -o -type f -print | xargs grep -Hi" //pattern//
 
-[/bash]
+{% endhighlight %}
 
 The .svn part is used to avoid searching in the <a title="subversion wiki" href="http://en.wikipedia.org/wiki/Apache_Subversion">subversion</a> folder of my projects.
 
-[bash]
+{% highlight bash %}
 
 $ grep -R //pattern//@@ is also a solution.
 
-[/bash]
+{% endhighlight %}
 
 It is even possible to create an alias with it (see <a href="#alias_anchor">Add a one line command in terminal</a>).
 
@@ -229,19 +229,19 @@ You may use some one-line commands lots of times a day in terminal.
 
 You can define aliases to gain productivity:
 
-[bash]
+{% highlight bash %}
 
 $ vim ~/.bash_aliases
 
-[/bash]
+{% endhighlight %}
 
 Simply add a new line at the end of the file :
 
-[bash]
+{% highlight bash %}
 
 alias_name = "my_one_line_command"
 
-[/bash]
+{% endhighlight %}
 
 Restart your terminal, you're done!
 
@@ -249,51 +249,51 @@ Restart your terminal, you're done!
 
 <span style="color: #ff9900;">Seconds since epoch:</span>
 
-[bash]
+{% highlight bash %}
 
 $ date -d "$FIRST_TIME" +"%s"
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Directly get the correct <a title="shebang wiki" href="http://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a> for you script:</span>
 
-[bash]
+{% highlight bash %}
 
 $ which //language// > my_script
 
-[/bash]
+{% endhighlight %}
 
 <strong>Example :</strong>
 
-[bash]
+{% highlight bash %}
 
 $ which bash > my_script.sh
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Get the encoding of a file:</span>
 
-[bash]
+{% highlight bash %}
 
 $ file -i //unkown_file_type//
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Remove all .svn folders from a repo:</span>
 
-[bash]
+{% highlight bash %}
 
 $ cd //my_folder///
 
 $ find -name ".svn" -exec rm -rf {} \;
 
-[/bash]
+{% endhighlight %}
 
 <span style="text-decoration: underline;">INFO:</span> Can be performed for any folder type, changing the .svn part
 
@@ -303,47 +303,47 @@ $ find -name ".svn" -exec rm -rf {} \;
 <ul>
 	<li>Description file:</li>
 </ul>
-[bash]
+{% highlight bash %}
 
 $ cat /etc/lsb-release
 
-[/bash]
+{% endhighlight %}
 <ul>
 	<li>Kernel version:</li>
 </ul>
-[bash]
+{% highlight bash %}
 
 $ uname -a
 
-[/bash]
+{% endhighlight %}
 <ul>
 	<li>More information about Kernel (compiler and so on):</li>
 </ul>
-[bash]
+{% highlight bash %}
 
 $ cat /proc/version
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Get information about your processor(s):</span>
 
-[bash]
+{% highlight bash %}
 
 $ cat /proc/cpuinfo
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Change default browser in Linux:</span>
 
-[bash]
+{% highlight bash %}
 
 $ update-alternatives &amp;&amp;config x-www-browser
 
-[/bash]
+{% endhighlight %}
 
 You will have to choose between all installed browsers in you distro.
 
@@ -351,45 +351,45 @@ You will have to choose between all installed browsers in you distro.
 
 <span style="color: #ff9900;">Add a user to the sudoers:</span>
 
-[bash]
+{% highlight bash %}
 
 $ visudo
 
-[/bash]
+{% endhighlight %}
 
 Search for the line
 
-[bash]
+{% highlight bash %}
 
 @@ root ALL=(ALL) ALL@@
 
-[/bash]
+{% endhighlight %}
 
 Add this new line just below :
 
-[bash]
+{% highlight bash %}
 
 user_name ALL=(ALL) ALL
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Get information about you graphical card:</span>
 
-[bash]
+{% highlight bash %}
 
 $ lspci | grep VGA
 
-[/bash]
+{% endhighlight %}
 
 You may try this if first is not working :
 
-[bash]
+{% highlight bash %}
 
 $ lspci | grep video
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -397,47 +397,47 @@ $ lspci | grep video
 
 Add
 
-[bash]
+{% highlight bash %}
 
 complete -cf sudo
 
-[/bash]
+{% endhighlight %}
 
 in your <strong>.bashrc. </strong>It can be done simply in running the following command once:
 
-[bash]
+{% highlight bash %}
 
 $ echo "complete -cf sudo" > ~/.bashrc
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Read information in <a title="elf files wiki" href="http://en.wikipedia.org/wiki/Executable_and_Linkable_Format">elf files</a>:</span>
 
-[bash]
+{% highlight bash %}
 
 $ readelf -h $1 | grep 'Class\|File\|Machine'
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Sniff on serial interface to read output of a device :</span>
 
-[bash]
+{% highlight bash %}
 
 $ sudo apt-get install jpnevulator
 
 $ jpnevulator --read --ascii --tty /dev/ttyUSB0
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Remove trailing / in path in a script:</span>
 
-[bash]
+{% highlight bash %}
 
 #!/bin/bash
 
@@ -445,7 +445,7 @@ FOLDER=$1
 
 echo ${FOLDER%/}
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -574,10 +574,10 @@ if __name__ == '__main__':
 
 And here is the result
 
-[bash]
+{% highlight bash %}
 [airballman@ubuntu:~]$ python tutut.py
 tutut
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -669,17 +669,17 @@ Simple reminders to manage a project with <strong><a title="git" href="http://gi
 
 <span style="color: #ff9900;">Clone a project from my personal GitHub account:</span>
 
-[bash]
+{% highlight bash %}
 $ git clone git@github.com:jlengrand&amp;/projet.git
-[/bash]
+{% endhighlight %}
 
 <hr />
 
 <span style="color: #ff9900;">Clone a project from another source:</span>
 
-[bash]
+{% highlight bash %}
 $ git clone git://git.berlios.de/gpsd
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -687,9 +687,9 @@ $ git clone git://git.berlios.de/gpsd
 
 Should be performed once in a while to keep remote repository up to date. Do not forget to pull before pushing to avoid conflicts.
 
-[bash]
+{% highlight bash %}
 $ git push -origin master
-[/bash]
+{% endhighlight %}
 
 More information can be found in git documentation
 
@@ -852,11 +852,11 @@ are different !
 
 If you get this error when trying to compile OpenCV in Linux
 
-[bash]
+{% highlight bash %}
 
 Could NOT find PythonLibs (missing: PYTHON_INCLUDE_DIRS) in cmake
 
-[/bash]
+{% endhighlight %}
 
 Simply try installing <strong><a title="pydev package" href="http://packages.ubuntu.com/fr/hardy/python-dev">python-dev</a></strong> packages.
 
@@ -874,19 +874,19 @@ It should solve the problem.
 <ul>
 	<li> Copy your trunk folder. This will automatically proceed the mkdir</li>
 </ul>
-[bash]
+{% highlight bash %}
 
 $ svn cp trunk -> new_branch
 
-[/bash]
+{% endhighlight %}
 
 Update the information
 
-[bash]
+{% highlight bash %}
 
 $ svn update
 
-[/bash]
+{% endhighlight %}
 
 <span style="text-decoration: underline;">INFO</span>: The command is an update and not a commit, as this is the server who performed the operation!
 
@@ -898,19 +898,19 @@ You're done!
 
 Move to your trunk folder
 
-[bash]
+{% highlight bash %}
 
 $ cd path/to/my/trunk
 
-[/bash]
+{% endhighlight %}
 
 Merge the branch:
 
-[/bash]
+{% endhighlight %}
 
 $ svn merge --reintegrate ./^branch
 
-[/bash]
+{% endhighlight %}
 
 <span style="text-decoration: underline;">INFO</span>: The reintegrate option allows continuing to work in the branch even once reintegrated
 
@@ -945,24 +945,24 @@ It is a total graal to exactly know where your bottlenecks are, and which parts 
 <ul>
 	<li>Simply install gprof on your computer (for debian based distros).</li>
 </ul>
-[bash]
+{% highlight bash %}
 
 $ sudo apt-get install gprof
 
-[/bash]
+{% endhighlight %}
 <ul>
 	<li>Compile your C code with the <strong>-pg</strong> option</li>
 	<li>Execute your program, just as usual</li>
 	<li>You will see that a<strong> gmon.out</strong> file was created during the execution</li>
 	<li>You can retrieve the results of profiling by running gprof:</li>
 </ul>
-[bash]
+{% highlight bash %}
 
 $ gprof your_binary gmon.out >> saved_report
 
 $ vim saved_report
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
@@ -970,11 +970,11 @@ $ vim saved_report
 
 Using the <strong><a title="valgrind" href="http://valgrind.org/">Valgrind</a></strong> library.
 
-[bash]
+{% highlight bash %}
 
 $ valgrind --tool=memcheck --leak-check=yes --show-reachable=yes --num-callers=20 --track-fds=yes ./test
 
-[/bash]
+{% endhighlight %}
 
 <hr />
 
