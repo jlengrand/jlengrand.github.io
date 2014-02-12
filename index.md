@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: Coding, Rants and other thoughts
+tags: [coding, entrepreneur, development, blog, personal]
 image:
   feature: cropped-suommenlina.jpg
   credit: julien Lengrand
