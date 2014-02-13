@@ -11,19 +11,14 @@ image:
   creditlink: http://www.fluidr.com/photos/49365498@N03/sets
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography.
+I am **Julien Lengrand-Lambert**, a french 26 year old guy living in **Utrecht, the Netherlands**. I live there for 2 years with my girlfriend and my cat.
 
-## Minimal Mistakes is all about:
+<br>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+I work at [Spacemetric](http://www.spacemetric.se) during the day as a **Java developer** and **SCRUM master**. During my free time, you can find me **[coding](https://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<br>
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+Lately, I have [won a Startup Week-end](http://www.lengrand.fr/2012/12/how-we-won-our-first-startup-weekend/) with people I had just met, and spend a lot of time working on **[Brestram](https://play.google.com/store/apps/details?id=fr.lengrand.brestram&hl=en)**.
+I try to write blog posts regularly, and be active on **[Twitter](https://twitter.com/jlengrand)** as well; but I must admit that I usually prefer fixing bugs!
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
