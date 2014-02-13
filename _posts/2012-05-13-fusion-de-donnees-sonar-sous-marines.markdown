@@ -48,11 +48,11 @@ With one part of the algorithm searching for homogen zones and the other searchi
 Just for the beauty of it, I want to quickly present some results :
 Here is an example of sonar image manually segmented by two different experts. Observe how the results are similar, but also different at the same time.
 
-<a href="http://dl.dropbox.com/u/4286043/expert.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/expert.png" alt="" border="0" /></a>
+<center><a href="http://dl.dropbox.com/u/4286043/expert.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/expert.png" alt="" border="0" /></a></center>
 
 Here are the results I got using my fully automated method :
 
-<a href="http://dl.dropbox.com/u/4286043/algo.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/algo.png" alt="" border="0" /></a>
+<center><a href="http://dl.dropbox.com/u/4286043/algo.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/algo.png" alt="" border="0" /></a></center>
 
 Results are actually<strong> quite promising</strong>, given the amount of time I have been working on the subject! (You can have some precise results in the paper)
 I just hope that this work will be used later and lead to even more interesting results !

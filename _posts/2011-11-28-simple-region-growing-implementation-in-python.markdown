@@ -199,7 +199,12 @@ The pixel with minimum intensity in the region neighbouhood is chosen to be incl
 
 In this implementation, a 4-connectivity has been chosen. The 8-connectivity should be included soon.
 Due to the method itself, <strong>only grayscale images</strong> may be processed for now. So color images should be converted first.
-<div class="mceTemp" style="text-align: center;"><dl id="attachment_320" class="wp-caption alignnone" style="width: 639px;"><dt class="wp-caption-dt"><a href="http://www.lengrand.fr/wp-content/uploads/2011/11/region_growing.jpg"><img class="size-full wp-image-320" title="region growing tests with a gnu" src="http://www.lengrand.fr/wp-content/uploads/2011/11/region_growing.jpg" alt="region growing tests with a gnu" width="629" height="285" /></a></dt><dd class="wp-caption-dd">Here is the input image, the image with the seed point placed, and the final result!</dd></dl></div>
+<img class="size-full wp-image-320" title="region growing tests with a gnu" src="{{ site.url }}/images/posts/2011/11/region_growing.jpg" alt="region growing tests with a gnu" width="629" height="285" />
+
+Here is the input image, the image with the seed point placed, and the final result!
+
+<br>
+
 Here is the region growing function implemented in Tippy:
 
 {% highlight python %}

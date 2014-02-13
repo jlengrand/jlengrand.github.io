@@ -54,6 +54,6 @@ No problem under <strong>Linux</strong> (once again :p)!
 
 Here is a screenshot of the result, so that you get the idea :
 
-<a title="Matlab in command line" href="http://www.lengrand.fr/wp-content/uploads/2011/11/matlab_cl.png"><img class="size-large wp-image-263 alignnone" title="matlab in command line" src="http://www.lengrand.fr/wp-content/uploads/2011/11/matlab_cl.png" alt="" /></a>
+<center><a title="Matlab in command line" href="{{ site.url }}/images/posts/2011/11/matlab_cl.png"><img class="size-large wp-image-263 alignnone" title="matlab in command line" src="{{ site.url }}/images/posts/2011/11/matlab_cl.png" alt="" /></a></center>
 
 </div>

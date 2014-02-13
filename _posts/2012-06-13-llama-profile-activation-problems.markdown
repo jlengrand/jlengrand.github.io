@@ -22,7 +22,7 @@ comments: []
 ---
 A really quick tip today : I am completely fond of <strong><a title="Llama" href="http://www.appbrain.com/app/llama-location-profiles/com.kebab.Llama" target="_blank">Llama </a></strong>on my Android phone.
 
-<img title="Llama application" src="https://dl.dropbox.com/u/4286043/00_Website/03_Images/llama.png" alt="Llama application icon " width="705" height="345" />
+<center><img title="Llama application" src="https://dl.dropbox.com/u/4286043/00_Website/03_Images/llama.png" alt="Llama application icon " width="705" height="345" /></center>
 
 Actually, it the very first application I would install on a new device.
 

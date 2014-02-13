@@ -81,7 +81,7 @@ Main install page of pluxml
 
 <div>
 
-<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/install.jpeg"><img class="size-large wp-image-495" title="install of pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/install-1024x616.jpg" alt="main install page of pluxml" width="584" height="351" /></a>
+<a href="{{ site.url }}/images/posts/2012/01/install.jpeg"><img class="size-large wp-image-495" title="install of pluxml" src="{{ site.url }}/images/posts/2012/01/install-1024x616.jpg" alt="main install page of pluxml" width="584" height="351" /></a>
 
 </div>
 
@@ -95,13 +95,13 @@ You can change most of the settings, write articles and handle comments in the a
 
 Some admin settings of Pluxml
 
-<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_settings.jpeg"><img class="size-large wp-image-496" title="admin settings of Pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_settings-1024x618.jpg" alt="some admin settings of Pluxml" width="584" height="352" /></a>
+<a href="{{ site.url }}/images/posts/2012/01/admin_settings.jpeg"><img class="size-large wp-image-496" title="admin settings of Pluxml" src="{{ site.url }}/images/posts/2012/01/admin_settings-1024x618.jpg" alt="some admin settings of Pluxml" width="584" height="352" /></a>
 
 The system to add <strong>plugins</strong> is similar to most of CMS, <a title="plugins page pluxml" href="http://www.pluxml.org/?static7/download  " target="_blank">download it on the dedicated page</a>, dowload it in the plugin folder of pluxml and enable it in the admin menu :
 
 Plugin activation in pluxml
 
-<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_plugins.jpeg"><img class="size-large wp-image-497" title="plugin activation in pluxml" src="http://www.lengrand.fr/wp-content/uploads/2012/01/admin_plugins-1024x612.jpg" alt="plugin activation in pluxml" width="584" height="349" /></a>
+<a href="{{ site.url }}/images/posts/2012/01/admin_plugins.jpeg"><img class="size-large wp-image-497" title="plugin activation in pluxml" src="{{ site.url }}/images/posts/2012/01/admin_plugins-1024x612.jpg" alt="plugin activation in pluxml" width="584" height="349" /></a>
 
 
 Lots of <strong>themes</strong> have been created by the community. <strong><a title="pluxml themes" href="http://ressources.pluxml.org/" target="_blank">They can be downlodaded here</a></strong>. To install a theme, dowload the source, unzip it and dowload it to the themes folder of pluxml's root. Finally, choose it in the admin menu (section "display settings").

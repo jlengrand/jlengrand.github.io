@@ -77,7 +77,7 @@ Which one . . .
 
 <div>
 
-<a href="http://www.lengrand.fr/wp-content/uploads/2012/06/Kitchen-mess.jpg"><img class=" wp-image-675  " title="Kitchen-mess" src="http://www.lengrand.fr/wp-content/uploads/2012/06/Kitchen-mess.jpg" alt="mess in the kitchen" width="600" height="448" /></a>
+<center><a href="{{ site.url }}/images/posts/2012/06/Kitchen-mess.jpg"><img class=" wp-image-675  " title="Kitchen-mess" src="{{ site.url }}/images/posts/2012/06/Kitchen-mess.jpg" alt="mess in the kitchen" width="600" height="448" /></a></center>
 
 </div>
 
@@ -85,7 +85,7 @@ Do you prefer?
 
 <div>
 
-<a href="http://www.lengrand.fr/wp-content/uploads/2012/06/clean-kitchen.jpg"><img class=" wp-image-676  " title="clean kitchen" src="http://www.lengrand.fr/wp-content/uploads/2012/06/clean-kitchen.jpg" alt="clean kitchen" width="600" height="448" /></a>
+<center><a href="{{ site.url }}/images/posts/2012/06/clean-kitchen.jpg"><img class=" wp-image-676  " title="clean kitchen" src="{{ site.url }}/images/posts/2012/06/clean-kitchen.jpg" alt="clean kitchen" width="600" height="448" /></a></center>
 
 </div>
 <div></div>

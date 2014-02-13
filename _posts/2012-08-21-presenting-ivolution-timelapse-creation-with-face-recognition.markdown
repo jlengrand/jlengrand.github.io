@@ -49,7 +49,7 @@ Hopefully, all this work is not lost! The perspective of a contest gave me a big
 <div></div>
 <div>
 
-<a href="https://dl.dropbox.com/u/4286043/ivolution_gtk.png"><img title="Ivolution interface" src="https://dl.dropbox.com/u/4286043/ivolution_gtk.png" alt="" width="294" height="547" /></a>
+<center><a href="https://dl.dropbox.com/u/4286043/ivolution_gtk.png"><img title="Ivolution interface" src="https://dl.dropbox.com/u/4286043/ivolution_gtk.png" alt="" width="294" height="547" /></a></center>
 
 </div>
 <div></div>

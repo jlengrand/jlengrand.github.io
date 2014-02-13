@@ -153,7 +153,7 @@ As a researcher, part of your job consists in being an expert in your field and 
 Basically speaking, <strong><a title="mendeley" href="http://www.mendeley.com/" target="_blank">Mendeley</a></strong> is a publication management tool. It would help you keep track of your publications by extracting meda-data from the pdfs, and sort them out for you. For each document, you can access its authors, abstract, . . . And you can also set these meta-data and add keywords or tags.
 While keywords are often already filled by the authors of the pdfs, <strong>tags have become my very secret weapon</strong>.
 
-<a href="http://dl.dropbox.com/u/4286043/mendeley.jpg"><img class="  " title="mendeley desktop" src="http://dl.dropbox.com/u/4286043/mendeley.jpg" alt="mendeley desktop" width="552" height="301" /></a>
+<center><a href="http://dl.dropbox.com/u/4286043/mendeley.jpg"><img class="  " title="mendeley desktop" src="http://dl.dropbox.com/u/4286043/mendeley.jpg" alt="mendeley desktop" width="552" height="301" /></a></center>
 
 There are<strong> 3 major things</strong> I want to show you here that can help you efficiently handle tons of information.
 

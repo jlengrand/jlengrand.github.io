@@ -160,8 +160,10 @@ comments:
     think it can be improved, but is not too bad. \nIf you got more info, I can try
     to see what is the problem for you :)."
 ---
-<p style="text-align: left;"><a href="http://www.lengrand.fr/wp-content/uploads/2012/12/header.png"><img class="size-full wp-image-823" title="GreenGame" src="http://www.lengrand.fr/wp-content/uploads/2012/12/header.png" alt="GreenGame Logo" width="1191" height="225" /></a></p>
-<p style="text-align: justify;">Three weks ago, I attended my very first <a title="SW utrecht" href="http://utrecht.startupweekend.org/"><strong>startup weekend in Utrecht</strong></a>. I not only met a whole bunch of great guys, but also <strong>won</strong> together <a title="Greengame" href="http://www.greengame.co/" target="_blank">with my team</a> !</p>
+<p style="text-align: left;"><a href="{{ site.url }}/images/posts/2012/12/header.png"><img class="size-full wp-image-823" title="GreenGame" src="{{ site.url }}/images/posts/2012/12/header.png" alt="GreenGame Logo" width="1191" height="225" /></a></p>
+<br>
+
+<p style="text-align: justify;">Three weeks ago, I attended my very first <a title="SW utrecht" href="http://utrecht.startupweekend.org/"><strong>startup weekend in Utrecht</strong></a>. I not only met a whole bunch of great guys, but also <strong>won</strong> together <a title="Greengame" href="http://www.greengame.co/" target="_blank">with my team</a> !</p>
 <p style="text-align: justify;">I would like to share some of the excitement I had, together with some tips that might be worth for those who plan to also take the challenge !</p>
 
 <h1 style="text-align: justify;">1 - Go Pitch !</h1>
@@ -219,3 +221,8 @@ And if you consider that <strong>I registered only 2 hours before the event, thi
 <p style="text-align: justify;">In the end, it's all about getting out of your comfort zone.<strong> Get out, do crazy stuff, meet people and keep your flame alive</strong>. You know, that small thing that makes you awesome. :)</p>
 <p style="text-align: justify;"><a title="GG" href="http://greengame.co/" target="_blank">Check here</a> to know more about our project. We already have a lot of people interested in the project, so take the challenge and<a title="Twitter GreenGame" href="https://twitter.com/GreenGameSW" target="_blank"><strong> join us</strong></a> !</p>
 <p style="text-align: justify;">And of course, let me know about your own experience in the comments. I'd love to hear about it !</p>
+
+<br>
+
+
+<p><strong>EDIT: The project is now dead and the website is down :).<strong></p>

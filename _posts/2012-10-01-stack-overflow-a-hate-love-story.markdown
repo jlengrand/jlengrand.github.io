@@ -152,8 +152,10 @@ comments:
 <p style="text-align: justify;">Those last months, it became more and more rare that I query Google for an issue without having a really close match on SO, upvoted by so much people that the question is in the <strong>top 5 results from Google ! </strong></p>
 <p style="text-align: justify;"><strong></strong>With the number of specialized Stack Overflow "themes" growing every day this also becomes true not only for programming but <a title="cooking overflow" href="http://cooking.stackexchange.com/" target="_blank">cooking</a>, <a title="gaming exchange" href="http://gaming.stackexchange.com/" target="_blank">gaming</a>, <a title="math exchange" href="http://math.stackexchange.com/" target="_blank">mathematics</a> and even <a title="scifi exchange" href="http://scifi.stackexchange.com/" target="_blank">sci-fi</a>!</p>
 
+<br>
 
-[caption id="attachment_777" align="aligncenter" width="290"]<a href="http://www.lengrand.fr/wp-content/uploads/2012/10/StackOverflow.jpg"><img class="size-full wp-image-777" title="Stack Overflow" src="http://www.lengrand.fr/wp-content/uploads/2012/10/StackOverflow.jpg" alt="in Windows . ." width="290" height="150" /></a> A lovely Stack Overflow window[/caption]
+<center><a href="{{ site.url }}/images/posts/2012/10/StackOverflow.jpg"><img title="Stack Overflow" src="{{ site.url }}/images/posts/2012/10/StackOverflow.jpg" alt="in Windows . ." width="290" height="150" /></a></center>
+
 <h1 style="text-align: justify;"><strong>And this is the very reason I also hate Stack Overflow</strong></h1>
 <p style="text-align: justify;"><strong></strong>SO is so efficient that it slowly became <strong>my first source of information</strong>. If you use <a title="ddg" href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> like me (<a title="you should use DDG" href="http://blog.clifreeder.com/blog/2012/02/12/why-i-use-duckduckgo-and-you-should-too/" target="_blank">and you should</a>) you know that it comes first in the results;<strong> even before the official documentation</strong> of the project.</p>
 <p style="text-align: justify;">It is now very rare for me to have to read the API or the manual of a framework any more, simply because I know I'll directly find the answer somewhere on SO.</p>

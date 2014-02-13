@@ -31,7 +31,7 @@ My design was based on two main objectives : <strong>dark colors</strong> and <s
 I never really liked fancy colors and hate to find them in websites. I think I succeded, and you can find the result on <a title="pluxml test platform" href="http://www.lengrand.fr/pluxml/513/" target="_blank">this test platform</a>.
 Here is a screenshots of of the main page :
 
-<a href="http://www.lengrand.fr/wp-content/uploads/2012/01/pluxml_theme.jpeg"><img class="size-large wp-image-502" title="pluxml_theme" src="http://www.lengrand.fr/wp-content/uploads/2012/01/pluxml_theme-1024x617.jpg" alt="my dark pluxml theme" width="584" height="351" /></a>
+<center><a href="{{ site.url }}/images/posts/2012/01/pluxml_theme.jpeg"><img class="size-large wp-image-502" title="pluxml_theme" src="{{ site.url }}/images/posts/2012/01/pluxml_theme-1024x617.jpg" alt="my dark pluxml theme" width="584" height="351" /></a></center>
 
 The theme is based on two main colors : dark gray/black for the background and light grey for the foreground part. Web links are in colors in order to give some highlighting on the page.
 The structure is divided into three main parts:
