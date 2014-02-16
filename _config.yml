@@ -2,7 +2,8 @@ title:            Look up to the future
 tagline:          Coding, Rants and other thoughts
 description:      Coding, Rants and other thoughts
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://jlengrand.github.io
+url:              http://locahost:4000
+#http://jlengrand.github.io
 
 # Owner/author information
 owner:
@@ -18,6 +19,8 @@ owner:
   instagram:
   lastfm:
   tumblr:
+  # for stack overflow, user profile is of type http://stackoverflow.com/users/282677/jlengrand
+  stackoverflow:
   # For Google Authorship https://plus.google.com/authorship
   google_plus: https://plus.google.com/u/0/+julienlengrandlambert
 
