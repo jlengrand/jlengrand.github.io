@@ -1,1 +1,65 @@
-proof
+==================================================================
+https://keybase.io/jlengrand
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lengrand.fr
+  * I am jlengrand (https://keybase.io/jlengrand) on keybase.
+  * I have a public key with fingerprint 2B77 7EA9 4FE9 136A 6D8E  2642 09A4 360B FE08 DC46
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2b777ea94fe9136a6d8e264209a4360bfe08dc46",
+            "host": "keybase.io",
+            "key_id": "09a4360bfe08dc46",
+            "uid": "200f223c083775d13ec8819cd537d000",
+            "username": "jlengrand"
+        },
+        "service": {
+            "hostname": "lengrand.fr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1401543048,
+    "expire_in": 157680000,
+    "prev": "b3f8de7092d3efd71985b22fb6944e7295dae4519404346cc556c3e693b20dc0",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.17
+Comment: https://keybase.io/crypto
+
+yMHyAnicbZFbSBxXGMd3Ew3VuKK+SEmUMpKbWDMzZ65LLgbbYmhLN0RCDJJ1Zs6Z
+ddSd2c5ejJE1qZVWhVAblNTiimAKSSBaDGqMlyySGIkYS/KQaBtiHvIg9VbYaKAq
+nhF9y9Ph/L/f//99H98jx25bor3T+3DZc+Z/h30i+l/QdrZhur6akA1YRTiriXK0
+9aia7kGmz9T0AOEkaJnneSSJjIpECnASBwVEcwxNihIDOFJWESlAheGIHKLU8FsO
+HCNLfpSrGVjDH7cGsfoRPrhVoElSpWmgkALgeRZSACmCQIkKZAEPSZK0QD8ydcmL
+MF1WgXSPKemQCOcQWA5pCpart3pvIztErmpir880AoZiVOBCaSDgc1q+QJXPAiuR
+7N6OcMuaDvHe2BBCpl8zdMJJYVIJaFYmxZAUywCSEXIIdMmnmcitWQTLcwIekbTa
+oBCOlIEqQMSTIg0BUiFPiQIr07QqcyLDIJ4WWSghhqVEhmQAwykKy3IKQJwIZJqE
+irWsH32vG4QT4DElD470ax5dCgRNRIRHo8VxNnuibU/8LutytsSElJ17lnz2ie3B
+YGx+9af64qwfTqSf5FJr09Cfp1zDkYL0n3+9trKYvP95h4v+Nq7nAjv+Kti9YSvR
+I9HzsOP2bOPvXzwdapq/nz/cVrswGHoxFekf6j4I7xauGsdnnTfSXJ3R+Du1r79c
+ap9qnXSM9LwvcvGhz/8+9/bf2LGCXm69K7O17tNwb9utezUrYHpxLqUm86sPjY6G
+0YGx8NgMGOvr+43Ty+cy8m8eSQqFU/PGwYEZb/vERsKTyV/sP/5ztem7jGfNV1b3
+5fWvaU1vsuFfyyMLe1PYi3HJf4ix7BZ4yPharcxqSV/7pmiK61p/fFnMKvLWvSy7
+/i52ekXpKjx6OJI0vTTQvAlb1hnX
+=r6T8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jlengrand
+
+==================================================================
