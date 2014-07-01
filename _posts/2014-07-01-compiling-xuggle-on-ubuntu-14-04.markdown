@@ -13,24 +13,27 @@ categories:
 tags:
 - xuggle
 - java
--xuggle
+- xuggle
 - codec
 - ubuntu
 comments: []
 ---
 
 This guide applies for the latest [Xuggle][1] release from [Github][2] (5.5).
+<br />
+<br />
 
 It is useful if you want to compile **Xuggle** from source on the latest **Ubuntu** release (14.04). I have been compiling using a **64 bits** system.
+<br />
 
 You can find more complete information on the [dedicated page from the Xuggle website][3].
 And if you need even more info, you can have a look at [the advanced build page][4].
-
+<br />
+<br />
 First of all, we will need to install some packages needed during the compilation :
+<br />
 
-Installing various dependencies
-
-    $ apt-get install ant git yasm
+    $ apt-get install ant git yasm # Installing various dependencies
     $ apt-get install build-essential # g++, gcc and others
 
 We then want to download and install the latest Java 7 realease
@@ -68,15 +71,16 @@ Finally, we can try to compile Xuggle from source.
 
     $ ant stage
 
-Compilation takes roughly **20 minutes** on my system.
-
+Compilation takes roughly **10 minutes** on my system.
+<br />
+<br />
 If the compilation is successful, you can get the generated **jar** in the dist folder.
 The latest release of Xuggle embeds the **so** files directly in the jar, so you shouldn't need anything else.
-
-
+<br />
+<br />
 Compiling Xuggle from scratch in 14.04 has been surprisingly easy comparing to 12.04. The compilation scheme has been greatly improved in the latest Xuggle release.
-
-
+<br />
+<br />
 **Note : Xuggle is now deprecated, and has not been updated for now almost a year. So far, I haven't found an equivalent that would be just as good. Let me know if you do!**
 
 
