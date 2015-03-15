@@ -11,7 +11,7 @@ image:
   creditlink: http://www.fluidr.com/photos/49365498@N03/sets
 ---
 
-My name **Julien Lengrand-Lambert**, and I am a french 26 year old guy living in **Utrecht, the Netherlands**. I live there for 2 years with my girlfriend and my cat.
+My name **Julien Lengrand-Lambert**, and I am a french 27 year old guy living in **Utrecht, the Netherlands**. I live there for 2 years with my girlfriend and my cat.
 
 
 <br>
@@ -39,10 +39,11 @@ I try to write blog posts regularly, and be active on **[Twitter](https://twitte
 
 My latest projects include :
 
+
+- **[Brestram](https://play.google.com/store/apps/details?id=fr.lengrand.brestram&hl=en)**, an android app that delivers real-time bus schedules in Brest.
 - **[Spo2tube](http://spo2tu.be/)**, a Spotify to Youtube converter that I developed to learn node.js.
 - **[Ivolution](http://jlengrand.github.io/Ivolution/)**, a face timelapse generator written in Python.
-- **[Brestram](https://play.google.com/store/apps/details?id=fr.lengrand.brestram&hl=en)**, an android app that delivers real-time bus schedules in Brest.
-
+- **[Votify](http://votify.co/)**, a free online elections software for associations or anyone else. I used this project to learn Ruby on Rails.
 
 <br>
 
