@@ -28,12 +28,11 @@ On my machine, the repositories are stored in `/spacemetric/svn`, and the reposi
 
 On my machine, this gives us :
 
-```
-$ cd /spacemetric/svn
-$ svnadmin dump main >  /spacemetric/shared/jll/svnstuff/main_last.dump
-$ svnadmin dump ext-video >  /spacemetric/shared/jll/svnstuff/video_last.dump
-$ svnadmin dump public >  /spacemetric/shared/jll/svnstuff/public_last.dump
-```
+
+    $ cd /spacemetric/svn
+    $ svnadmin dump main >  /spacemetric/shared/jll/svnstuff/main_last.dump
+    $ svnadmin dump ext-video >  /spacemetric/shared/jll/svnstuff/video_last.dump
+    $ svnadmin dump public >  /spacemetric/shared/jll/svnstuff/public_last.dump
 
 And as the main repo is for us the most critical, and I am never sure enough of what I do, I also made a folder copy of the repository :
 
