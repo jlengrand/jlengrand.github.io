@@ -16,9 +16,9 @@ comments: []
 ---
 
 The source code at [Spacemetric](http://www.spacemetric.com/) has been split over several reasons for years. The main reason was that some customers were having access to part of our code, while some other parts were to be kept private. This makes working with branches a real nightmare, and we lately decided to merge our repositories back together for this reason.
-
+<br>
 The task ahead : Merge 3 different repositories together for a total of around 16k commits, that hold roughly the same structure of folders. One catch though : **It is imperative not to lose the commit history.**
-
+<br>
 I looked around on the internet without finding anything really satisfactory. So I ended up rolling my own solution. Here is how I have done it.
 
 ### Backing up
@@ -26,7 +26,7 @@ I looked around on the internet without finding anything really satisfactory. So
 The first thing to do is obviously to backup the repositories. You don't want to do anything that is gonna spoil your codebase! **Here, it is important to backup the server side repo, not your local checkout**
 
 On my machine, the repositories are stored in `/spacemetric/svn`, and the repositories that I want to merge are called main, ext-video and public.
-
+<br>
 On my machine, this gives us :
 
     $ cd /spacemetric/svn
@@ -41,7 +41,7 @@ And as the main repo is for us the most critical, and I am never sure enough of 
 ### Creating the new repository
 
 Here, it is worth noting that we decided to create a brand new repository for this, in order to keep the old repositories intact but also to make clear for everybody in a team what happened (by having them making a checkout from scratch).
-
+<br>
 As the main repo contains most commits, I decided that I wanted to merge ext-video and public in main. So I started by creating a new repository that was based on the main repo. Which give us :
 
     $ svnadmin create spacemetric # Creating the new repository
@@ -51,7 +51,7 @@ As the main repo contains most commits, I decided that I wanted to merge ext-vid
 ### Merging repositories
 
 The next step was to insert the content of the ext-video and public repositories into the freshly created spacemetric repo. This is pretty simple to do :
-
+<br>
 First we create subfolders for public and video inside spacemetric:
 
     $ svn mkdir svn+ssh://jll@svn.spacemetric.se/spacemetric/svn/spacemetric/public-repo --message "Added the public-repo folder to merge public repository."
@@ -62,7 +62,7 @@ And then load the content of the repository into the subfolders:
     $ svnadmin load . --parent-dir public-repo < /spacemetric/shared/jll/svnstuff/public_last.dump
     $ svnadmin load . --parent-dir video-repo < /spacemetric/shared/jll/svnstuff/video_last.dump
 
-It is interesting to note here that if no commits are lost in this process, **the order and reference of the commits are changed**. In this case, the public commits are rolled on top of the spacemetric commits, and then the video commits are rolled on top of this. Basically, it looks like the video repo has been created last and all commits have been made there one after the other.
+It is interesting to note here that if no commits are lost in this process, **the order and reference of the commits are changed**. In this case, the public commits are rolled on top of the spacemetric commits, and then the video commits are rolled on top of this. Basically, it looks like the video repo has been created last and all commits have been made there one after the other.<br>
 The commit history is still complete, but the relative order is now different.
 
 ### Cleaning things up
@@ -96,9 +96,7 @@ And here is what I want to achieve in the end :
       - spacemetric
       - eclipse # contains the code from main, video and public
 
-Well, the easiest way I found to do this was to do folder operations on the client side. As all repos contained code that was non redundant I was pretty sure there would be no conflict so the process was rather quick and easy :
-
-On my local machine, here is what I have done :
+Well, the easiest way I found to do this was to do folder operations on the client side. As all repos contained code that was non redundant I was pretty sure there would be no conflict so the process was rather quick and easy. On my local machine, here is what I have done :
 
     $ svn checkout svn+ssh://jll@svn.spacemetric.se/spacemetric/svn/spacemetric
 
@@ -113,10 +111,11 @@ Last but not least, I made sure everybody has to switch to the new repository by
     exit 1
 
 Here it is, a clear, unique repository that will allow developers to start using branches easily without having nightmares!
-
+<br>
 The whole process was a bit tedious (16k commits, around 4 hours to do the whole process) and scary, but everything turned out fine and we never looked back.
-
+<br>
 My next objective now is to get us to switch from git to svn, as any sane person would do :). Using [git-svn](http://csurs.csr.uky.edu/cgi-bin/man/man2html?1+git-svn) makes my life bareable for now.
 
+<br>
 Cheers!
 
