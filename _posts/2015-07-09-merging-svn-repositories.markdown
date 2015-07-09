@@ -38,6 +38,8 @@ And as the main repo is for us the most critical, and I am never sure enough of 
 
     $ cp -rp main main_backup
 
+### Creating the new repository
+
 Here, it is worth noting that we decided to create a brand new repository for this, in order to keep the old repositories intact but also to make clear for everybody in a team what happened (by having them making a checkout from scratch).
 
 As the main repo contains most commits, I decided that I wanted to merge ext-video and public in main. So I started by creating a new repository that was based on the main repo. Which give us :
@@ -45,6 +47,8 @@ As the main repo contains most commits, I decided that I wanted to merge ext-vid
     $ svnadmin create spacemetric # Creating the new repository
     $ cd spacemetric
     $ svnadmin load . < /spacemetric/shared/jll/svnstuff/main_last.dump # Loading main into the new repo
+
+### Merging repositories
 
 The next step was to insert the content of the ext-video and public repositories into the freshly created spacemetric repo. This is pretty simple to do :
 
@@ -60,6 +64,8 @@ And then load the content of the repository into the subfolders:
 
 It is interesting to note here that if no commits are lost in this process, **the order and reference of the commits are changed**. In this case, the public commits are rolled on top of the spacemetric commits, and then the video commits are rolled on top of this. Basically, it looks like the video repo has been created last and all commits have been made there one after the other.
 The commit history is still complete, but the relative order is now different.
+
+### Cleaning things up
 
 This is close from what I want, but not quite yet. I already said that all my repos have the same structure, so simply having subfolders won't cut it. Ti try to make things simple, here was the situation before the merge:
 
@@ -97,6 +103,8 @@ On my local machine, here is what I have done :
     $ svn checkout svn+ssh://jll@svn.spacemetric.se/spacemetric/svn/spacemetric
 
 And then using [Tortoise](http://tortoisesvn.net/) (I hate the SVN command line) I simply moved the eclipse folder from video and public into the main eclipse folder and commited. This was a pretty big and scary commit but everything turned out fine.
+
+### Wrapping up
 
 Last but not least, I made sure everybody has to switch to the new repository by adding a pre-commit hook to the old repositories. Basically, anyone that would attempt to commit would get an error message back. Doing it was pretty simple. In the main, video and public `/hooks/pre-commit` folder I added the following bash script :
 
