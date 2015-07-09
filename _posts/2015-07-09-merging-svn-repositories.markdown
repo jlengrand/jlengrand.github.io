@@ -21,6 +21,7 @@ The task ahead : Merge 3 different repositories together for a total of around 1
 
 I looked around on the internet without finding anything really satisfactory. So I ended up rolling my own solution. Here is how I have done it.
 
+### Backing up
 
 The first thing to do is obviously to backup the repositories. You don't want to do anything that is gonna spoil your codebase! **Here, it is important to backup the server side repo, not your local checkout**
 
