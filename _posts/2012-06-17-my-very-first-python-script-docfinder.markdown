@@ -66,4 +66,5 @@ You might want to check my<strong><a title="facemovie" href="http://jlengrand.gi
 
 Julien
 
+
 P.S : If you are searching for a list of python resources, WhoIsHostingMe kindly requested me to offer <a href="http://www.whoishostingthis.com/resources/python/" >their link</a> as well.
