@@ -27,7 +27,7 @@ As you may <a title="python articles" href="http://www.lengrand.fr/category/prog
 
 I fell in love with Python some years ago, but you should know more about this soon :).
 
-As many of Python users, I started with<strong> <a href="http://diveintopython.org/">Dive into Python</a> </strong>(moreover its <a title="plongez au coeur de python" href="http://diveintopython.adrahon.org/" target="_blank">french translation</a>).
+As many of Python users, I started with<strong> <a href="http://www.diveintopython.net/">Dive into Python</a> </strong>.
 
 Some days ago, I found myself into the very first Python script I ever written (but still use some times :)). I found it funny (even more when you think that It can be reduced to a<a title="one liners bash" href="http://www.bashoneliners.com/" target="_blank"> one-liner</a>), and thought I would share it.
 
@@ -65,3 +65,5 @@ When you find yourself a<strong> <a title="bad programmer" href="https://sites.g
 You might want to check my<strong><a title="facemovie" href="http://jlengrand.github.com/FaceMovie/" target="_blank"> current pet project</a></strong>, it is also all Python :)
 
 Julien
+
+P.S : If you are searching for a list of python resources, WhoIsHostingMe kindly requested me to offer <a href="http://www.whoishostingthis.com/resources/python/" >their link</a> as well.
