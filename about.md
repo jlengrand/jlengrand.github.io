@@ -11,20 +11,20 @@ image:
   creditlink: http://www.fluidr.com/photos/49365498@N03/sets
 ---
 
-My name **Julien Lengrand-Lambert**, and I am a french 27 year old guy living in **Utrecht, the Netherlands**. I live there for 2 years with my girlfriend and my cat.
+My name **Julien Lengrand-Lambert**, and I am a french 28 year old guy living in **Utrecht, the Netherlands**. I live there for 4 years with my girlfriend and my cat. And at the end of the year, I am to be a father :).
 
 
 <br>
 
 
-I work at [Spacemetric](http://www.spacemetric.se) during the day as a **Java developer** and **SCRUM master**. During my free time, you can find me **[coding](https://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
+I work at [Spacemetric](http://www.spacemetric.se) during the day as a **Java developer** and **Operations Manager**. During my free time, you can find me **[coding](https://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
 
 
 <br>
 
 
 I am originally an **Image Processing engineer**, and I used to develop low footprint algorithms on embedded platforms. I also worked in automatic sea mine detection in the past and published papers in conferences.
-The latest can be found here:
+They can be found here:
 
 - [Sonar images segmentation and classification fusion, ECUA 2010](http://dl.dropbox.com/u/4286043/00_Website/01_Publis/Fusion_GESMA_ECUA.pdf)
 - [Automatic target recognition in synthetic aperture sonar images for autonomous mine hunting, ECUA 2010](http://dl.dropbox.com/u/4286043/00_Website/01_Publis/ATR_TNO_ECUA.pdf)
