@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: FFMPEG : Make fails to compile
+title: FFMPEG Make fails to compile
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
@@ -16,6 +16,7 @@ tags:
 - compilation
 comments: []
 ---
+
 Hey there, 
 
 Today, I downloaded the latest version of ffmpeg and trid to compile it from scratch.
