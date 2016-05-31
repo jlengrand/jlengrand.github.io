@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: FFMPEG Make fails to compile
+title: FFMPEG Make fails to compile on Windows
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
