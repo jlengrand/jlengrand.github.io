@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Prticipating the Green Hackfest Utrecht 2014
+title: Participating the Green Hackfest Utrecht 2014
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
