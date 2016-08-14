@@ -1,5 +1,22 @@
-Cloning a workspace in Jenkins with a Git SVM setup does not checkout the correct branch. 
-
+---
+layout: post
+status: publish
+published: true
+title: Cloning a workspace in Jenkins with a Git SVM setup does not checkout the correct branch. 
+author: Julien Lengrand-Lambert
+author_login: jlengrand
+author_email: julien@lengrand.fr
+author_url: http://www.lengrand.fr
+categories:
+- tips
+tags:
+- jenkins
+- git
+- gitlab
+- clone
+- SCM
+comments: []
+---
 Hi there, 
 
 This is a strange behaviour I have noticed when using Jenkins lately, that caused us a few headaches before we realize what was happening. 
