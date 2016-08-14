@@ -19,6 +19,7 @@ comments: []
 ---
 Hi there, 
 
+
 This is a strange behaviour I have noticed when using Jenkins lately, that caused us a few headaches before we realize what was happening. 
 
 At [Spacemetric](http://www.spacemetric.com/ "Spacemetric"), we are using both Gitlab and Jenkins for CI. 
