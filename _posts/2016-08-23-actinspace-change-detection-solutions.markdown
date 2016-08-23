@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Participating the ESA ESA ActinSpace Hackathon
+title: Participating the ESA ActinSpace Hackathon
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
