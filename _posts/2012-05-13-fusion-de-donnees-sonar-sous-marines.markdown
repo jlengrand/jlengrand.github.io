@@ -42,17 +42,17 @@ In this paper, I present a new method that merge a  <strong>feature based class
 As a basis for the region based algorithm, I used the<a title="level sets wikipedia" href="http://en.wikipedia.org/wiki/Level_set_method" target="_blank"> level-sets method</a>.
 With one part of the algorithm searching for homogen zones and the other searching for limits, one can hope to get nice results once merged !
 
-<strong><a title="GESMA_EGC" href="http://dl.dropbox.com/u/4286043/00_Website/01_Publis/Fusion_GESMA_EGC.pdf" target="_blank">Here is a link</a></strong> to the french version of the paper, presented at the <a title="EGC2010" href="http://www.projets.rnu.tn/egc2010/" target="_blank">"10ème Conférence Internationale Francophone sur l'Extraction et la Gestion des Connaissances (EGC)"</a>
+<strong><a title="GESMA_EGC" href="https://drive.google.com/open?id=0B4bXocpgiAyxN05ycllBT1RMOEk" target="_blank">Here is a link</a></strong> to the french version of the paper, presented at the <a title="EGC2010" href="http://www.projets.rnu.tn/egc2010/" target="_blank">"10ème Conférence Internationale Francophone sur l'Extraction et la Gestion des Connaissances (EGC)"</a>
 
-<strong><a title="GESMA_ECUA" href="http://dl.dropbox.com/u/4286043/00_Website/01_Publis/Fusion_GESMA_ECUA.pdf" target="_blank">The english version</a></strong> was presented one year later at<a title="ECUA 2010" href="http://www.eaa-fenestra.org/event-calendar/list_of_events/2010/event.2009-06-30" target="_blank"> "10th European Conference on Underwater Acoustics (ECUA) 2010"</a>.
+<strong><a title="GESMA_ECUA" href="https://drive.google.com/open?id=0B4bXocpgiAyxMmxoelY4Y0Vpdm8" target="_blank">The english version</a></strong> was presented one year later at<a title="ECUA 2010" href="http://www.eaa-fenestra.org/event-calendar/list_of_events/2010/event.2009-06-30" target="_blank"> "10th European Conference on Underwater Acoustics (ECUA) 2010"</a>.
 Just for the beauty of it, I want to quickly present some results :
 Here is an example of sonar image manually segmented by two different experts. Observe how the results are similar, but also different at the same time.
 
-<center><a href="http://dl.dropbox.com/u/4286043/expert.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/expert.png" alt="" border="0" /></a></center>
+<center><a href="https://drive.google.com/open?id=0B4bXocpgiAyxcEpIazJyMk5mb3M"><img class="aligncenter" src="https://drive.google.com/open?id=0B4bXocpgiAyxcEpIazJyMk5mb3M" alt="" border="0" /></a></center>
 
 Here are the results I got using my fully automated method :
 
-<center><a href="http://dl.dropbox.com/u/4286043/algo.png"><img class="aligncenter" src="http://dl.dropbox.com/u/4286043/algo.png" alt="" border="0" /></a></center>
+<center><a href="https://drive.google.com/open?id=0B4bXocpgiAyxWHkyemFBT2VuY28"><img class="aligncenter" src="https://drive.google.com/open?id=0B4bXocpgiAyxWHkyemFBT2VuY28" alt="" border="0" /></a></center>
 
 Results are actually<strong> quite promising</strong>, given the amount of time I have been working on the subject! (You can have some precise results in the paper)
 I just hope that this work will be used later and lead to even more interesting results !

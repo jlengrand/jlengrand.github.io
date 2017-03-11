@@ -40,7 +40,7 @@ As an example, the <a title="Cartesian coordinate system" href="https://en.wik
 
 In <em><a title="Le discours de la méthode" href="https://fr.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode" target="_blank">Le discours de la méthode</a></em>  , Descartes describes 4 principles that (in his mind) people should follow to eventually find a solution to their (scientific) problems.
 
-<img title="Le discours de la méthode" src="https://dl.dropbox.com/u/4286043/00_Website/03_Images/Descartes_Discours_de_la_Methode.jpg" alt="Cover of le discours de la Méthode" width="250" height="340" />
+<img title="Le discours de la méthode" src="https://drive.google.com/open?id=0B4bXocpgiAyxbjBINnhIblNIVmM" alt="Cover of le discours de la Méthode" width="250" height="340" />
 
 Here is the <strong>original (and french) version</strong> of those principles:
 <blockquote>

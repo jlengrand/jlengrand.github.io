@@ -49,7 +49,7 @@ Hi all,
 
 <strong>Long time no see !</strong>
 I stayed silent those last days for the simple reason that I relocated to the Netherlands.
-Two years ago, I spent some months working at <strong><a title="TNO website" href="http://www.tno.nl/index.cfm?Taal=2" target="_blank">TNO</a></strong> in underwater mine recognition. The internship took place in <a title="The Hague wiki" href="http://en.wikipedia.org/wiki/The_Hague" target="_blank">The Hague</a> and I discovered how fascinating life could be outside of your native country.I should write more soon about <a title="ECUA ATR" href="http://dl.dropbox.com/u/4286043/215.pdf" target="_blank">the results of this project</a>:).
+Two years ago, I spent some months working at <strong><a title="TNO website" href="http://www.tno.nl/index.cfm?Taal=2" target="_blank">TNO</a></strong> in underwater mine recognition. The internship took place in <a title="The Hague wiki" href="http://en.wikipedia.org/wiki/The_Hague" target="_blank">The Hague</a> and I discovered how fascinating life could be outside of your native country.I should write more soon about <a title="ECUA ATR" href="https://drive.google.com/open?id=0B4bXocpgiAyxY1I3d2lIR2tvSHc" target="_blank">the results of this project</a>:).
 
 Back in France, I realized that each day I was missing international life more and more and my girlfriend and me finally took the decision to relocate abroad as soon as possible
 
