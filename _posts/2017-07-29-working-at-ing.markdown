@@ -16,17 +16,16 @@ tags:
 - startup
 comments: []
 ---
-After 5 years spent working at **[Spacemetric](http://spacemetric.com/)**, I finally decided to move on and started working at ING in the beginning of May.
-I knew for a while that it was time to change landscape, to keep growing. But [I had always worked in small companies](https://www.linkedin.com/in/julienlengrand/) and never expected to take a position such a large organization. And on top of it, this new job marks the stop of my work in the image processing / imagery world.
+After 5 years spent working at **[Spacemetric](http://spacemetric.com/)**, I finally decided to move on. The last years have been great and it's insane how much I grew. But I also think it's important to move when you start feeling too comfortable somewhere. That's what allows you to keep growing. So I started working at ING in the beginning of May.
+
+[I have always worked in small companies](https://www.linkedin.com/in/julienlengrand/) and never expected to take a position such a large organization. And on top of it, this new job marks the stop of my work in the GIS / imagery processing industry.
 <br/>
 <br/>
 Over the last years, I grew more and more interest in leading people. I always loved fixing problems and communicating with others. During the last years at Spacemetric, I have spent a lot of efforts trying to get people to embrace new ways of working, getting them to go to events, testing new technologies, . . . 
-At the same time, I love finding win/win solutions to real-life daily issues; especially if that involves customers. As such, I knew that I was searching for more of a Team lead position. 
-I hate the word management, but I definitely believe in leading from the inside out. So I wanted to find a place where I could keep building stuff, while also providing value at a higher level.
+At the same time, I love finding win/win solutions to real-life daily issues, especially if that involves customers. As such, I knew that I was searching for a Team lead position. I hate the word management, but I definitely believe in leading from the inside out. So I wanted to find a place where I could keep building stuff, while also providing value at a higher level.
 <br/>
 <br/>
-I still do like image processing a lot, but the market is not that big and finding a team that needs a lead, in the Image Processing industry, in the Netherlands was a bit too restrictive.
-I decided to drop the Image Processing requirement :), and keep it for side projects.
+I still do like image processing a lot, but the market is not that big and finding a team that needs a lead, in the Image Processing industry, in the Netherlands was a bit too restrictive. I decided to drop the Image Processing requirement :), and keep it for side projects.
 <br/>
 <br/>
 One day, I found a **[Chapter Lead](https://www.ing.jobs/Netherlands/Why-ING/What-we-offer/Agile-working.htm)** position description at ING. I didn't know what a Chapter Lead, but it looked exactly like who I was!
