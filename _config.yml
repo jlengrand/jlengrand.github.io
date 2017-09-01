@@ -1,6 +1,6 @@
 title:            Look up to the future
-tagline:          Coding, Rants and other thoughts
-description:      Coding, Rants and other thoughts
+tagline:          Coding and other thoughts
+description:      Coding and other thoughts
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://jlengrand.github.io
 
@@ -8,7 +8,7 @@ url:              http://jlengrand.github.io
 owner:
   name:           Julien Lengrand-Lambert
   avatar:         us.jpg
-  bio:            "French guy living in the Netherlands. Developer @spacemetric during the day, bouldering at night."
+  bio:            "French guy living in the Netherlands. Chapter Lead @ING during the day, bouldering at night."
   email:          julien@lengrand.fr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jlengrand
