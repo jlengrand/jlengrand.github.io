@@ -17,7 +17,7 @@ My name **Julien Lengrand-Lambert**, and I am a french 29 year old guy living in
 <br>
 
 
-I work at [ING](ing.nl) during the day as a **CHapter Lead**, and I am responsible for coaching a team of 8 to 10 engineers as well as being an engineer myself. During my free time, you can find me **[coding](https://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
+I work at [ING](ing.nl) during the day as a **Chapter Lead**, and I am responsible for coaching a team of 8 to 10 engineers as well as being an engineer myself. During my free time, you can find me **[coding](https://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
 
 
 <br>
