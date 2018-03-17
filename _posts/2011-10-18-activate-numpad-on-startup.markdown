@@ -6,9 +6,9 @@ title: Activate numpad on startup
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 29
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=29
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=29
 date: 2011-10-18 13:14:24.000000000 +02:00
 categories:
 - tips
@@ -32,7 +32,7 @@ comments:
 - id: 8422
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMy0wNC0xMSAwOToyNTo0MSArMDIwMA==
   date_gmt: !binary |-
@@ -42,7 +42,7 @@ comments:
 - id: 10188
   author: Fabian
   author_email: hello@fabianpeter.de
-  author_url: http://fabianpeter.de
+  author_url: https://fabianpeter.de
   date: !binary |-
     MjAxMy0wNS0wNyAwODoxNjoxOSArMDIwMA==
   date_gmt: !binary |-
@@ -52,7 +52,7 @@ comments:
 - id: 10417
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMy0wNS0xMCAxOToxNDowMSArMDIwMA==
   date_gmt: !binary |-

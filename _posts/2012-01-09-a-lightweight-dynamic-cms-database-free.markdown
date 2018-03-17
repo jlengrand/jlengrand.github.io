@@ -6,9 +6,9 @@ title: A lightweight dynamic CMS, database free!
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 494
-wordpress_url: http://www.lengrand.fr/?p=494
+wordpress_url: https://www.lengrand.fr/?p=494
 date: 2012-01-09 13:42:28.000000000 +01:00
 categories:
 - misc
@@ -25,7 +25,7 @@ comments:
 - id: 144
   author: My minimalist dark Pluxml theme | loup2fu
   author_email: ''
-  author_url: http://www.lengrand.fr/2012/01/my-minimalist-dark-pluxml-theme/
+  author_url: https://www.lengrand.fr/2012/01/my-minimalist-dark-pluxml-theme/
   date: !binary |-
     MjAxMi0wMS0xMCAxMzoyOToxOCArMDEwMA==
   date_gmt: !binary |-
@@ -48,7 +48,7 @@ comments:
 - id: 24348
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxNC0wMi0wNSAxNToyOTo0NiArMDEwMA==
   date_gmt: !binary |-
@@ -63,8 +63,8 @@ comments:
     I'd say that for a pluxml website with a large traffic, you should probably look
     at SSDs more than anything else, and add a caching layer."
 ---
-Before choosing <strong><a title="wordpress" href="http://wordpress.org/" target="_blank">Wordpress</a></strong> as a <strong><a title="CMS wiki" href="http://en.wikipedia.org/wiki/Content_management_system" target="_blank">CMS</a></strong>, I searched for a minimalist way to both learn web development and get a nice looking blog.
-My choice went To <strong><a title="pluxml" href="http://www.pluxml.org/" target="_blank">Pluxml</a></strong>, which is a french initiative to run websites <strong>without databases</strong>. This way, you can freely use it on a portable USB key. Everything is based on the XML format.
+Before choosing <strong><a title="wordpress" href="https://wordpress.org/" target="_blank">Wordpress</a></strong> as a <strong><a title="CMS wiki" href="https://en.wikipedia.org/wiki/Content_management_system" target="_blank">CMS</a></strong>, I searched for a minimalist way to both learn web development and get a nice looking blog.
+My choice went To <strong><a title="pluxml" href="https://www.pluxml.org/" target="_blank">Pluxml</a></strong>, which is a french initiative to run websites <strong>without databases</strong>. This way, you can freely use it on a portable USB key. Everything is based on the XML format.
 
 <strong>PluXml</strong> is a full CMS developed in php which contains lots of tools, from editors to admin menus or comments handling. It supports multiple users with different credentials.
 I think this is a perfect choice for people that search for a<strong> lightweight solution</strong> and know a bit of programming languages.
@@ -74,7 +74,7 @@ The only drawback of <strong>Pluxml</strong> would be its <strong>french roots</
 
 The installation is way simple :
 <ul>
-	<li><a title="pluxml latest" href="http://www.pluxml.org/" target="_blank">Simply download the last version of Pluxml here</a>, and unzip it in the desired folder of your server.</li>
+	<li><a title="pluxml latest" href="https://www.pluxml.org/" target="_blank">Simply download the last version of Pluxml here</a>, and unzip it in the desired folder of your server.</li>
 </ul>
 
 Main install page of pluxml
@@ -97,15 +97,15 @@ Some admin settings of Pluxml
 
 <a href="{{ site.url }}/images/posts/2012/01/admin_settings.jpeg"><img class="size-large wp-image-496" title="admin settings of Pluxml" src="{{ site.url }}/images/posts/2012/01/admin_settings-1024x618.jpg" alt="some admin settings of Pluxml" width="584" height="352" /></a>
 
-The system to add <strong>plugins</strong> is similar to most of CMS, <a title="plugins page pluxml" href="http://www.pluxml.org/?static7/download  " target="_blank">download it on the dedicated page</a>, dowload it in the plugin folder of pluxml and enable it in the admin menu :
+The system to add <strong>plugins</strong> is similar to most of CMS, <a title="plugins page pluxml" href="https://www.pluxml.org/?static7/download  " target="_blank">download it on the dedicated page</a>, dowload it in the plugin folder of pluxml and enable it in the admin menu :
 
 Plugin activation in pluxml
 
 <a href="{{ site.url }}/images/posts/2012/01/admin_plugins.jpeg"><img class="size-large wp-image-497" title="plugin activation in pluxml" src="{{ site.url }}/images/posts/2012/01/admin_plugins-1024x612.jpg" alt="plugin activation in pluxml" width="584" height="349" /></a>
 
 
-Lots of <strong>themes</strong> have been created by the community. <strong><a title="pluxml themes" href="http://ressources.pluxml.org/" target="_blank">They can be downlodaded here</a></strong>. To install a theme, dowload the source, unzip it and dowload it to the themes folder of pluxml's root. Finally, choose it in the admin menu (section "display settings").
+Lots of <strong>themes</strong> have been created by the community. <strong><a title="pluxml themes" href="https://ressources.pluxml.org/" target="_blank">They can be downlodaded here</a></strong>. To install a theme, dowload the source, unzip it and dowload it to the themes folder of pluxml's root. Finally, choose it in the admin menu (section "display settings").
 <em>Final tip :</em> Most of your information are stored in the parametres.xml file available in the data/configuration folder.
-You can have an idea of what pluxml can give <a title="pluxml test" href="http://www.lengrand.fr/pluxml/513/" target="_blank">here ( on my sample server)</a> or in <a title="websites powered by pluxml" href="http://wiki.pluxml.org/index.php?page=Sites+r%C3%A9alis%C3%A9s+avec+PluXml " target="_blank">the list of websites powered by Pluxml</a>!
+You can have an idea of what pluxml can give <a title="pluxml test" href="https://www.lengrand.fr/pluxml/513/" target="_blank">here ( on my sample server)</a> or in <a title="websites powered by pluxml" href="https://wiki.pluxml.org/index.php?page=Sites+r%C3%A9alis%C3%A9s+avec+PluXml " target="_blank">the list of websites powered by Pluxml</a>!
 
 Enjoy, and let me know if you need any french translation!

@@ -6,7 +6,7 @@ title: Starting a new adventure
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 categories:
 - work
 - job
@@ -16,7 +16,7 @@ tags:
 - startup
 comments: []
 ---
-After 5 years spent working at **[Spacemetric](http://spacemetric.com/)**, I finally decided to move on. The last years have been great and it's insane how much I grew. But I also think it's important to move when you start feeling too comfortable somewhere. That's what allows you to keep growing. So I started working at ING in the beginning of May.
+After 5 years spent working at **[Spacemetric](https://spacemetric.com/)**, I finally decided to move on. The last years have been great and it's insane how much I grew. But I also think it's important to move when you start feeling too comfortable somewhere. That's what allows you to keep growing. So I started working at ING in the beginning of May.
 
 [I have always worked in small companies](https://www.linkedin.com/in/julienlengrand/) and never expected to take a position such a large organization. And on top of it, this new job marks the stop of my work in the GIS / imagery processing industry.
 <br/>

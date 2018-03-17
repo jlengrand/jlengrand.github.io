@@ -4,7 +4,7 @@ https://keybase.io/jlengrand
 
 I hereby claim:
 
-  * I am an admin of http://lengrand.fr
+  * I am an admin of https://lengrand.fr
   * I am jlengrand (https://keybase.io/jlengrand) on keybase.
   * I have a public key with fingerprint 2B77 7EA9 4FE9 136A 6D8E  2642 09A4 360B FE08 DC46
 

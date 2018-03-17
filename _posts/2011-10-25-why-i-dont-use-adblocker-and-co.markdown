@@ -6,9 +6,9 @@ title: Why I don't use adBlocker and co
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 200
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=200
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=200
 date: 2011-10-25 09:18:43.000000000 +02:00
 categories:
 - misc
@@ -40,7 +40,7 @@ comments:
 - id: 27
   author: Simon Bartlett
   author_email: simon.bartlett@me.com
-  author_url: http://simonbartlett.co.uk
+  author_url: https://simonbartlett.co.uk
   date: !binary |-
     MjAxMS0xMi0wMiAxMzoxMjoxMSArMDEwMA==
   date_gmt: !binary |-
@@ -77,7 +77,7 @@ comments:
 - id: 30
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0wMiAxMzo1Nzo0NSArMDEwMA==
   date_gmt: !binary |-
@@ -91,7 +91,7 @@ comments:
 - id: 31
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0wMiAxNDowMDoxNiArMDEwMA==
   date_gmt: !binary |-
@@ -104,7 +104,7 @@ comments:
 - id: 32
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0wMiAxNDowNDo0NSArMDEwMA==
   date_gmt: !binary |-
@@ -136,7 +136,7 @@ comments:
 - id: 34
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0wMiAxNDozMzo1MSArMDEwMA==
   date_gmt: !binary |-
@@ -187,7 +187,7 @@ comments:
 - id: 41
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0wNCAxOToyNDo1MSArMDEwMA==
   date_gmt: !binary |-
@@ -199,7 +199,7 @@ comments:
 - id: 42
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0wNCAxOTozMDowNSArMDEwMA==
   date_gmt: !binary |-
@@ -247,7 +247,7 @@ comments:
 - id: 1092
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0zMCAxMToyMDoxNCArMDIwMA==
   date_gmt: !binary |-
@@ -256,7 +256,7 @@ comments:
 - id: 1093
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0zMCAxMToyMTozMSArMDIwMA==
   date_gmt: !binary |-
@@ -280,7 +280,7 @@ If everybody blocks adverts on its browser, it is likely that brands finally ten
 So, several ways would be left for websites owners to get some cash back :
 <ul>
 	<li><strong>Keep paying</strong> for the service, without any help (Ouch!)</li>
-	<li><strong>Ask for volontary support</strong>. <strong><a title="LegTux" href="http://www.legtux.org/" target="_blank">LegTux</a></strong> has chosen this type of solution for some time. And as perfect as the idea might be, the last time I heard about him he was still losing money with his service.</li>
+	<li><strong>Ask for volontary support</strong>. <strong><a title="LegTux" href="https://www.legtux.org/" target="_blank">LegTux</a></strong> has chosen this type of solution for some time. And as perfect as the idea might be, the last time I heard about him he was still losing money with his service.</li>
 	<li><strong>Switch to paid contents</strong>. The worst solution in my opinion, as it closes the content to most of the web and lots of quality content would be lost. In addition, this solution might dramatically reduce the traffic of the website.</li>
 	<li>Using<strong> free hosting solutions</strong> and often loose flexibility, personal domain name, ergonomy that paid hosting offer. . .</li>
 </ul>

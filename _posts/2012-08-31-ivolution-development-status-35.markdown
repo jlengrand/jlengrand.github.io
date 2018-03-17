@@ -6,9 +6,9 @@ title: Ivolution - Development status 35
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 730
-wordpress_url: http://www.lengrand.fr/?p=730
+wordpress_url: https://www.lengrand.fr/?p=730
 date: 2012-08-31 12:59:41.000000000 +02:00
 categories:
 - Python
@@ -22,9 +22,9 @@ tags:
 - wxpython
 comments: []
 ---
-Here is my weekly post about the status of the <strong><a title="ivolution" href="http://jlengrand.github.com/FaceMovie/" target="_blank">Ivolution</a></strong>.
+Here is my weekly post about the status of the <strong><a title="ivolution" href="https://jlengrand.github.com/FaceMovie/" target="_blank">Ivolution</a></strong>.
 
-During these last days, I have mostly been working on<a title="The Pirate Patch, Python Flavored" href="http://www.lengrand.fr/2012/08/the-pirate-patch-python-flavored/" target="_blank"> another project</a>. But at the same time, I also progressed like crazy on Ivolution !
+During these last days, I have mostly been working on<a title="The Pirate Patch, Python Flavored" href="https://www.lengrand.fr/2012/08/the-pirate-patch-python-flavored/" target="_blank"> another project</a>. But at the same time, I also progressed like crazy on Ivolution !
 So here are the news :
 <ul>
 	<li>

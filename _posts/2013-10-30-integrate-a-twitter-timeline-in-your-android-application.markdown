@@ -6,9 +6,9 @@ title: Integrate a twitter timeline in your android application.
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 899
-wordpress_url: http://www.lengrand.fr/?p=899
+wordpress_url: https://www.lengrand.fr/?p=899
 date: 2013-10-30 18:10:55.000000000 +01:00
 categories:
 - Uncategorized
@@ -101,8 +101,8 @@ The background color method is needed to avoid the ugly white background behind 
 And here is the layout file :
 
 {% highlight xml %}
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<RelativeLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:tools="https://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"

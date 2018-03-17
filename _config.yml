@@ -2,7 +2,7 @@ title:            Look up to the future
 tagline:          Coding and other thoughts
 description:      Coding and other thoughts
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://jlengrand.github.io
+url:              https://lengrand.fr
 
 # Owner/author information
 owner:
@@ -18,7 +18,7 @@ owner:
   instagram:
   lastfm:
   tumblr:
-  # for stack overflow, user profile is of type http://stackoverflow.com/users/282677/jlengrand
+  # for stack overflow, user profile is of type https://stackoverflow.com/users/282677/jlengrand
   stackoverflow:
   # For Google Authorship https://plus.google.com/authorship
   google_plus: https://plus.google.com/u/0/+julienlengrandlambert
@@ -36,13 +36,10 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Pieces of my world
-    url: http://www.fluidr.com/photos/49365498@N03/sets
-    external: true
   - title: Computer Vision Companies
     url: /computer-vision-companies/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
 future:      true
 pygments:    false

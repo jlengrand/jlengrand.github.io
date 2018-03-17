@@ -6,7 +6,7 @@ title: My experience at the 2017 Polymer Summit
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 categories:
 - work
 - job

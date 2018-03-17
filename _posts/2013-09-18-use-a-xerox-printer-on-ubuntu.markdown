@@ -6,9 +6,9 @@ title: Use a Xerox printer on Ubuntu
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 882
-wordpress_url: http://www.lengrand.fr/?p=882
+wordpress_url: https://www.lengrand.fr/?p=882
 date: 2013-09-18 09:11:56.000000000 +02:00
 categories:
 - tips
@@ -24,12 +24,12 @@ comments: []
 ---
 A quick and small post that could save some of you a few hours.
 
-If you're like me, you may have a <strong><a title="Xerox website" href="http://www.office.xerox.com/">Xerox</a> printer</strong> of phazer in your work or home environmenent.
+If you're like me, you may have a <strong><a title="Xerox website" href="https://www.office.xerox.com/">Xerox</a> printer</strong> of phazer in your work or home environmenent.
 
-And your <strong>ubuntu</strong> is unable to print any document on this printer, displaying fancy errors like <a title="filter failed forum" href="http://ubuntuforums.org/showthread.php?t=2136163" target="_blank"><strong>"filter failed"</strong></a>.
+And your <strong>ubuntu</strong> is unable to print any document on this printer, displaying fancy errors like <a title="filter failed forum" href="https://ubuntuforums.org/showthread.php?t=2136163" target="_blank"><strong>"filter failed"</strong></a>.
 
-Before going on the <a title="xerox support" href="http://www.support.xerox.com/support/enus.html" target="_blank">Xerox website</a> searching for ugly tar.gz files to install; and read dozens of forums and documentation pages to finally get the printer to work;
-try to install <a title="foomatic website" href="http://www.linuxfoundation.org/collaborate/workgroups/openprinting/databasefoomatic" target="_blank"><strong>foomatic-db</strong></a>.
+Before going on the <a title="xerox support" href="https://www.support.xerox.com/support/enus.html" target="_blank">Xerox website</a> searching for ugly tar.gz files to install; and read dozens of forums and documentation pages to finally get the printer to work;
+try to install <a title="foomatic website" href="https://www.linuxfoundation.org/collaborate/workgroups/openprinting/databasefoomatic" target="_blank"><strong>foomatic-db</strong></a>.
 
 It is as simple as
 

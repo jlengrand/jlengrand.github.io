@@ -6,9 +6,9 @@ title: Personal rant
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 869
-wordpress_url: http://www.lengrand.fr/?p=869
+wordpress_url: https://www.lengrand.fr/?p=869
 date: 2013-06-21 08:13:53.000000000 +02:00
 categories:
 - misc

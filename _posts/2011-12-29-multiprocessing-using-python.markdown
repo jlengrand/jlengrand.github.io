@@ -6,9 +6,9 @@ title: Multiprocessing using Python
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 480
-wordpress_url: http://www.lengrand.fr/?p=480
+wordpress_url: https://www.lengrand.fr/?p=480
 date: 2011-12-29 14:07:46.000000000 +01:00
 categories:
 - Python
@@ -35,7 +35,7 @@ comments:
 - id: 226
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMi0wOCAxNjowOTozNiArMDEwMA==
   date_gmt: !binary |-
@@ -47,7 +47,7 @@ comments:
 - id: 269
   author: Twiggy
   author_email: rabikm@rediffmail.com
-  author_url: http://www.yahoo.com/
+  author_url: https://www.yahoo.com/
   date: !binary |-
     MjAxMi0wMi0xNCAxOToyNToxNCArMDEwMA==
   date_gmt: !binary |-
@@ -56,14 +56,14 @@ comments:
 - id: 282
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMi0xNSAwOTo0OToyMiArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0wMi0xNSAwODo0OToyMiArMDEwMA==
   content: Well, Glad it helped ;)
 ---
-Some time ago, I worked with real time processing of sonar images. My job was to detect mines on both sides of an <strong><a title="UUV" href="http://www.globalsecurity.org/intell/systems/uuv.htm">UUV</a></strong> equipped with <strong><a title="side scan sonar" href="http://en.wikipedia.org/wiki/Side-scan_sonar">Side-Scan sonars</a></strong>.
+Some time ago, I worked with real time processing of sonar images. My job was to detect mines on both sides of an <strong><a title="UUV" href="https://www.globalsecurity.org/intell/systems/uuv.htm">UUV</a></strong> equipped with <strong><a title="side scan sonar" href="https://en.wikipedia.org/wiki/Side-scan_sonar">Side-Scan sonars</a></strong>.
 
 My algorithm had to run as fast as possible and I naturally ended up thinking about parallel processing. My application was kind of designed to be paralleled as at each instant I had two images coming (left and right side of my vehicle).
 
@@ -71,7 +71,7 @@ Most of computes now have at least 2 processors. Multiprocessing was then the be
 
 Basically, the following example will be perfect for applications in which<strong> the exact same task has to be performed several times on unrelated data :</strong>
 
-Here is a simple multiprocessing example, coming from the <a title="python doc" href="http://www.python.org/doc/">Python documentation</a>:
+Here is a simple multiprocessing example, coming from the <a title="python doc" href="https://www.python.org/doc/">Python documentation</a>:
 
 {% highlight python %}
 
@@ -124,4 +124,4 @@ nb_processes = multiprocessing.cpu_count()
 
 Here it is, Your application should now run slightly faster !
 
-In case you <strong>don't know the difference between process and thread</strong>,<a title="diff process thread" href="http://stackoverflow.com/questions/200469/what-is-the-difference-between-a-process-and-a-thread"> you should have a look here</a> .
+In case you <strong>don't know the difference between process and thread</strong>,<a title="diff process thread" href="https://stackoverflow.com/questions/200469/what-is-the-difference-between-a-process-and-a-thread"> you should have a look here</a> .

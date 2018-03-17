@@ -6,9 +6,9 @@ title: How to spend nights on the computer
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 517
-wordpress_url: http://www.lengrand.fr/?p=517
+wordpress_url: https://www.lengrand.fr/?p=517
 date: 2012-02-09 15:45:23.000000000 +01:00
 categories:
 - misc
@@ -21,8 +21,8 @@ comments: []
 ---
 Hi everyone,
 
-As you may already know, I love solving problems. And what I love most is to use <strong><a title="kiss principle " href="http://en.wikipedia.org/wiki/KISS_principle" target="_blank">KISS principle</a></strong>, and reduce those problems into items so small that they all seem trivial.
-Some time ago, as I was searching for a way to improve my programming skills, I fell on the<strong><a title="project Euler" href="http://projecteuler.net/" target="_blank"> Project Euler</a></strong>.
+As you may already know, I love solving problems. And what I love most is to use <strong><a title="kiss principle " href="https://en.wikipedia.org/wiki/KISS_principle" target="_blank">KISS principle</a></strong>, and reduce those problems into items so small that they all seem trivial.
+Some time ago, as I was searching for a way to improve my programming skills, I fell on the<strong><a title="project Euler" href="https://projecteuler.net/" target="_blank"> Project Euler</a></strong>.
 
 And since my life has never been the same :p.
 
@@ -30,7 +30,7 @@ The principle of Project Euler is simple : Solve a problem that takes <strong>on
 
 The first problems are trivial, but as you may expect get more and more complicated over time.
 This is <strong>one of the best tools</strong> to be used if you want to<strong> learn about tricks for a given language</strong>. As you solve problems, you will find more and more difficult to pass the one minut limit. You will finally be forced to search for <strong>clever ways to solve your problems</strong> and this should lead you to beautiful code.
-You will have to search for tricks such as <a title="generators python" href="http://wiki.python.org/moin/Generators" target="_blank">generators</a>, <a title="memoization" href="http://en.wikipedia.org/wiki/Memoization" target="_blank">memoization</a>, sieves, . . . which will surely lead you to be a better coder every day !
+You will have to search for tricks such as <a title="generators python" href="https://wiki.python.org/moin/Generators" target="_blank">generators</a>, <a title="memoization" href="https://en.wikipedia.org/wiki/Memoization" target="_blank">memoization</a>, sieves, . . . which will surely lead you to be a better coder every day !
 
 What I really love in Project Euler is how their problems are simple to understand, but challenging to be solved efficiently. Usually, the best solution is not the one you would have thought about :).
 

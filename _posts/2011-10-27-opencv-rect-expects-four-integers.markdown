@@ -6,9 +6,9 @@ title: ! 'OpenCV : ''rect'' expects four integers'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 207
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=207
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=207
 date: 2011-10-27 09:48:25.000000000 +02:00
 categories:
 - programming
@@ -20,7 +20,7 @@ tags:
 - image processing
 comments: []
 ---
-You may encounter this error when using <a title="opencv" href="http://opencv.willowgarage.com/wiki/" target="_blank">OpenCV</a> with <strong>Python bindings, </strong>while trying to use the rectangle structure.
+You may encounter this error when using <a title="opencv" href="https://opencv.willowgarage.com/wiki/" target="_blank">OpenCV</a> with <strong>Python bindings, </strong>while trying to use the rectangle structure.
 
 Here is an example :
 

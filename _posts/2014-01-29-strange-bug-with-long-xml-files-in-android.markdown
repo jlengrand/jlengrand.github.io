@@ -6,9 +6,9 @@ title: Strange bug with long XML files in android.
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 912
-wordpress_url: http://www.lengrand.fr/?p=912
+wordpress_url: https://www.lengrand.fr/?p=912
 date: 2014-01-29 09:51:46.000000000 +01:00
 categories:
 - brestram

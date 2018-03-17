@@ -6,9 +6,9 @@ title: A simple way to get a multilingual blog
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 366
-wordpress_url: http://www.lengrand.fr/?p=366
+wordpress_url: https://www.lengrand.fr/?p=366
 date: 2011-12-12 13:55:52.000000000 +01:00
 categories:
 - tips
@@ -35,7 +35,7 @@ comments:
 - id: 88
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMS0xMi0xMiAyMTo0ODowNiArMDEwMA==
   date_gmt: !binary |-
@@ -50,13 +50,13 @@ comments:
 ---
 <!--:en-->Hi all,
 
-Some time ago, I searched for a way to have a blog as simple as possible (and avoid <strong>wordpress</strong> or <strong>joomla</strong> monsters). I ended up using <strong><a title="pluxml" href="http://www.pluxml.org/">Pluxml</a></strong> for a while, and you can find<a title="pluxml here" href="http://www.lengrand.fr/pluxml/513/"> the result here</a><a title="pluxml here" href="http://www.lengrand.fr/pluxml/513/">.</a>
+Some time ago, I searched for a way to have a blog as simple as possible (and avoid <strong>wordpress</strong> or <strong>joomla</strong> monsters). I ended up using <strong><a title="pluxml" href="https://www.pluxml.org/">Pluxml</a></strong> for a while, and you can find<a title="pluxml here" href="https://www.lengrand.fr/pluxml/513/"> the result here</a><a title="pluxml here" href="https://www.lengrand.fr/pluxml/513/">.</a>
 
 One of the things I wanted absolutely was to <strong>write my blogs in several languages</strong> (french and english). After some time, I finally found a way to do it with a bit of <strong>javascript</strong>.
 
-The main idea is simple : You get one <a title="div" href="http://www.w3schools.com/tags/tag_div.asp" target="_blank">div</a> by language. On startup, only one div is shown, and a click on a "switch language" link shows the other div while making the first disappear.
+The main idea is simple : You get one <a title="div" href="https://www.w3schools.com/tags/tag_div.asp" target="_blank">div</a> by language. On startup, only one div is shown, and a click on a "switch language" link shows the other div while making the first disappear.
 
-You can see an <a title="result multilingual" href="http://lengrand.fr/pluxml/513/index.php?article2/new-article" target="_blank">example of the result </a><strong><a title="result multilingual" href="http://lengrand.fr/pluxml/513/index.php?article2/new-article" target="_blank">here</a>.</strong>
+You can see an <a title="result multilingual" href="https://lengrand.fr/pluxml/513/index.php?article2/new-article" target="_blank">example of the result </a><strong><a title="result multilingual" href="https://lengrand.fr/pluxml/513/index.php?article2/new-article" target="_blank">here</a>.</strong>
 
 To do this, you need two things :
 <ul>
@@ -167,5 +167,5 @@ Hope this help ;)
 <strong>And if you have a better idea, please let me know !</strong>
 
 </div>
-<div>[<a title="source" href="http://www.editeurjavascript.com/scripts/scripts_navigation_3_182.php" target="_blank">source</a>]</div>
+<div>[<a title="source" href="https://www.editeurjavascript.com/scripts/scripts_navigation_3_182.php" target="_blank">source</a>]</div>
 <div><em>NOTE : Sorry for the code being in french (its not mine). I could take some time to translate it if you want :) </em></div>

@@ -6,9 +6,9 @@ title: Easily change file separator
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 592
-wordpress_url: http://www.lengrand.fr/?p=592
+wordpress_url: https://www.lengrand.fr/?p=592
 date: 2012-05-17 15:37:56.000000000 +02:00
 categories:
 - tips
@@ -42,6 +42,6 @@ sed -e $"s/old_separator/new_separator/g" myfile > newfile
 
 {% endhighlight %}
 
-If not, well <a title="why linux is better" href="http://www.whylinuxisbetter.net/" target="_blank">you may want to think about switching</a> then :)
+If not, well <a title="why linux is better" href="https://www.whylinuxisbetter.net/" target="_blank">you may want to think about switching</a> then :)
 
-Thanks to <a title="frafra" href="http://liveusb.info/dotclear/" target="_blank">Frafra</a> for the tip ;)
+Thanks to <a title="frafra" href="https://liveusb.info/dotclear/" target="_blank">Frafra</a> for the tip ;)

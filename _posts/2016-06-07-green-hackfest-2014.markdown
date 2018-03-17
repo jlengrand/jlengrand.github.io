@@ -6,7 +6,7 @@ title: Participating the Green Hackfest Utrecht 2014
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 categories:
 - hackathon
 - development

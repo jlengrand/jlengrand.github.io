@@ -6,9 +6,9 @@ title: Automatic tweeting using ifttt
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 804
-wordpress_url: http://www.lengrand.fr/?p=804
+wordpress_url: https://www.lengrand.fr/?p=804
 date: 2012-10-24 15:46:03.000000000 +02:00
 categories:
 - OpenCV

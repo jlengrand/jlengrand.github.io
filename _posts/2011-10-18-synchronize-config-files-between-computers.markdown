@@ -6,9 +6,9 @@ title: Synchronize config files between computers
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 33
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=33
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=33
 date: 2011-10-18 13:17:55.000000000 +02:00
 categories:
 - tips

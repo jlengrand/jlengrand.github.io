@@ -6,9 +6,9 @@ title: Keysonic keyboard and Linux problems
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 229
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=229
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=229
 date: 2011-10-27 13:34:51.000000000 +02:00
 categories:
 - misc
@@ -20,7 +20,7 @@ tags:
 comments: []
 ---
 
-After having moved to my new flat last year, I bought a new computer to replace the old laptop I kept during my studies. And to fit with my neon tubes I chose a blue backlight keybord from Keysonic, the <a href="http://www.maxpoint.de/de/products/keyboards.php?pid=1_3_7&amp;we_objectID=1219">KSX-6001</a> .
+After having moved to my new flat last year, I bought a new computer to replace the old laptop I kept during my studies. And to fit with my neon tubes I chose a blue backlight keybord from Keysonic, the <a href="https://www.maxpoint.de/de/products/keyboards.php?pid=1_3_7&amp;we_objectID=1219">KSX-6001</a> .
 
 Running Windows, no problem. The keyboard is just what I wanted, allowing fast typing with its rough keys. I am really happy with it.
 

@@ -6,9 +6,9 @@ title: ! 'Stack Overflow: a hate/love story'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 772
-wordpress_url: http://www.lengrand.fr/?p=772
+wordpress_url: https://www.lengrand.fr/?p=772
 date: 2012-10-01 12:39:05.000000000 +02:00
 categories:
 - programming
@@ -22,7 +22,7 @@ comments:
 - id: 2394
   author: My (almost) perfect setup to stay focused | loup2fu
   author_email: ''
-  author_url: http://www.lengrand.fr/2012/10/my-almost-perfect-setup-to-stay-focused/
+  author_url: https://www.lengrand.fr/2012/10/my-almost-perfect-setup-to-stay-focused/
   date: !binary |-
     MjAxMi0xMC0yNiAxMjo0NDoyOCArMDIwMA==
   date_gmt: !binary |-
@@ -33,7 +33,7 @@ comments:
 - id: 2404
   author: Tristan
   author_email: trisweb@gmail.com
-  author_url: http://www.trisweb.com
+  author_url: https://www.trisweb.com
   date: !binary |-
     MjAxMi0xMC0yNiAxNzozMzowOSArMDIwMA==
   date_gmt: !binary |-
@@ -54,7 +54,7 @@ comments:
 - id: 2454
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjo0MDozOCArMDIwMA==
   date_gmt: !binary |-
@@ -62,7 +62,7 @@ comments:
   content: ! "This is exactly the reason why I mentioned both hate and love :). \r\n\r\nSO
     is one of the most powerful tools I have seen those last years. It is basically
     like having dozens of more experienced developers than you around, ready to help
-    you if needed.\r\n\r\nThat without mentioning the rubber duck effect (http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)\r\n\r\nWhat
+    you if needed.\r\n\r\nThat without mentioning the rubber duck effect (https://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)\r\n\r\nWhat
     I tried to highlight here is that it tends to make me become lazy. And I think
     I am not the only one in that situation, just look at the main page of SO and
     you'll see plenty of question posted from people that obviously haven't given
@@ -72,7 +72,7 @@ comments:
 - id: 2455
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjo0MTozNiArMDIwMA==
   date_gmt: !binary |-
@@ -100,7 +100,7 @@ comments:
 - id: 3591
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: http://www.lengrand.fr
+  author_url: https://www.lengrand.fr
   date: !binary |-
     MjAxMy0wMS0xMSAxNzoyOToyOSArMDEwMA==
   date_gmt: !binary |-
@@ -120,7 +120,7 @@ comments:
     that you don't really need to have expertise in :\r\n- parse stuff\r\n- eclipse
     error \r\n\r\nThis kind of things you would spend some time searching in the docs.\r\n\r\nFor
     more complex stuff (architecture, project feddback, . . . ) well there are other
-    places that are way more focused on that (like hackerbuddy : http://hackerbuddy.com/).\r\nI
+    places that are way more focused on that (like hackerbuddy : https://hackerbuddy.com/).\r\nI
     never got any bad feedback here :)."
 - id: 21502
   author: Ellipsis
@@ -141,7 +141,7 @@ comments:
     MjAxMy0xMi0wNiAxOToyNjo0MSArMDEwMA==
   content: Nailed ittttt  ^ ^ ^
 ---
-<p style="text-align: justify;"><a title="stack overflow" href="http://www.codinghorror.com/blog/2011/10/the-gamification.html" target="_blank">A lot of great people already blogged</a> <a title="jeff atwood anti social" href="http://www.codinghorror.com/blog/2011/12/building-social-software-for-the-anti-social.html" target="_blank">about the reasons why they loved SO</a>.<a title="love stack overflow" href="http://www.littlehart.net/atthekeyboard/2009/11/03/why-i-love-stack-overflow/" target="_blank"> All of this is true</a>. <a title="hate SO" href="http://mikeongis.wordpress.com/2011/10/09/things-i-hate-about-stackoverflow/" target="_blank">Definitely true</a>.</p>
+<p style="text-align: justify;"><a title="stack overflow" href="https://www.codinghorror.com/blog/2011/10/the-gamification.html" target="_blank">A lot of great people already blogged</a> <a title="jeff atwood anti social" href="https://www.codinghorror.com/blog/2011/12/building-social-software-for-the-anti-social.html" target="_blank">about the reasons why they loved SO</a>.<a title="love stack overflow" href="https://www.littlehart.net/atthekeyboard/2009/11/03/why-i-love-stack-overflow/" target="_blank"> All of this is true</a>. <a title="hate SO" href="https://mikeongis.wordpress.com/2011/10/09/things-i-hate-about-stackoverflow/" target="_blank">Definitely true</a>.</p>
 
 <h1 style="text-align: justify;"><strong>But I want to share something else</strong></h1>
 <span style="text-align: justify;">The number of people posting on </span><a style="text-align: justify;" title="Stack Overflow" href="stackoverflow.com" target="_blank">StackOverflow</a><span style="text-align: justify;"> has greatly increased over the last years. It is in fact so crowded that it is not rare to have 4 or 5 answers posted just in the time needed to read a question. It has even become really hard to be the first to answer a question now, and </span><strong style="text-align: justify;">I love that</strong><span style="text-align: justify;">!</span>
@@ -150,14 +150,14 @@ comments:
 
 <h1 style="text-align: justify;"><strong>SO is now such an important service that it definitely plays the role of a huge SEO platform for good answers</strong>.</h1>
 <p style="text-align: justify;">Those last months, it became more and more rare that I query Google for an issue without having a really close match on SO, upvoted by so much people that the question is in the <strong>top 5 results from Google ! </strong></p>
-<p style="text-align: justify;"><strong></strong>With the number of specialized Stack Overflow "themes" growing every day this also becomes true not only for programming but <a title="cooking overflow" href="http://cooking.stackexchange.com/" target="_blank">cooking</a>, <a title="gaming exchange" href="http://gaming.stackexchange.com/" target="_blank">gaming</a>, <a title="math exchange" href="http://math.stackexchange.com/" target="_blank">mathematics</a> and even <a title="scifi exchange" href="http://scifi.stackexchange.com/" target="_blank">sci-fi</a>!</p>
+<p style="text-align: justify;"><strong></strong>With the number of specialized Stack Overflow "themes" growing every day this also becomes true not only for programming but <a title="cooking overflow" href="https://cooking.stackexchange.com/" target="_blank">cooking</a>, <a title="gaming exchange" href="https://gaming.stackexchange.com/" target="_blank">gaming</a>, <a title="math exchange" href="https://math.stackexchange.com/" target="_blank">mathematics</a> and even <a title="scifi exchange" href="https://scifi.stackexchange.com/" target="_blank">sci-fi</a>!</p>
 
 <br>
 
 <center><a href="{{ site.url }}/images/posts/2012/10/StackOverflow.jpg"><img title="Stack Overflow" src="{{ site.url }}/images/posts/2012/10/StackOverflow.jpg" alt="in Windows . ." width="290" height="150" /></a></center>
 
 <h1 style="text-align: justify;"><strong>And this is the very reason I also hate Stack Overflow</strong></h1>
-<p style="text-align: justify;"><strong></strong>SO is so efficient that it slowly became <strong>my first source of information</strong>. If you use <a title="ddg" href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> like me (<a title="you should use DDG" href="http://blog.clifreeder.com/blog/2012/02/12/why-i-use-duckduckgo-and-you-should-too/" target="_blank">and you should</a>) you know that it comes first in the results;<strong> even before the official documentation</strong> of the project.</p>
+<p style="text-align: justify;"><strong></strong>SO is so efficient that it slowly became <strong>my first source of information</strong>. If you use <a title="ddg" href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> like me (<a title="you should use DDG" href="https://blog.clifreeder.com/blog/2012/02/12/why-i-use-duckduckgo-and-you-should-too/" target="_blank">and you should</a>) you know that it comes first in the results;<strong> even before the official documentation</strong> of the project.</p>
 <p style="text-align: justify;">It is now very rare for me to have to read the API or the manual of a framework any more, simply because I know I'll directly find the answer somewhere on SO.</p>
 <p style="text-align: justify;">This has very tricky effects:</p>
 
@@ -166,7 +166,7 @@ comments:
 	<li><strong>I lost the habit to search for solutions</strong> to problems by myself, and spend sometimes even more time searching for a match on SO than trying to solve my problem by myself.</li>
 	<li>My tendancy to search for answers this way came slowly as SO became more and more successful, and I recently realized how dependent I am. I'd even say that if <strong>I had to choose between Google and SO today, I'd go for SO!</strong></li>
 </ul>
-<p style="text-align: justify;">You might say I am <a title="programmers before were better" href="http://www.jeremymorgan.com/blog/programming/the-programmers-before-us-were-better/" target="_blank">a bad programmer</a>. Perhaps. Or I just choose to follow the easy way and <a title="programmers before us were better" href="http://www.jeremymorgan.com/blog/programming/the-programmers-before-us-were-better/" target="_blank">take the low hanging fruit</a>. This is why I'll stop using it for a month. I want to keep my ability to think. <a title="please don't learn to code" href="http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html" target="_blank">I don't want to be a code monkey. </a></p>
-<p style="text-align: justify;">I'll keep posting answers on the platform, but from today I'll always got for the documentation first. <a title="SO" href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>, I love you. . . but I want a divorce.</p>
-<p style="text-align: justify;">[<a title="stack overflow image source" href="http://edn.embarcadero.com/article/29631" target="_blank">image</a>]</p>
+<p style="text-align: justify;">You might say I am <a title="programmers before were better" href="https://www.jeremymorgan.com/blog/programming/the-programmers-before-us-were-better/" target="_blank">a bad programmer</a>. Perhaps. Or I just choose to follow the easy way and <a title="programmers before us were better" href="https://www.jeremymorgan.com/blog/programming/the-programmers-before-us-were-better/" target="_blank">take the low hanging fruit</a>. This is why I'll stop using it for a month. I want to keep my ability to think. <a title="please don't learn to code" href="https://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html" target="_blank">I don't want to be a code monkey. </a></p>
+<p style="text-align: justify;">I'll keep posting answers on the platform, but from today I'll always got for the documentation first. <a title="SO" href="https://stackoverflow.com/" target="_blank">Stack Overflow</a>, I love you. . . but I want a divorce.</p>
+<p style="text-align: justify;">[<a title="stack overflow image source" href="https://edn.embarcadero.com/article/29631" target="_blank">image</a>]</p>
 <p style="text-align: justify;"></p>

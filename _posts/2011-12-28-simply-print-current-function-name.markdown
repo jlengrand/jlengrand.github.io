@@ -6,9 +6,9 @@ title: ! 'Simply print current function name '
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 476
-wordpress_url: http://www.lengrand.fr/?p=476
+wordpress_url: https://www.lengrand.fr/?p=476
 date: 2011-12-28 16:55:21.000000000 +01:00
 categories:
 - Python
@@ -48,4 +48,4 @@ tutut
 
 There it is !
 
-You can also find this tip in my Programming Tips page, in the <strong><a href="http://www.lengrand.fr/programming-tips-2/#python">Python section</a>.</strong>
+You can also find this tip in my Programming Tips page, in the <strong><a href="https://www.lengrand.fr/programming-tips-2/#python">Python section</a>.</strong>

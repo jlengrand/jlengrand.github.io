@@ -6,7 +6,7 @@ title: Cloning a workspace in Jenkins with a Git SVM setup does not checkout the
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 categories:
 - tips
 tags:
@@ -22,7 +22,7 @@ Hi there,
 
 This is a strange behaviour I have noticed when using Jenkins lately, that caused us a few headaches before we realize what was happening. 
 
-At [Spacemetric](http://www.spacemetric.com/ "Spacemetric"), we are using both Gitlab and Jenkins for CI. 
+At [Spacemetric](https://www.spacemetric.com/ "Spacemetric"), we are using both Gitlab and Jenkins for CI. 
 
 * [Gitlab](https://about.gitlab.com/gitlab-ci/) is used to store the source code, and for each commit we make sure that all our jars can be built fine. 
 * [Jenkins](https://jenkins.io/) is used to create our releases, generate our front end products and perform daily/weekly integration and a more complete set of tests and generate test reports. 

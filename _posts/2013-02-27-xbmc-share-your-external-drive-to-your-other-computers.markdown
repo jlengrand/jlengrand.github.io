@@ -6,9 +6,9 @@ title: ! 'XBMC: Share your external drive to your other computers'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 842
-wordpress_url: http://www.lengrand.fr/?p=842
+wordpress_url: https://www.lengrand.fr/?p=842
 date: 2013-02-27 10:56:50.000000000 +01:00
 categories:
 - misc
@@ -21,7 +21,7 @@ tags:
 - samba
 comments: []
 ---
-As already said <a title="XBMC won’t leave me ever again" href="http://www.lengrand.fr/2013/02/xbmc-wont-leave-me-ever-again/" target="_blank">in my last post</a>, I gave my first try to <a title="xbmc website" href="http://xbmc.org/" target="_blank"><strong>xbmc</strong> </a>last week. The basic setup was almost fully automatic.
+As already said <a title="XBMC won’t leave me ever again" href="https://www.lengrand.fr/2013/02/xbmc-wont-leave-me-ever-again/" target="_blank">in my last post</a>, I gave my first try to <a title="xbmc website" href="https://xbmc.org/" target="_blank"><strong>xbmc</strong> </a>last week. The basic setup was almost fully automatic.
 
 There was one thing I had to do manually though, and I want to share it here because I didn't find the solution anywhere on XBMC forums.
 My idea is simple : <strong>attached to my xbmc laptop</strong> is a 2To external hard drive that will contain all my movies, pictures, . . .

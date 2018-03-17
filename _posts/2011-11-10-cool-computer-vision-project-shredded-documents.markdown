@@ -6,9 +6,9 @@ title: ! 'Cool Computer Vision project : Shredded documents'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 285
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=285
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=285
 date: 2011-11-10 14:38:42.000000000 +01:00
 categories:
 - Computer Vision
@@ -21,7 +21,7 @@ comments: []
 ---
 Hi all,
 
-Today I just wanted you to know about the <strong><a href="http://www.shredderchallenge.com/">DARPA Shredder Challenge</a></strong>.
+Today I just wanted you to know about the <strong><a href="https://www.shredderchallenge.com/">DARPA Shredder Challenge</a></strong>.
 
 This challenge aims at <strong>reconstructing shredded documents</strong>, and the contest run till the 5th December.
 
@@ -31,4 +31,4 @@ There are 5 levels in the challenge, growing more and more difficult. Unfortuna
 
 And you, would you try to solve some of the puzzles? Let me know about your ideas !
 
-I know this issue has already been investigated in the past for Stasi documents (see <a href="http://www.schneier.com/blog/archives/2008/01/unshredding_1.html">here</a> and <a href="http://www.iiconservation.org/news/?p=55">here</a>).
+I know this issue has already been investigated in the past for Stasi documents (see <a href="https://www.schneier.com/blog/archives/2008/01/unshredding_1.html">here</a> and <a href="https://www.iiconservation.org/news/?p=55">here</a>).

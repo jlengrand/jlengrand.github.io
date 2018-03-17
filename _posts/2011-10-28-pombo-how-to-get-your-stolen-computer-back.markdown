@@ -6,9 +6,9 @@ title: ! 'Pombo : How to get your stolen computer back!'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: http://www.lengrand.fr
+author_url: https://www.lengrand.fr
 wordpress_id: 231
-wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=231
+wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=231
 date: 2011-10-28 13:16:33.000000000 +02:00
 categories:
 - tips
@@ -24,11 +24,11 @@ comments: []
 ---
 Hi all,
 
-A small article today to let you know about a <a href="http://sebsauvage.net/pombo/index.fr.html"><strong>Pombo</strong></a>, in case you wouldn't know about yet.
+A small article today to let you know about a <a href="https://sebsauvage.net/pombo/index.fr.html"><strong>Pombo</strong></a>, in case you wouldn't know about yet.
 
 Pombo is a "magic app" ,that might be compared to the <strong>screenshare</strong> option of the mac <strong>mobileme</strong> service.
 <h3></h3>
-Basically, <a href="http://sebsauvage.net/pombo/index.fr.html"><strong>Pombo</strong></a> is a deamon that will be started automatically on your computer. It will automatically grab and store several data such as screenshots, gps track, IP addresses, ....
+Basically, <a href="https://sebsauvage.net/pombo/index.fr.html"><strong>Pombo</strong></a> is a deamon that will be started automatically on your computer. It will automatically grab and store several data such as screenshots, gps track, IP addresses, ....
 
 Then, it compresses and uploads them automatically to whatever <strong>web server</strong> you want.
 
@@ -44,4 +44,4 @@ Now, you only have to hope that the stealer will <strong>startup</strong> the co
 
 &nbsp;
 
-<strong><a title="pombo" href="http://sebsauvage.net/pombo/index.fr.html">Try it</a></strong> and let me know about your opinion!
+<strong><a title="pombo" href="https://sebsauvage.net/pombo/index.fr.html">Try it</a></strong> and let me know about your opinion!
