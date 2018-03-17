@@ -6,7 +6,7 @@ title: Editing the tags of topics in Google Groups
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 categories:
 - tips
 tags:
@@ -15,7 +15,7 @@ tags:
 comments: []
 ---
 
-Today's a short post on something I took some time to figure out. At [Spacemetric](https://www.spacemetric.se/), we're using [Google Groups](https://groups.google.com) to handle projects.
+Today's a short post on something I took some time to figure out. At [Spacemetric](http://www.spacemetric.se/), we're using [Google Groups](http://groups.google.com) to handle projects.
 
 
 The system is quite efficient:

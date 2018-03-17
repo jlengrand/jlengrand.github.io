@@ -6,9 +6,9 @@ title: Strange bug with long XML files in android.
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 912
-wordpress_url: https://www.lengrand.fr/?p=912
+wordpress_url: http://www.lengrand.fr/?p=912
 date: 2014-01-29 09:51:46.000000000 +01:00
 categories:
 - brestram
@@ -21,9 +21,9 @@ tags:
 - update
 comments: []
 ---
-Lately I encountered a strange bug while developing my <a title="brestram main page" href="https://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en" target="_blank">android</a> application, and I think it is strange enough to share it in this blog post.
+Lately I encountered a strange bug while developing my <a title="brestram main page" href="http://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en" target="_blank">android</a> application, and I think it is strange enough to share it in this blog post.
 
-<strong><a title="brestram main page" href="https://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en" target="_blank">Brestram</a></strong> is an android application that aims at delivering real time bus schedule for the people living in <a title="google maps brest" href="https://maps.google.com/maps?hl=en&amp;q=maps+brest&amp;ie=UTF-8&amp;hq=&amp;hnear=0x4816bbe1d9925b93:0xc6488358179c30ab,Brest,+France&amp;ei=QqDmUrHnM8mm0AW274HQCQ&amp;ved=0CCoQ8gEwAA" target="_blank">Brest</a>.
+<strong><a title="brestram main page" href="http://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en" target="_blank">Brestram</a></strong> is an android application that aims at delivering real time bus schedule for the people living in <a title="google maps brest" href="http://maps.google.com/maps?hl=en&amp;q=maps+brest&amp;ie=UTF-8&amp;hq=&amp;hnear=0x4816bbe1d9925b93:0xc6488358179c30ab,Brest,+France&amp;ei=QqDmUrHnM8mm0AW274HQCQ&amp;ved=0CCoQ8gEwAA" target="_blank">Brest</a>.
 For each new version,  I want to display a small message with the new features of the version.
 I need to deliver the message both in English and in French, and I wanted to keep history of all the messages I have written in the past for reference.
 On top of this, I wanted to be able to write that message in an understandable format (for me) to avoid formatting errors.
@@ -148,4 +148,4 @@ I guess for some reasons the amount of data read by the xml parser is limited. W
 
 So basically, I am now 4 updates later, and things continue to behave normally, so I guess the problem is "fixed".
 So far, I am still searching for a proof of these assumptions though. . .
-In case you know the exact reason why this happened, feel free to drop me a line in the comments of reach me on <a title="my twitter" href="https://twitter.com/jlengrand" target="_blank"><strong>twitter</strong></a>.
+In case you know the exact reason why this happened, feel free to drop me a line in the comments of reach me on <a title="my twitter" href="http://twitter.com/jlengrand" target="_blank"><strong>twitter</strong></a>.

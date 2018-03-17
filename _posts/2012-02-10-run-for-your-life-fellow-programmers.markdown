@@ -6,9 +6,9 @@ title: Run for your life fellow developers
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 521
-wordpress_url: https://www.lengrand.fr/?p=521
+wordpress_url: http://www.lengrand.fr/?p=521
 date: 2012-02-10 10:22:04.000000000 +01:00
 categories:
 - misc
@@ -43,7 +43,7 @@ comments:
 - id: 242
   author: Fadi
   author_email: fe@itoctopus.com
-  author_url: https://www.itoctopus.com
+  author_url: http://www.itoctopus.com
   date: !binary |-
     MjAxMi0wMi0xMyAxNTowNDo0MSArMDEwMA==
   date_gmt: !binary |-
@@ -54,7 +54,7 @@ comments:
 - id: 243
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMi0xMyAxNToxNzoyNiArMDEwMA==
   date_gmt: !binary |-
@@ -67,7 +67,7 @@ comments:
 - id: 244
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMi0xMyAxNToxODozNSArMDEwMA==
   date_gmt: !binary |-
@@ -77,7 +77,7 @@ comments:
 - id: 245
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMi0xMyAxNToyMDo0OSArMDEwMA==
   date_gmt: !binary |-
@@ -91,13 +91,13 @@ comments:
 If you stare at your computer screen for the last two hours, trying to figure out a software issue. If you keep swapping between Facebook, G+ and Stack Overflow waiting for the solution to comu up; then put your sport shoes on and have a run for half an hour!
 
 <strong>Why?</strong>
-Well, I won't make another discussion about the <a title="benefits of running" href="https://www.vanderbilt.edu/ans/psychology/health_psychology/running.html">benefits of running</a>, I'm sure you've had enough already. But while running, you can focus on your problem and get fully concentrating without being disturbed.
+Well, I won't make another discussion about the <a title="benefits of running" href="http://www.vanderbilt.edu/ans/psychology/health_psychology/running.html">benefits of running</a>, I'm sure you've had enough already. But while running, you can focus on your problem and get fully concentrating without being disturbed.
 You won't be able to check FB, nor your mails. . .
 But most of all, you will get even <strong>more concentrated</strong> than while resting. Your brain will enjoy focusing on something else than pain, and you will have it <strong>fully dedicated to solve your problem</strong>.
 
 When you get back home, take a short shower, a drink, and get back to work <strong>immediately</strong>! Let things come, and use what you thought about during the foooting. This could become the most efficient hour of your day :p.
 
-I started this back some weeks ago and is has almost become a necessity since then. I go for a run a soon as I get stuck for more than<strong> two <a title="pomodoro" href="https://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoro </a>sandglasses</strong> (aka 50 min). And I can count on my hand the number of times I didn't come home with a solution, or at least a clue of where to look for :).
+I started this back some weeks ago and is has almost become a necessity since then. I go for a run a soon as I get stuck for more than<strong> two <a title="pomodoro" href="http://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoro </a>sandglasses</strong> (aka 50 min). And I can count on my hand the number of times I didn't come home with a solution, or at least a clue of where to look for :).
 
 You can use this for anything you want. When younger, I used this to search for dissertation plans. Now, I sometimes use it to find motivation and write articles on my blog (can you imagine when this one came up? ).
 And believe me, it's <strong>far more efficient</strong> than having another mug of coffee :D.
@@ -109,4 +109,4 @@ Oh, and don't take your phone! ;)
 
 <strong>UPDATE</strong> : Some days ago, I found this interesting article related to my post :).
 
-<strong><a title="courir c bon!" href="https://well.blogs.nytimes.com/2012/02/22/how-exercise-fuels-the-brain/" target="_blank">Here it is!</a></strong>
+<strong><a title="courir c bon!" href="http://well.blogs.nytimes.com/2012/02/22/how-exercise-fuels-the-brain/" target="_blank">Here it is!</a></strong>

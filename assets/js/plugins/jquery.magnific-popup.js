@@ -1,5 +1,5 @@
 /*! Magnific Popup - v0.9.3 - 2013-07-16
-* https://dimsemenov.com/plugins/magnific-popup/
+* http://dimsemenov.com/plugins/magnific-popup/
 * Copyright (c) 2013 Dmitry Semenov; */
 ;(function($) {
 
@@ -129,7 +129,7 @@ var _mfpOn = function(name, f) {
 		}
 		return false;
 	},
-	// CSS transition detection, https://stackoverflow.com/questions/7264899/detect-css-transitions-using-javascript-and-without-modernizr
+	// CSS transition detection, http://stackoverflow.com/questions/7264899/detect-css-transitions-using-javascript-and-without-modernizr
 	supportsTransitions = function() {
 		var s = document.createElement('p').style, // 's' for style. better to create an element if body yet to exist
 			v = ['ms','O','Moz','Webkit']; // 'v' for vendor
@@ -493,7 +493,7 @@ MagnificPopup.prototype = {
 	updateSize: function(winHeight) {
 
 		if(mfp.isIOS) {
-			// fixes iOS nav bars https://github.com/dimsemenov/Magnific-Popup/issues/2
+			// fixes iOS nav bars http://github.com/dimsemenov/Magnific-Popup/issues/2
 			var zoomLevel = document.documentElement.clientWidth / window.innerWidth;
 			var height = window.innerHeight * zoomLevel;
 			mfp.wrap.css('height', height);
@@ -850,7 +850,7 @@ $.magnificPopup = {
 	defaults: {   
 
 		// Info about options is in docs:
-		// https://dimsemenov.com/plugins/magnific-popup/documentation.html#options
+		// http://dimsemenov.com/plugins/magnific-popup/documentation.html#options
 		
 		disableOn: 0,	
 
@@ -1930,7 +1930,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
 /*>>fastclick*/
 /**
  * FastClick event implementation. (removes 300ms delay on touch devices)
- * Based on https://developers.google.com/mobile/articles/fast_buttons
+ * Based on http://developers.google.com/mobile/articles/fast_buttons
  *
  * You may use it outside the Magnific Popup by calling just:
  *
@@ -1943,7 +1943,7 @@ $.magnificPopup.registerModule(RETINA_NS, {
  * 
  * 
  * Note that it's a very basic and simple implementation, it blocks ghost click on the same element where it was bound.
- * If you need something more advanced, use plugin by FT Labs https://github.com/ftlabs/fastclick
+ * If you need something more advanced, use plugin by FT Labs http://github.com/ftlabs/fastclick
  * 
  */
 

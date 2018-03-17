@@ -6,9 +6,9 @@ title: Integrate a twitter timeline in your android application.
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 899
-wordpress_url: https://www.lengrand.fr/?p=899
+wordpress_url: http://www.lengrand.fr/?p=899
 date: 2013-10-30 18:10:55.000000000 +01:00
 categories:
 - Uncategorized
@@ -24,13 +24,13 @@ comments: []
 ---
 Hey all,
 
-This week-end, I worked on integrating a social feature in <a title="brestram google play" href="https://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en"><strong>BresTram</strong></a>.
+This week-end, I worked on integrating a social feature in <a title="brestram google play" href="http://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en"><strong>BresTram</strong></a>.
 I needed a way to let the users know when the bibus servers have a problem, and also let users send messages to each others if needed.
 
 Finally,<strong> I didn't want to spend too much time developing</strong> it. I have more pressing features to implement, and the social integration is more of a "test".
 I decided to go with <strong>Twitter</strong>. The message will generally be short (work on the rails, problems with the tram, ...), and everybody should be able to see them.
 
-I started looking at the <a title="twitter streaming api" href="https://dev.twitter.com/docs/streaming-apis" target="_blank">Streaming API</a>, but then realized there was a much simpler way to do it : Simply integrate a web <a title="twitter timelines" href="https://dev.twitter.com/docs/embedded-timelines" target="_blank">timeline</a> into my app.
+I started looking at the <a title="twitter streaming api" href="http://dev.twitter.com/docs/streaming-apis" target="_blank">Streaming API</a>, but then realized there was a much simpler way to do it : Simply integrate a web <a title="twitter timelines" href="http://dev.twitter.com/docs/embedded-timelines" target="_blank">timeline</a> into my app.
 
 I started by creating a dedicated filter on the twitter account of BresTram.
 
@@ -38,7 +38,7 @@ This gives me two lines of code to integrate into the website of my choice :
 
 {% highlight html %}
 
-<a class="twitter-timeline" href="https://twitter.com/search?q=%23BresTram" data-widget-id="394415351972114432">Tweets about "#BresTram"</a>
+<a class="twitter-timeline" href="http://twitter.com/search?q=%23BresTram" data-widget-id="394415351972114432">Tweets about "#BresTram"</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 {% endhighlight %}
 
@@ -57,9 +57,9 @@ public class MainActivity extends ActionBarActivity {
      
     public static final String TAG = "TimeLineActivity";
  
-    private static final String baseURl = "https://twitter.com";
+    private static final String baseURl = "http://twitter.com";
  
-    private static final String widgetInfo = "<a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23BresTram\" data-widget-id=\"394415351972114432\">Tweets about \"#BresTram\"</a> " +
+    private static final String widgetInfo = "<a class=\"twitter-timeline\" href=\"http://twitter.com/search?q=%23BresTram\" data-widget-id=\"394415351972114432\">Tweets about \"#BresTram\"</a> " +
             "<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>";
 
     @Override
@@ -101,8 +101,8 @@ The background color method is needed to avoid the ugly white background behind 
 And here is the layout file :
 
 {% highlight xml %}
-<RelativeLayout xmlns:android="https://schemas.android.com/apk/res/android"
-    xmlns:tools="https://schemas.android.com/tools"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
@@ -131,11 +131,11 @@ The result is far from perfect, but it's not that bad for roughly 30 minutes of 
 
 <a href="{{ site.url }}/images/posts/2013/10/twitter_timeline.png"><img class="size-full wp-image-900" alt="twitter timeline embedded into an android application" src="{{ site.url }}/images/posts/2013/10/twitter_timeline.png" width="480" height="800" /></a>
 
-On top of that, It directly allows my users to post tweets from the application (using the timeline), and will let everybody know about the <a title="BresTram twitter account" href="https://twitter.com/BresTramApp" target="_blank">BresTram twitter account</a>.
+On top of that, It directly allows my users to post tweets from the application (using the timeline), and will let everybody know about the <a title="BresTram twitter account" href="http://twitter.com/BresTramApp" target="_blank">BresTram twitter account</a>.
 Hopefully, this will help me get some useful feedback.
 
 Now, back to more complex features :).
-<strong>Oh, and if you leave near Brest, check out <a title="brestram google play" href="https://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en" target="_blank">BresTram</a>!</strong>
+<strong>Oh, and if you leave near Brest, check out <a title="brestram google play" href="http://play.google.com/store/apps/details?id=fr.lengrand.brestram&amp;hl=en" target="_blank">BresTram</a>!</strong>
 
 <em>P.S: This is not exactly how the actual source code look like. I changed several things to highlight the essentials in this post.</em>
 

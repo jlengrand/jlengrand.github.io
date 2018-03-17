@@ -6,9 +6,9 @@ title: Synchronize config files between computers
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 33
-wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=33
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=33
 date: 2011-10-18 13:17:55.000000000 +02:00
 categories:
 - tips
@@ -24,7 +24,7 @@ Hi all,
 
 Today, a small hint for Linux users having <strong>DropBox</strong> running on their computer. I guess everyone knows what DropBox is. . .
 
-If not, feel free to have a look <a href="https://www.dropbox.com/referrals/NTQyODYwNDM5?src=global9">there</a> (and win 250 more mos for me and you at the same time). In one word, DB allows to have a folder of your computer on the cloud. This way, you have access to you important files, wherever you are.
+If not, feel free to have a look <a href="http://www.dropbox.com/referrals/NTQyODYwNDM5?src=global9">there</a> (and win 250 more mos for me and you at the same time). In one word, DB allows to have a folder of your computer on the cloud. This way, you have access to you important files, wherever you are.
 
 Most of us now have multiple computers (at work, at home, laptop, . . . ). All of them are configured, and often have similar configurations. And you know how important those files are  in order to feel weel and have his feets on a Linux distribution.
 

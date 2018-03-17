@@ -6,9 +6,9 @@ title: A (small but growing) list of computer vision companies
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 534
-wordpress_url: https://www.lengrand.fr/?p=534
+wordpress_url: http://www.lengrand.fr/?p=534
 date: 2012-02-22 23:23:39.000000000 +01:00
 categories:
 - misc
@@ -40,7 +40,7 @@ On the other hand, it can be very difficult to actually find the computer vision
 
 I started to write the name of each company I could find during my researches, with its main country and its broad specialty (medical, sattelites,  .  . .).
 
-<strong><a title="Computer Vision companies" href="https://www.lengrand.fr/computer-vision-companies/" target="_blank">You will find it here</a></strong>, and It should be updated regularly !
+<strong><a title="Computer Vision companies" href="http://www.lengrand.fr/computer-vision-companies/" target="_blank">You will find it here</a></strong>, and It should be updated regularly !
 
 Hope this can help some of you !
 

@@ -6,9 +6,9 @@ title: A simple way to watermark a batch of images
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 422
-wordpress_url: https://www.lengrand.fr/?p=422
+wordpress_url: http://www.lengrand.fr/?p=422
 date: 2011-12-20 17:35:10.000000000 +01:00
 categories:
 - programming
@@ -23,11 +23,11 @@ comments: []
 ---
 Hi all,
 
-Some time ago, I was searching for a way to simply watermark images to put them on my <strong><a title="my flickr" href="https://www.flickr.com/photos/49365498@N03/">gallery</a></strong>.
+Some time ago, I was searching for a way to simply watermark images to put them on my <strong><a title="my flickr" href="http://www.flickr.com/photos/49365498@N03/">gallery</a></strong>.
 
-I knew <strong><a title="digikam" href="https://www.digikam.org/">digikam</a></strong> could do this, but the package in debian was an old version and the feature was not inserted yet. In addition, I have never found a photo management software that would fit my needs yet . . .
+I knew <strong><a title="digikam" href="http://www.digikam.org/">digikam</a></strong> could do this, but the package in debian was an old version and the feature was not inserted yet. In addition, I have never found a photo management software that would fit my needs yet . . .
 
-I finally developed my own function with some bash and<strong> <a title="image magick" href="https://www.imagemagick.org/script/index.php">image magick</a>. </strong>I created it to be as simple to use as possible. It needs:
+I finally developed my own function with some bash and<strong> <a title="image magick" href="http://www.imagemagick.org/script/index.php">image magick</a>. </strong>I created it to be as simple to use as possible. It needs:
 <ul>
 	<li>an input folder</li>
 	<li>an output folder</li>
@@ -45,11 +45,11 @@ Here is an example of the result :
 
 Picture of the "jardin des plantes" in Nantes"
 
-<a href="https://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha.jpg"><img class="size-medium wp-image-424" title="Pourquoi le bitume?" src="https://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha-200x300.jpg" alt="picture of the "jardin des plantes" in Nantes" width="200" height="300" /></a>
+<a href="http://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha.jpg"><img class="size-medium wp-image-424" title="Pourquoi le bitume?" src="http://www.lengrand.fr/wp-content/uploads/2011/12/pourquoi_le_bitume__by_jlengrand-d4dp4ha-200x300.jpg" alt="picture of the "jardin des plantes" in Nantes" width="200" height="300" /></a>
 
-This script is in an early stage for now, and should be upgraded with time. You can check out the <strong><a title="TODO list" href="https://github.com/jlengrand/batchWaterMarking">TODO list here. </a></strong>
+This script is in an early stage for now, and should be upgraded with time. You can check out the <strong><a title="TODO list" href="http://github.com/jlengrand/batchWaterMarking">TODO list here. </a></strong>
 
-You can download the script <strong><a title="my github" href="https://github.com/jlengrand/batchWaterMarking">on my gitHub</a>, </strong>or more simply download the project using git
+You can download the script <strong><a title="my github" href="http://github.com/jlengrand/batchWaterMarking">on my gitHub</a>, </strong>or more simply download the project using git
 
 {% highlight bash %}
 

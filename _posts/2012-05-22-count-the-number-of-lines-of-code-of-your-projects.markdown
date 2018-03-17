@@ -6,9 +6,9 @@ title: Count the number of lines of code of your projects
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 605
-wordpress_url: https://www.lengrand.fr/?p=605
+wordpress_url: http://www.lengrand.fr/?p=605
 date: 2012-05-22 12:40:04.000000000 +02:00
 categories:
 - tips

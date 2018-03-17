@@ -6,9 +6,9 @@ title: Design, Innovation and Hacking in a couch
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 608
-wordpress_url: https://www.lengrand.fr/?p=608
+wordpress_url: http://www.lengrand.fr/?p=608
 date: 2012-05-29 09:23:30.000000000 +02:00
 categories:
 - misc
@@ -22,7 +22,7 @@ comments:
 - id: 1059
   author: Rich Jones - Gun.io
   author_email: rich@gun.io
-  author_url: https://gun.io
+  author_url: http://gun.io
   date: !binary |-
     MjAxMi0wNS0yOSAxMDoyMjoxOCArMDIwMA==
   date_gmt: !binary |-
@@ -32,7 +32,7 @@ comments:
 - id: 1061
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxMjowMzowMiArMDIwMA==
   date_gmt: !binary |-
@@ -42,7 +42,7 @@ comments:
 - id: 1064
   author: Edwin Martin
   author_email: edwin@bitstorm.org
-  author_url: https://www.bitstorm.org/
+  author_url: http://www.bitstorm.org/
   date: !binary |-
     MjAxMi0wNS0yOSAxMjo1NDoyMSArMDIwMA==
   date_gmt: !binary |-
@@ -66,7 +66,7 @@ comments:
 - id: 1066
   author: Eax
   author_email: eax.exe+lengrand@gmail.com
-  author_url: https://eax.dk
+  author_url: http://eax.dk
   date: !binary |-
     MjAxMi0wNS0yOSAxMzoyNjoxNSArMDIwMA==
   date_gmt: !binary |-
@@ -78,7 +78,7 @@ comments:
 - id: 1067
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxMzozMzo1OSArMDIwMA==
   date_gmt: !binary |-
@@ -91,7 +91,7 @@ comments:
 - id: 1068
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxMzozNzowMCArMDIwMA==
   date_gmt: !binary |-
@@ -102,21 +102,21 @@ comments:
 - id: 1070
   author: Per Persson
   author_email: md2perpe@gmail.com
-  author_url: https://facebook.com/md2perpe
+  author_url: http://facebook.com/md2perpe
   date: !binary |-
     MjAxMi0wNS0yOSAxMzo0MjoxNCArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0yOSAxMjo0MjoxNCArMDIwMA==
-  content: Do you know who this man is? https://goo.gl/9H7vL
+  content: Do you know who this man is? http://goo.gl/9H7vL
 - id: 1071
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxMzo0NTowMCArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0wNS0yOSAxMjo0NTowMCArMDIwMA==
-  content: ! "Well, Wikipedia told it to me\r\nhttps://en.wikipedia.org/wiki/Ingvar_Kamprad\r\n\r\nAnd
+  content: ! "Well, Wikipedia told it to me\r\nhttp://en.wikipedia.org/wiki/Ingvar_Kamprad\r\n\r\nAnd
     ?"
 - id: 1072
   author: Philibert Perusse
@@ -141,7 +141,7 @@ comments:
 - id: 1073
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxNToxMTowMSArMDIwMA==
   date_gmt: !binary |-
@@ -152,7 +152,7 @@ comments:
 - id: 1074
   author: Per Persson
   author_email: md2perpe@gmail.com
-  author_url: https://facebook.com/md2perpe
+  author_url: http://facebook.com/md2perpe
   date: !binary |-
     MjAxMi0wNS0yOSAxNToxMToyNiArMDIwMA==
   date_gmt: !binary |-
@@ -163,7 +163,7 @@ comments:
 - id: 1075
   author: Sameer Alibhai
   author_email: abdullah.adam@gmail.com
-  author_url: https://www.agilechai.com
+  author_url: http://www.agilechai.com
   date: !binary |-
     MjAxMi0wNS0yOSAxNToxNzo1NyArMDIwMA==
   date_gmt: !binary |-
@@ -182,7 +182,7 @@ comments:
 - id: 1077
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxNToyNzo0NyArMDIwMA==
   date_gmt: !binary |-
@@ -192,7 +192,7 @@ comments:
 - id: 1078
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yOSAxNToyODozMyArMDIwMA==
   date_gmt: !binary |-
@@ -200,17 +200,17 @@ comments:
   content: ! "Cool Stuff, actually I learnt a lot by reading the article :). \r\n\r\nThanks
     !"
 ---
-As a 'starter in life', I have always been grateful to <a title="ikea" href="https://www.ikea.com/" target="_blank"><strong>Ikea</strong> </a>for providing classy, cozy and functional furnitures at low prices.
+As a 'starter in life', I have always been grateful to <a title="ikea" href="http://www.ikea.com/" target="_blank"><strong>Ikea</strong> </a>for providing classy, cozy and functional furnitures at low prices.
 
 I am a <strong>huge</strong> fan, at a point that most of the times I need anything I turn myself towards Ikea even before checking what else there can be out there.
-<div>Dropping <a title="about me" href="https://www.lengrand.fr/welcome-in-my-world/" target="_blank">out of school</a> in late 2010, I had only a few days to find a flat and get furnitures in Nantes before starting working at Advansee.</div>
+<div>Dropping <a title="about me" href="http://www.lengrand.fr/welcome-in-my-world/" target="_blank">out of school</a> in late 2010, I had only a few days to find a flat and get furnitures in Nantes before starting working at Advansee.</div>
 <div>I went to Ikea, rented a small truck and ten hours later I had a <strong>full Ikea house</strong> (from the very fork and spoon to the bed/matress). As fool as it may sound, I had spared money for the three last years in order to have a 'proper' house when starting in life. The main reason is that I am kind of a 'home' guy, but this is another story. . .</div>
 <div></div>
 <div></div>
-<div>In the middle of the huge list of items, there was <strong><a title="manstad" href="https://www.ikea.com/ca/fr/catalog/products/90198978/?query=manstad" target="_blank">this corner couch</a>.</strong></div>
+<div>In the middle of the huge list of items, there was <strong><a title="manstad" href="http://www.ikea.com/ca/fr/catalog/products/90198978/?query=manstad" target="_blank">this corner couch</a>.</strong></div>
 <div>
 
-<img title="Manstad Couch" src="https://www.ikea.com/ca/fr/images/products/manstad-canape-lit-dangle-avec-rangement__75652_PE194140_S4.jpg" alt="the perfect ikea couch" width="500" height="500" />
+<img title="Manstad Couch" src="http://www.ikea.com/ca/fr/images/products/manstad-canape-lit-dangle-avec-rangement__75652_PE194140_S4.jpg" alt="the perfect ikea couch" width="500" height="500" />
 
 </div>
 <div></div>
@@ -243,7 +243,7 @@ Same Ikea couch, ready to receive!
 <div><strong>So when summarizing, for the price of a couch I get a couch, a guest bed and a chest.</strong> Who still says it is expensive ?</div>
 <div><strong>But the story does not end there !</strong></div>
 <div></div>
-<div>After one year and a half  in France, my girlfriend and me<a title="job space" href="https://www.lengrand.fr/job-space/" target="_blank"> decided to leave the country </a>(working abroad gets really addictive once you tried it :) ) So we found a job in <a title="my linkedin" href="https://nl.linkedin.com/pub/julien-lengrand-lambert/14/660/551/en" target="_blank">the Netherlands</a>. We left in such a rush due to several reason I had to sell all my furnitures in one month. . . and even my lovely couch. It was by far the item I loved most in my flat (even before my computer).</div>
+<div>After one year and a half  in France, my girlfriend and me<a title="job space" href="http://www.lengrand.fr/job-space/" target="_blank"> decided to leave the country </a>(working abroad gets really addictive once you tried it :) ) So we found a job in <a title="my linkedin" href="http://nl.linkedin.com/pub/julien-lengrand-lambert/14/660/551/en" target="_blank">the Netherlands</a>. We left in such a rush due to several reason I had to sell all my furnitures in one month. . . and even my lovely couch. It was by far the item I loved most in my flat (even before my computer).</div>
 <div>Several months later, finally both having a job and settled in a proper flat; we could think about getting new furniture. I was decided to look<em> everywhere but Ikea</em> for my new stuff this time (never good to always stick to the same habits). So I searched on the web and in stores for several weeks, but still having my old lovely couch in mind. . . I finally went to the Ikea's website . . . to learn that <strong>the price of my couch had dropped by 130 $ !</strong></div>
 <div>When looking closer, I realized that there was some differences :</div>
 <div>Where in the first version of the couch you had to choose where you want your chaise, everything is now symmetrical, and you choose where to place it <strong>as you build the furniture</strong>.</div>
@@ -267,8 +267,8 @@ Same Ikea couch, ready to receive!
 </ul>
 </div>
 <div>Well, they got me there I must say. There was only one thing left to do :<strong> buy the couch (and change color this time :)). </strong></div>
-<div>Ikea always impressed me by the cleverness they use to reduce their prices (like creating the <a title="lack table Ikea" href="https://www.ikea.com/us/en/catalog/products/40104270/" target="_blank">cheapest table ever</a>. The table is in fact <strong>filled with paper</strong> and wood is used only for the external part); but what amazes is that <strong>they actually echo these price cuts to their customers</strong> !</div>
+<div>Ikea always impressed me by the cleverness they use to reduce their prices (like creating the <a title="lack table Ikea" href="http://www.ikea.com/us/en/catalog/products/40104270/" target="_blank">cheapest table ever</a>. The table is in fact <strong>filled with paper</strong> and wood is used only for the external part); but what amazes is that <strong>they actually echo these price cuts to their customers</strong> !</div>
 <div><strong>Ikea, you have all my respect (and my love).</strong></div>
 <div></div>
 <div></div>
-<div><em>Special kudos for <a title="julien" href=" https://www.linkedin.com/pub/julien-deparday/18/5aa/948" target="_blank">Julien </a>and <a title="Gaelle" href="https://www.linkedin.com/pub/ga%C3%ABlle-le-texier/22/423/209" target="_blank">Gaelle </a>for helping out so much with the couch.</em></div>
+<div><em>Special kudos for <a title="julien" href=" http://www.linkedin.com/pub/julien-deparday/18/5aa/948" target="_blank">Julien </a>and <a title="Gaelle" href="http://www.linkedin.com/pub/ga%C3%ABlle-le-texier/22/423/209" target="_blank">Gaelle </a>for helping out so much with the couch.</em></div>

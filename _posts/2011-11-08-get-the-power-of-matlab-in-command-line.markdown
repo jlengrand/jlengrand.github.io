@@ -6,9 +6,9 @@ title: Get the power of Matlab in command line
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 252
-wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=252
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=252
 date: 2011-11-08 15:14:34.000000000 +01:00
 categories:
 - Matlab
@@ -21,11 +21,11 @@ comments: []
 ---
 Hi all,
 
-I got a small hint for you if you use <strong><a title="matlab" href="https://www.mathworks.fr/" target="_blank">Matlab</a></strong> on a daily basis but still love your command line!
+I got a small hint for you if you use <strong><a title="matlab" href="http://www.mathworks.fr/" target="_blank">Matlab</a></strong> on a daily basis but still love your command line!
 
 <div id="post-body-872517502060080737">
 
-I am really not a <a title="IDE" href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank">IDE</a> kinda guy and always try to avoid using a huge interface when an editor is enough. Personally,  I haven't found a more powerful tool than the <strong>emacs/terminal</strong> combination yet.
+I am really not a <a title="IDE" href="http://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank">IDE</a> kinda guy and always try to avoid using a huge interface when an editor is enough. Personally,  I haven't found a more powerful tool than the <strong>emacs/terminal</strong> combination yet.
 
 In addition, the Matlab interface is fully coded in Java and is way too much ram-consuming imho. So I decided to get rid of it! Simply run
 

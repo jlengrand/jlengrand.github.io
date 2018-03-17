@@ -6,9 +6,9 @@ title: Syntax Highlighting issue
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 359
-wordpress_url: https://www.lengrand.fr/?p=359
+wordpress_url: http://www.lengrand.fr/?p=359
 date: 2011-12-08 13:43:40.000000000 +01:00
 categories:
 - misc

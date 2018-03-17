@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/jlengrand
+http://keybase.io/jlengrand
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://lengrand.fr
-  * I am jlengrand (https://keybase.io/jlengrand) on keybase.
+  * I am an admin of http://lengrand.fr
+  * I am jlengrand (http://keybase.io/jlengrand) on keybase.
   * I have a public key with fingerprint 2B77 7EA9 4FE9 136A 6D8E  2642 09A4 360B FE08 DC46
 
 To claim this, I am signing this object:
@@ -37,7 +37,7 @@ with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v0.1.17
-Comment: https://keybase.io/crypto
+Comment: http://keybase.io/crypto
 
 yMHyAnicbZFbSBxXGMd3Ew3VuKK+SEmUMpKbWDMzZ65LLgbbYmhLN0RCDJJ1Zs6Z
 ddSd2c5ejJE1qZVWhVAblNTiimAKSSBaDGqMlyySGIkYS/KQaBtiHvIg9VbYaKAq
@@ -60,6 +60,6 @@ ap9qnXSM9LwvcvGhz/8+9/bf2LGCXm69K7O17tNwb9utezUrYHpxLqUm86sPjY6G
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/jlengrand
+View my publicly-auditable identity here: http://keybase.io/jlengrand
 
 ==================================================================

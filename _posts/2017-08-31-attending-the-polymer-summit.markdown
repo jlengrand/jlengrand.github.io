@@ -6,7 +6,7 @@ title: My experience at the 2017 Polymer Summit
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 categories:
 - work
 - job
@@ -21,15 +21,15 @@ comments: []
 ---
 Last week, I attended my first conference ever : The 2017 Polymer Summit in Copenhagen. 
 
-I am used to go to Meetups (and organize them [myself](https://meetup.com/Saturday-Morning-Coding-Utrecht)) but it was my first time taking part in something at a bigger scale. 
+I am used to go to Meetups (and organize them [myself](http://meetup.com/Saturday-Morning-Coding-Utrecht)) but it was my first time taking part in something at a bigger scale. 
   
 
 
-Since I joined [ING](https://ing.nl), I have been focusing pretty much only on front-end development, and more specifically [Polymer](https://polymer-project.org). It was a pleasure to be able to hear more about it from the founding team itself.
+Since I joined [ING](http://ing.nl), I have been focusing pretty much only on front-end development, and more specifically [Polymer](http://polymer-project.org). It was a pleasure to be able to hear more about it from the founding team itself.
 With my majestic 3 months experience with Web Components, I really felt like a baby talking to people that **created the standard**.
 
 
-Most of the talks were very interesting, and the annoucement of Polymer 3 (and the switch to Javascript modules!) was a good (and hoped for :D) surprise. You can find all of them on [Youtube](https://www.youtube.com/watch?v=TDpiyrcOO30&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi), and I recommend most of them if you are interested in Polymer, or by web components in general. 
+Most of the talks were very interesting, and the annoucement of Polymer 3 (and the switch to Javascript modules!) was a good (and hoped for :D) surprise. You can find all of them on [Youtube](http://www.youtube.com/watch?v=TDpiyrcOO30&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi), and I recommend most of them if you are interested in Polymer, or by web components in general. 
 
 
 After a couple months working with Polymer, my feeling going to the conference was a bit saur:

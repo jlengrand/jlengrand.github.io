@@ -6,7 +6,7 @@ title: Participating the Green Hackfest Utrecht 2014
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 categories:
 - hackathon
 - development
@@ -35,13 +35,13 @@ We had a very diverse team, which allowed us to use a lot of different technolog
 
 * An android app, used to give information about the sensors in the neighborhood and receive notifications when the car has finished charging.
 
-You can find some more information about the concept [in this PDF](https://dl.dropboxusercontent.com/u/4286043/00_Website/03_Images/green-hack/Hackathon.pdf), and a screenshot of the running web app [here](https://dl.dropboxusercontent.com/u/4286043/00_Website/03_Images/green-hack/web.png).
+You can find some more information about the concept [in this PDF](http://dl.dropboxusercontent.com/u/4286043/00_Website/03_Images/green-hack/Hackathon.pdf), and a screenshot of the running web app [here](http://dl.dropboxusercontent.com/u/4286043/00_Website/03_Images/green-hack/web.png).
 
 We did not end up winning the Hackathon, but we did win the "Visualizing Sustainability" challenge from the event.
 
-![The winning team after the event](https://dl.dropboxusercontent.com/u/4286043/00_Website/03_Images/green-hack/IMG_4472.JPG)
+![The winning team after the event](http://dl.dropboxusercontent.com/u/4286043/00_Website/03_Images/green-hack/IMG_4472.JPG)
 
-A couple weeks later, a meeting was organized in Utrecht with the partners that were responsible for this challenge : the EBU Climate KIC and LomboXNet. We did not pursue the idea further after the hackathon, but our work was used as input for further upgrade of the charging poles. [**You can find a link to the article published in the EBU Mag here**](https://dl.dropboxusercontent.com/u/4286043/00_Website/02_Articles/ebu_mag_09_interview_slimme_laadpaal.pdf).
+A couple weeks later, a meeting was organized in Utrecht with the partners that were responsible for this challenge : the EBU Climate KIC and LomboXNet. We did not pursue the idea further after the hackathon, but our work was used as input for further upgrade of the charging poles. [**You can find a link to the article published in the EBU Mag here**](http://dl.dropboxusercontent.com/u/4286043/00_Website/02_Articles/ebu_mag_09_interview_slimme_laadpaal.pdf).
 
 All in all, it was a really fun event and the overlapping expertise from the team allowed us to get a lot done in only 2 days!
 

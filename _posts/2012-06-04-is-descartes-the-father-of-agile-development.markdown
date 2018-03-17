@@ -6,9 +6,9 @@ title: ! 'Is Descartes the father of Agile development?  '
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 633
-wordpress_url: https://www.lengrand.fr/?p=633
+wordpress_url: http://www.lengrand.fr/?p=633
 date: 2012-06-04 10:05:19.000000000 +02:00
 categories:
 - misc
@@ -25,22 +25,22 @@ comments: []
 ---
 <strong>Methodology coming from Elders : Descartes's advice</strong>
 
-As a <a title="job space" href="https://www.lengrand.fr/job-space/" target="_blank">scientist</a>, I love reading <a title="the art of war" href="https://www.amazon.com/The-Art-War-Sun-Tzu/dp/0385292163?tag=duckduckgo-d-20" target="_blank">old books</a> about ways to<strong> improve my workflow</strong> and <a title="GTD" href="https://www.davidco.com/" target="_blank">get things done</a>. As a <a title="aboutme" href="https://www.lengrand.fr/welcome-in-my-world/" target="_blank">french guy</a>, I am especially glad when what I read come from <a title="descartes wikipedia" href="https://en.wikipedia.org/wiki/Descartes" target="_blank">Descartes</a>.
+As a <a title="job space" href="http://www.lengrand.fr/job-space/" target="_blank">scientist</a>, I love reading <a title="the art of war" href="http://www.amazon.com/The-Art-War-Sun-Tzu/dp/0385292163?tag=duckduckgo-d-20" target="_blank">old books</a> about ways to<strong> improve my workflow</strong> and <a title="GTD" href="http://www.davidco.com/" target="_blank">get things done</a>. As a <a title="aboutme" href="http://www.lengrand.fr/welcome-in-my-world/" target="_blank">french guy</a>, I am especially glad when what I read come from <a title="descartes wikipedia" href="http://en.wikipedia.org/wiki/Descartes" target="_blank">Descartes</a>.
 
-<img title="Descartes" src="https://media.web.britannica.com/eb-media/33/8433-004-8E2D30AB.jpg" alt="portrait of Descartes" width="213" height="250" />
+<img title="Descartes" src="http://media.web.britannica.com/eb-media/33/8433-004-8E2D30AB.jpg" alt="portrait of Descartes" width="213" height="250" />
 
 Here is a small part of what Wikipedia says about Descartes.
-<blockquote><a title="wikipedia Descartes" href="https://en.wikipedia.org/wiki/Descartes" target="_blank"><strong>WIKIPEDIA</strong>
+<blockquote><a title="wikipedia Descartes" href="http://en.wikipedia.org/wiki/Descartes" target="_blank"><strong>WIKIPEDIA</strong>
 </a>René Descartes was a French philosopher, mathematician, and writer.
 
 He is credited as the father of analytical geometry, the bridge between algebra and geometry, crucial to the discovery of infinitesimal calculus and analysis.
 
-As an example, the <a title="Cartesian coordinate system" href="https://en.wikipedia.org/wiki/Cartesian_coordinate_system">Cartesian coordinate system</a> — allowing algebraic equations to be expressed as geometric shapes in a two-dimensional coordinate system — was named after him.</blockquote>
+As an example, the <a title="Cartesian coordinate system" href="http://en.wikipedia.org/wiki/Cartesian_coordinate_system">Cartesian coordinate system</a> — allowing algebraic equations to be expressed as geometric shapes in a two-dimensional coordinate system — was named after him.</blockquote>
 
 
-In <em><a title="Le discours de la méthode" href="https://fr.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode" target="_blank">Le discours de la méthode</a></em>  , Descartes describes 4 principles that (in his mind) people should follow to eventually find a solution to their (scientific) problems.
+In <em><a title="Le discours de la méthode" href="http://fr.wikipedia.org/wiki/Discours_de_la_m%C3%A9thode" target="_blank">Le discours de la méthode</a></em>  , Descartes describes 4 principles that (in his mind) people should follow to eventually find a solution to their (scientific) problems.
 
-<img title="Le discours de la méthode" src="https://drive.google.com/open?id=0B4bXocpgiAyxbjBINnhIblNIVmM" alt="Cover of le discours de la Méthode" width="250" height="340" />
+<img title="Le discours de la méthode" src="http://drive.google.com/open?id=0B4bXocpgiAyxbjBINnhIblNIVmM" alt="Cover of le discours de la Méthode" width="250" height="340" />
 
 Here is the <strong>original (and french) version</strong> of those principles:
 <blockquote>
@@ -72,4 +72,4 @@ When I see what he has done for geometry; I would <strong>really have loved</str
 
 <strong>And you,</strong> which dead genius do you love to get knowledge from?
 
-[<a title="source for principles" href="https://www.philolog.fr/les-regles-de-la-methode-descartes/" target="_blank">source for principles</a>]
+[<a title="source for principles" href="http://www.philolog.fr/les-regles-de-la-methode-descartes/" target="_blank">source for principles</a>]

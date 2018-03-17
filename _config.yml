@@ -2,7 +2,7 @@ title:            Look up to the future
 tagline:          Coding and other thoughts
 description:      Coding and other thoughts
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://lengrand.fr
+url:              http://lengrand.fr
 
 # Owner/author information
 owner:
@@ -18,15 +18,15 @@ owner:
   instagram:
   lastfm:
   tumblr:
-  # for stack overflow, user profile is of type https://stackoverflow.com/users/282677/jlengrand
+  # for stack overflow, user profile is of type http://stackoverflow.com/users/282677/jlengrand
   stackoverflow:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus: https://plus.google.com/u/0/+julienlengrandlambert
+  # For Google Authorship http://plus.google.com/authorship
+  google_plus: http://plus.google.com/u/0/+julienlengrandlambert
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-24607514-3
 google_verify: _Do35mFeypIchoXtVkG92HL2nYyO04b7LQfyjPWH6Tk
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# http://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify: AF414988894958F833EBF5587CF134FD
 
 # Links to include in top navigation
@@ -39,14 +39,14 @@ links:
   - title: Computer Vision Companies
     url: /computer-vision-companies/
 
-# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
 future:      true
 pygments:    false
 markdown:    kramdown
 highlighter:  rouge
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# http://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink:   /:categories/:title/
 permalink: /:year/:month/:title
 

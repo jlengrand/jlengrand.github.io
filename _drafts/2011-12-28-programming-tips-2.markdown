@@ -6,9 +6,9 @@ title: Programming Tips
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 431
-wordpress_url: https://www.lengrand.fr/?page_id=431
+wordpress_url: http://www.lengrand.fr/?page_id=431
 date: 2011-12-28 14:24:01.000000000 +01:00
 categories: []
 tags: []
@@ -16,7 +16,7 @@ comments:
 - id: 124
   author: The Programming Tips page is back | loup2fu
   author_email: ''
-  author_url: https://www.lengrand.fr/2011/12/the-programming-tips-page-is-back/
+  author_url: http://www.lengrand.fr/2011/12/the-programming-tips-page-is-back/
   date: !binary |-
     MjAxMS0xMi0yOCAxNDo1MToyMSArMDEwMA==
   date_gmt: !binary |-
@@ -25,7 +25,7 @@ comments:
 - id: 126
   author: Simply print current function name | loup2fu
   author_email: ''
-  author_url: https://www.lengrand.fr/2011/12/simply-print-current-function-name/
+  author_url: http://www.lengrand.fr/2011/12/simply-print-current-function-name/
   date: !binary |-
     MjAxMS0xMi0yOCAxNjo1NTozNCArMDEwMA==
   date_gmt: !binary |-
@@ -35,7 +35,7 @@ comments:
 - id: 135
   author: ! 'Programming tips : New Wordpress section | loup2fu'
   author_email: ''
-  author_url: https://www.lengrand.fr/2012/01/programming-tips-new-wordpress-section/
+  author_url: http://www.lengrand.fr/2012/01/programming-tips-new-wordpress-section/
   date: !binary |-
     MjAxMi0wMS0wMyAxMzozNzoyMCArMDEwMA==
   date_gmt: !binary |-
@@ -210,7 +210,7 @@ $ "find ./ -name .svn -prune -o -type f -print | xargs grep -Hi" //pattern//
 
 {% endhighlight %}
 
-The .svn part is used to avoid searching in the <a title="subversion wiki" href="https://en.wikipedia.org/wiki/Apache_Subversion">subversion</a> folder of my projects.
+The .svn part is used to avoid searching in the <a title="subversion wiki" href="http://en.wikipedia.org/wiki/Apache_Subversion">subversion</a> folder of my projects.
 
 {% highlight bash %}
 
@@ -257,7 +257,7 @@ $ date -d "$FIRST_TIME" +"%s"
 
 <hr />
 
-<span style="color: #ff9900;">Directly get the correct <a title="shebang wiki" href="https://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a> for you script:</span>
+<span style="color: #ff9900;">Directly get the correct <a title="shebang wiki" href="http://en.wikipedia.org/wiki/Shebang_%28Unix%29">shebang</a> for you script:</span>
 
 {% highlight bash %}
 
@@ -413,7 +413,7 @@ $ echo "complete -cf sudo" > ~/.bashrc
 
 <hr />
 
-<span style="color: #ff9900;">Read information in <a title="elf files wiki" href="https://en.wikipedia.org/wiki/Executable_and_Linkable_Format">elf files</a>:</span>
+<span style="color: #ff9900;">Read information in <a title="elf files wiki" href="http://en.wikipedia.org/wiki/Executable_and_Linkable_Format">elf files</a>:</span>
 
 {% highlight bash %}
 
@@ -665,7 +665,7 @@ int age = 10;
 
 <a name="git"></a>
 <h1>Git and GitHub</h1>
-Simple reminders to manage a project with <strong><a title="git" href="https://git-scm.com/">Git</a></strong> and <strong><a title="gitHub" href="https://github.com/jlengrand">GitHub</a></strong> interface.
+Simple reminders to manage a project with <strong><a title="git" href="http://git-scm.com/">Git</a></strong> and <strong><a title="gitHub" href="http://github.com/jlengrand">GitHub</a></strong> interface.
 
 <span style="color: #ff9900;">Clone a project from my personal GitHub account:</span>
 
@@ -772,7 +772,7 @@ Generally, embedded architecture software is divided into 3 main layers :
 <ul>
 	<li><strong>Here is a simple drawing to get the idea:</strong></li>
 </ul>
-[caption id="" align="aligncenter" width="881" caption="Embedded Architecture Drawing"]<img class=" " title="Embedded Architecture" src="https://dl-web.dropbox.com/get/Public/00_Website/03_Images/Embedded_architecture.png?w=efee537d" alt="Embedded Architecture" width="881" height="380" />[/caption]
+[caption id="" align="aligncenter" width="881" caption="Embedded Architecture Drawing"]<img class=" " title="Embedded Architecture" src="http://dl-web.dropbox.com/get/Public/00_Website/03_Images/Embedded_architecture.png?w=efee537d" alt="Embedded Architecture" width="881" height="380" />[/caption]
 
 <span style="text-decoration: underline;">INFO</span>: The main idea behind that when you code is the reuse! The application may not be reusable, but drivers and components must !
  If you did good, you should be able to use the same application in two architectures, changing only components and drivers.
@@ -787,7 +787,7 @@ Generally, embedded architecture software is divided into 3 main layers :
 
 <a name="ocv"></a>
 <h1>OpenCV</h1>
-Memos and Tips about the <strong><a title="External link to https://opencv.willowgarage.com/wiki/" href="https://opencv.willowgarage.com/wiki/" target="_blank">OpenCV</a></strong> library.
+Memos and Tips about the <strong><a title="External link to http://opencv.willowgarage.com/wiki/" href="http://opencv.willowgarage.com/wiki/" target="_blank">OpenCV</a></strong> library.
 
 <span style="text-decoration: underline;">In C/C++:</span>
 
@@ -858,7 +858,7 @@ Could NOT find PythonLibs (missing: PYTHON_INCLUDE_DIRS) in cmake
 
 {% endhighlight %}
 
-Simply try installing <strong><a title="pydev package" href="https://packages.ubuntu.com/fr/hardy/python-dev">python-dev</a></strong> packages.
+Simply try installing <strong><a title="pydev package" href="http://packages.ubuntu.com/fr/hardy/python-dev">python-dev</a></strong> packages.
 
 It should solve the problem.
 
@@ -924,7 +924,7 @@ $ svn merge --reintegrate ./^branch
 </ul>
 <ul>
 	<li>The <strong>^</strong> corresponds to /path/to/my/svn/root/folder</li>
-	<li>If you're running Windows, you might want to look at <strong><a title="tortoise" href="https://tortoisesvn.net/">tortoisesvn</a>.</strong></li>
+	<li>If you're running Windows, you might want to look at <strong><a title="tortoise" href="http://tortoisesvn.net/">tortoisesvn</a>.</strong></li>
 </ul>
 
 <hr />
@@ -939,7 +939,7 @@ Simple tips for software profiling using Linux.
 
 <span style="color: #ff9900;">Simple steps on using gprof:</span>
 
-<strong><a title="gprof" href="https://www.cs.utah.edu/dept/old/texinfo/as/gprof.html">gprof</a></strong> is a really efficient prototyping tool designed by Richard Stallman
+<strong><a title="gprof" href="http://www.cs.utah.edu/dept/old/texinfo/as/gprof.html">gprof</a></strong> is a really efficient prototyping tool designed by Richard Stallman
 
 It is a total graal to exactly know where your bottlenecks are, and which parts of your software have to be optimized first!
 <ul>
@@ -968,7 +968,7 @@ $ vim saved_report
 
 <span style="color: #ff9900;">Simple command-line to search for memory leacks:</span>
 
-Using the <strong><a title="valgrind" href="https://valgrind.org/">Valgrind</a></strong> library.
+Using the <strong><a title="valgrind" href="http://valgrind.org/">Valgrind</a></strong> library.
 
 {% highlight bash %}
 
@@ -1009,7 +1009,7 @@ This is done in two different steps :
 [html]<a href= »#name_of_the_anchor »>my highlighted text</a>[/html]
 
 <div><span style="text-decoration: underline;">If the anchor is in another page :</span></div>
-[html]<a href= »https://www.website.fr/#name_of_the_anchor »>my highlighted text</a>
+[html]<a href= »http://www.website.fr/#name_of_the_anchor »>my highlighted text</a>
 <a href= »#name_of_the_anchor »>my highlighted text</a>
 [/html]
 

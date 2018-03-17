@@ -6,9 +6,9 @@ title: ! 'Classification : Hu and Zernike moments'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 254
-wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=254
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=254
 date: 2011-11-02 00:51:12.000000000 +01:00
 categories:
 - Computer Vision
@@ -34,7 +34,7 @@ comments:
 - id: 755
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNC0wMiAwODowNzowOCArMDIwMA==
   date_gmt: !binary |-
@@ -56,7 +56,7 @@ comments:
 - id: 1011
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNS0yMSAxMzowNzoyNSArMDIwMA==
   date_gmt: !binary |-
@@ -70,18 +70,18 @@ Hi all,
 
 I am currently working on a <strong>Computer Vision</strong> application which requires a step of <strong>shape recognition</strong>. And I have been searching for lots of different parameters allowing to precisely classify objects afterwards.
 
-In a lot of applications, one need parameters that are invariant to <strong><a title="linear transformation" href="https://en.wikipedia.org/wiki/Linear_map" target="_blank">linear transformations</a></strong> (that is translation, rotation and scaling) to ease object <strong>classification</strong> in various conditions.
+In a lot of applications, one need parameters that are invariant to <strong><a title="linear transformation" href="http://en.wikipedia.org/wiki/Linear_map" target="_blank">linear transformations</a></strong> (that is translation, rotation and scaling) to ease object <strong>classification</strong> in various conditions.
 
-If you search for such parameters, you will quickly hear the name of <strong><a title="zernike moments" href="https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/SHUTLER3/node11.html" target="_blank">Zernicke</a></strong> and <strong><a title="hu" href="https://en.wikipedia.org/wiki/Image_moment" target="_blank">Hu</a> </strong>moments.  Here are links to a <strong>Matlab</strong> implementation of those descriptors:
+If you search for such parameters, you will quickly hear the name of <strong><a title="zernike moments" href="http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/SHUTLER3/node11.html" target="_blank">Zernicke</a></strong> and <strong><a title="hu" href="http://en.wikipedia.org/wiki/Image_moment" target="_blank">Hu</a> </strong>moments.  Here are links to a <strong>Matlab</strong> implementation of those descriptors:
 <ul>
-	<li><strong><a href="https://murphylab.web.cmu.edu/publications/boland/thesis_all.html" target="_blank">Zernike</a></strong> applied to protein localization</li>
-	<li><strong><a href="https://www.cc.gatech.edu/~kwatra/computer_vision/ocr/OCR.html" target="_blank">Hu</a> </strong>applied to <a title="ocr" href="https://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">OCR</a></li>
+	<li><strong><a href="http://murphylab.web.cmu.edu/publications/boland/thesis_all.html" target="_blank">Zernike</a></strong> applied to protein localization</li>
+	<li><strong><a href="http://www.cc.gatech.edu/~kwatra/computer_vision/ocr/OCR.html" target="_blank">Hu</a> </strong>applied to <a title="ocr" href="http://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">OCR</a></li>
 </ul>
 <div id="post-body-5906015610342128589">
 
 Have fun using it, but don't forget to mention their previous authors ;).
 
-And if you need more descriptors in your classification, <a title="visual descriptors" href="https://en.wikipedia.org/wiki/Visual_descriptors" target="_blank"><strong>here is a quite exhaustive list</strong> </a>(at least as much as it can be).
+And if you need more descriptors in your classification, <a title="visual descriptors" href="http://en.wikipedia.org/wiki/Visual_descriptors" target="_blank"><strong>here is a quite exhaustive list</strong> </a>(at least as much as it can be).
 
 If I have some spare time, I might think of a Pythonic implementation one day ^^. I'll let you know.
 

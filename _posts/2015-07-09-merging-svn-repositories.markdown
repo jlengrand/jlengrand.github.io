@@ -6,7 +6,7 @@ title: Merging several SVN repositories into one
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 categories:
 - tips
 tags:
@@ -15,7 +15,7 @@ tags:
 comments: []
 ---
 
-The source code at [Spacemetric](https://www.spacemetric.com/) has been split over several reasons for years. The main reason was that some customers were having access to part of our code, while some other parts were to be kept private. This makes working with branches a real nightmare, and we lately decided to merge our repositories back together for this reason.
+The source code at [Spacemetric](http://www.spacemetric.com/) has been split over several reasons for years. The main reason was that some customers were having access to part of our code, while some other parts were to be kept private. This makes working with branches a real nightmare, and we lately decided to merge our repositories back together for this reason.
 <br>
 The task ahead : Merge 3 different repositories together for a total of around 16k commits, that hold roughly the same structure of folders. One catch though : **It is imperative not to lose the commit history.**
 <br>
@@ -100,7 +100,7 @@ Well, the easiest way I found to do this was to do folder operations on the clie
 
     $ svn checkout svn+ssh://jll@svn.spacemetric.se/spacemetric/svn/spacemetric
 
-And then using [Tortoise](https://tortoisesvn.net/) (I hate the SVN command line) I simply moved the eclipse folder from video and public into the main eclipse folder and commited. This was a pretty big and scary commit but everything turned out fine.
+And then using [Tortoise](http://tortoisesvn.net/) (I hate the SVN command line) I simply moved the eclipse folder from video and public into the main eclipse folder and commited. This was a pretty big and scary commit but everything turned out fine.
 
 ### Wrapping up
 
@@ -114,7 +114,7 @@ Here it is, a clear, unique repository that will allow developers to start using
 <br>
 The whole process was a bit tedious (16k commits, around 4 hours to do the whole process) and scary, but everything turned out fine and we never looked back.
 <br>
-My next objective now is to get us to switch from git to svn, as any sane person would do :). Using [git-svn](https://csurs.csr.uky.edu/cgi-bin/man/man2html?1+git-svn) makes my life bareable for now.
+My next objective now is to get us to switch from git to svn, as any sane person would do :). Using [git-svn](http://csurs.csr.uky.edu/cgi-bin/man/man2html?1+git-svn) makes my life bareable for now.
 
 <br>
 Cheers!

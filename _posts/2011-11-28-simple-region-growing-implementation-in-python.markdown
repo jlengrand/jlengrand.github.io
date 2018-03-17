@@ -6,9 +6,9 @@ title: A simple region growing implementation in Python
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 318
-wordpress_url: https://www.lengrand.fr/?p=318
+wordpress_url: http://www.lengrand.fr/?p=318
 date: 2011-11-28 13:51:14.000000000 +01:00
 categories:
 - OpenCV
@@ -34,7 +34,7 @@ comments:
 - id: 3157
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMi0xNSAxMjoxNDo0OCArMDEwMA==
   date_gmt: !binary |-
@@ -55,14 +55,14 @@ comments:
 - id: 3212
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMi0xOCAwOTo0ODozOCArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0xMi0xOCAwODo0ODozOCArMDEwMA==
   content: ! "I will have a look at it during the holidays. \r\n\r\nIn the meantime,
     can't you apply the same algorithm multiple times on your image, and then perform
-    a binary operation? \r\n\r\nCheck it out <a href=\"https://stackoverflow.com/questions/11262312/opencv-intersection-between-two-binary-images\"
+    a binary operation? \r\n\r\nCheck it out <a href=\"http://stackoverflow.com/questions/11262312/opencv-intersection-between-two-binary-images\"
     title=\"SO intersection images\" target=\"_blank\">here</a>, I think that using
     either an <strong>and</strong> or an <strong>or</strong> operation between your
     two output images ' will do what you want : merge the results. \r\n\r\nLet me
@@ -118,7 +118,7 @@ comments:
 - id: 3928
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMy0wMS0yNSAxMToxNDozMCArMDEwMA==
   date_gmt: !binary |-
@@ -156,7 +156,7 @@ comments:
 - id: 4019
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMy0wMS0yOSAwOTo0ODo0NCArMDEwMA==
   date_gmt: !binary |-
@@ -164,13 +164,13 @@ comments:
   content: ! "Hi, \n\nI am not sure what you mean. \nThis code is Python, so you should
     not have to compile it but run it with python. \n\nthat means do something like
     : \n\n<code>\npython testrg.py\n</code>\n\nIf you want to be able to use ./testrg.py
-    directly, you need to append a <a href=\"https://en.wikipedia.org/wiki/Shebang_(Unix)\"
+    directly, you need to append a <a href=\"http://en.wikipedia.org/wiki/Shebang_(Unix)\"
     title=\"shebang wikipedia\" target=\"_blank\">shebang</a> at the beginning of
     the file: \n\n<code>\n#!/usr/bin/python\n</code>\n\nHope this helps !"
 - id: 19038
   author: Pascal
   author_email: hmarois21@hotmail.com
-  author_url: https://priveyes.craym.eu
+  author_url: http://priveyes.craym.eu
   date: !binary |-
     MjAxMy0xMC0yOCAxNTowMTo1MCArMDEwMA==
   date_gmt: !binary |-
@@ -182,17 +182,17 @@ comments:
 ---
 Hi all,
 
-Here is a simple example of (simple) <strong><a title="region growing" href="https://en.wikipedia.org/wiki/Region_growing" target="_blank">Region Growing algorithm</a></strong> in <strong>Python</strong>.
-It is part of my<a title="github_tippy" href="https://github.com/jlengrand/Tippy" target="_blank"> current project</a>, called <strong>Tippy</strong>.
+Here is a simple example of (simple) <strong><a title="region growing" href="http://en.wikipedia.org/wiki/Region_growing" target="_blank">Region Growing algorithm</a></strong> in <strong>Python</strong>.
+It is part of my<a title="github_tippy" href="http://github.com/jlengrand/Tippy" target="_blank"> current project</a>, called <strong>Tippy</strong>.
 
-<strong>Tippy</strong> tries to implement use the power of <strong><a title="opencv" href="https://opencv.willowgarage.com/wiki/" target="_blank">OpenCV</a></strong> and Python to fasten <a title="computer_vision" href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">Computer Vision</a> prototyping.
+<strong>Tippy</strong> tries to implement use the power of <strong><a title="opencv" href="http://opencv.willowgarage.com/wiki/" target="_blank">OpenCV</a></strong> and Python to fasten <a title="computer_vision" href="http://en.wikipedia.org/wiki/Computer_vision" target="_blank">Computer Vision</a> prototyping.
 The idea is to get as much result as possible with a minimum of code.
 
-A word about <a title="REGION_GROWING" href="https://en.wikipedia.org/wiki/Region_growing" target="_blank">region growing</a> , and this implementation :
+A word about <a title="REGION_GROWING" href="http://en.wikipedia.org/wiki/Region_growing" target="_blank">region growing</a> , and this implementation :
 
 This approach to segmentation examines neighboring pixels of initial “seed points” and determines whether the pixel neighbors should be added to the region. The process is iterated on, in the same manner as general data clustering algorithms"
 Basically, region growing is an<strong> iterative method used to extract similar parts of an image</strong>. One or several points are chosen as a start. The region then grows until it is finally blocked by the<strong> stop criteria</strong>. This criteria is generally an inside/outside region comparison (energy, size, . . .).
-Region growing is massively used in medical imaging, and object detection. <a title="mine_hunting ECUA" href="https://drive.google.com/open?id=0B4bXocpgiAyxY1I3d2lIR2tvSHcf" target="_blank">Here is an example of application in automatic <strong>Mine Hunting</strong></a>, which I worked with last year at <a title="TNO" href="https://www.tno.nl/" target="_blank">TNO</a>.
+Region growing is massively used in medical imaging, and object detection. <a title="mine_hunting ECUA" href="http://drive.google.com/open?id=0B4bXocpgiAyxY1I3d2lIR2tvSHcf" target="_blank">Here is an example of application in automatic <strong>Mine Hunting</strong></a>, which I worked with last year at <a title="TNO" href="http://www.tno.nl/" target="_blank">TNO</a>.
 
 The following method uses one seed point, defined by the user. The region grows by comparing with its neighbourhood. The chosen criteria is in this case a difference between outside pixel's intensity value and the region's mean.
 The pixel with minimum intensity in the region neighbouhood is chosen to be included. The growing stops as soon as the difference is larger than a threshold.
@@ -297,7 +297,7 @@ def simple_region_growing(img, seed, threshold=1):
 {% endhighlight %}
 
 Here is a <strong>simple test</strong> of the function, using Tippy functions. If you only want to use the function, juste remove the tippy stuff and copy the function in your source.
-Please note than <strong><a title="Compiling OpenCV for Linux (Debian)" href="https://www.lengrand.fr/2011/11/compiling-opencv-for-linux-debian/" target="_blank">OpenCV</a></strong> is needed for the function to work ;)
+Please note than <strong><a title="Compiling OpenCV for Linux (Debian)" href="http://www.lengrand.fr/2011/11/compiling-opencv-for-linux-debian/" target="_blank">OpenCV</a></strong> is needed for the function to work ;)
 
 {% highlight python %}
 import cv
@@ -325,14 +325,14 @@ do.display_single_image(out_img, "Region Growing result")
 As you can see, the implementation is rather short in code.
 An option has been included to let user interactively choose their seed.
 
-<strong><a title="github_tippy" href="https://github.com/jlengrand/Tippy" target="_blank">Tippy is available here</a></strong>
+<strong><a title="github_tippy" href="http://github.com/jlengrand/Tippy" target="_blank">Tippy is available here</a></strong>
 As the project is in its very beginning, only a few functions are implemented for now.
 But I have a lot more coming for you :).
 
 As you can see in the source, tests are included with each function. Applications notes and examples will shortly be available too.
 Finally, there is now proper installer for now. <strong>Simply add the tippy folder in your sources and include the files you need.</strong>
 
-I would be very pleased to find some co-workers. It would allow the library to grow much faster :). So feel free to <a title="github_tippy" href="https://github.com/jlengrand/Tippy" target="_blank">fork the project</a> ;)
+I would be very pleased to find some co-workers. It would allow the library to grow much faster :). So feel free to <a title="github_tippy" href="http://github.com/jlengrand/Tippy" target="_blank">fork the project</a> ;)
 And (constructive) comments are of course encouraged too !
 
 See you soon

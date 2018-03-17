@@ -6,9 +6,9 @@ title: ! 'Python/Unittest : assertRaises raises Error'
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 327
-wordpress_url: https://www.lengrand.fr/?p=327
+wordpress_url: http://www.lengrand.fr/?p=327
 date: 2011-12-02 13:49:49.000000000 +01:00
 categories:
 - Python
@@ -34,7 +34,7 @@ comments:
 - id: 873
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wNC0yNCAxMjo0MToyNCArMDIwMA==
   date_gmt: !binary |-
@@ -44,9 +44,9 @@ comments:
 ---
 Hi all,
 
-Today, a small hint about <strong>unit tests</strong> in Python I discovered while working on <strong><a title="tippy on github" href="https://github.com/jlengrand/Tippy" target="_blank">Tippy</a></strong>.
+Today, a small hint about <strong>unit tests</strong> in Python I discovered while working on <strong><a title="tippy on github" href="http://github.com/jlengrand/Tippy" target="_blank">Tippy</a></strong>.
 
-In order to get as reliable code as possible, I am currently experiencing <strong><a title="agile" href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">Agile</a></strong> techniques, and especially <strong><a title="TDD" href="https://fr.wikipedia.org/wiki/Test_Driven_Development" target="_blank">TDD</a></strong>. I develop <strong>Tippy</strong> in Python, and test methods with the excellent <a title="unittest framework" href="https://docs.python.org/library/unittest.html" target="_blank">unittest</a> framework.One of (in my mind at least) the most important tips Agile provides is the "<a title="fail fast" href="https://en.wikipedia.org/wiki/Fail-fast" target="_blank">fail fast</a>" rule. And to fit with this rule, all my methods check their inputs before performing anything else.
+In order to get as reliable code as possible, I am currently experiencing <strong><a title="agile" href="http://en.wikipedia.org/wiki/Agile_software_development" target="_blank">Agile</a></strong> techniques, and especially <strong><a title="TDD" href="http://fr.wikipedia.org/wiki/Test_Driven_Development" target="_blank">TDD</a></strong>. I develop <strong>Tippy</strong> in Python, and test methods with the excellent <a title="unittest framework" href="http://docs.python.org/library/unittest.html" target="_blank">unittest</a> framework.One of (in my mind at least) the most important tips Agile provides is the "<a title="fail fast" href="http://en.wikipedia.org/wiki/Fail-fast" target="_blank">fail fast</a>" rule. And to fit with this rule, all my methods check their inputs before performing anything else.
 
 It implies a lot of <strong>assertRaises</strong> assertions in my tests. Here is an example of how it could be used :
 

@@ -6,9 +6,9 @@ title: Errors on Linux boot with a Radeon HD
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 274
-wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=274
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=274
 date: 2011-11-09 12:29:24.000000000 +01:00
 categories:
 - misc
@@ -38,7 +38,7 @@ comments:
 - id: 198
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMS0zMCAxODoyODoxMCArMDEwMA==
   date_gmt: !binary |-
@@ -70,13 +70,13 @@ radeon 0000:01:00.0: object_init failed for (4096, 0x00000002)
 
 {% endhighlight %}
 
-The problem as quite annoying, even causing<strong> graphical startup failures</strong>. . . I searched a lot for a solution and <a title="cr-fr" href="https://crunchbanglinux-fr.org/forum/viewtopic.php?id=1123" target="_blank">asked for some help</a>.
+The problem as quite annoying, even causing<strong> graphical startup failures</strong>. . . I searched a lot for a solution and <a title="cr-fr" href="http://crunchbanglinux-fr.org/forum/viewtopic.php?id=1123" target="_blank">asked for some help</a>.
 
 I tried lots of stuff, from installing new free drivers to the proprietary <strong>ati</strong> solution. The latter solved the problem, but caused<strong> mouse freezes</strong>. . .
 
-After a lot of problems, <a title="darth" href="https://plus.google.com/109434034494027454595" target="_blank">DarthWound</a> finally gave my the good way to solve it !
+After a lot of problems, <a title="darth" href="http://plus.google.com/109434034494027454595" target="_blank">DarthWound</a> finally gave my the good way to solve it !
 
-The problem was coming from <strong><a title="plymouth" href="https://en.wikipedia.org/wiki/Plymouth_(software)" target="_blank">Plymouth</a></strong>, and removing it would remove the error :
+The problem was coming from <strong><a title="plymouth" href="http://en.wikipedia.org/wiki/Plymouth_(software)" target="_blank">Plymouth</a></strong>, and removing it would remove the error :
 
 {% highlight bash %}
 
@@ -90,6 +90,6 @@ Let me know if you find a better solution !
 
 You may see the effect on my screen here :
 
-<strong><a href="https://www.youtube.com/watch?v=btXGpa-pqGM">Gem Object problems on boot </a></strong>
+<strong><a href="http://www.youtube.com/watch?v=btXGpa-pqGM">Gem Object problems on boot </a></strong>
 
 <strong>C U </strong>

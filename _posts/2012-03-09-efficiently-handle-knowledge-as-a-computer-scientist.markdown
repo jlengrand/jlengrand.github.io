@@ -6,9 +6,9 @@ title: Efficiently handle knowledge as a Computer Scientist
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 559
-wordpress_url: https://www.lengrand.fr/?p=559
+wordpress_url: http://www.lengrand.fr/?p=559
 date: 2012-03-09 10:49:51.000000000 +01:00
 categories:
 - misc
@@ -30,11 +30,11 @@ comments:
     MjAxMi0wMy0xMCAxNzozNzo0OSArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0wMy0xMCAxNjozNzo0OSArMDEwMA==
-  content: Please don't buy into the lie that you have a bad memory.  Read https://goo.gl/zHFm4
+  content: Please don't buy into the lie that you have a bad memory.  Read http://goo.gl/zHFm4
 - id: 537
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMy0xMCAxNzo1MToxMCArMDEwMA==
   date_gmt: !binary |-
@@ -47,12 +47,12 @@ comments:
 - id: 538
   author: Efficiently handle knowledge as a Computer Scientist &laquo; Secret Blog
   author_email: ''
-  author_url: https://eminter25391.wordpress.com/2012/03/10/efficiently-handle-knowledge-as-a-computer-scientist/
+  author_url: http://eminter25391.wordpress.com/2012/03/10/efficiently-handle-knowledge-as-a-computer-scientist/
   date: !binary |-
     MjAxMi0wMy0xMCAxODozNDozMCArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0wMy0xMCAxNzozNDozMCArMDEwMA==
-  content: ! '[...] https://www.lengrand.fr/2012/03/efficiently-handle-knowledge-as-a-computer-scientist/
+  content: ! '[...] http://www.lengrand.fr/2012/03/efficiently-handle-knowledge-as-a-computer-scientist/
     Like this:LikeBe the first to like this post.     &nbsp;March 10, 2012 &nbsp;eminter25391  [...]'
 - id: 539
   author: alx
@@ -69,7 +69,7 @@ comments:
 - id: 540
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMy0xMCAxOTo1MTo0MiArMDEwMA==
   date_gmt: !binary |-
@@ -80,7 +80,7 @@ comments:
 - id: 541
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMy0xMCAxOTo1MzoxOCArMDEwMA==
   date_gmt: !binary |-
@@ -95,7 +95,7 @@ comments:
     MjAxMi0wMy0xMCAxOTo1NzoyNCArMDEwMA==
   date_gmt: !binary |-
     MjAxMi0wMy0xMCAxODo1NzoyNCArMDEwMA==
-  content: ! "I added you :) It seems that you have 2 accounts :\r\n\r\nhttps://www.mendeley.com/profiles/julien-lengrand-lambert\r\n\r\nand\r\n\r\nhttps://www.mendeley.com/profiles/julien-lengrand-lambert1/\r\n\r\nI
+  content: ! "I added you :) It seems that you have 2 accounts :\r\n\r\nhttp://www.mendeley.com/profiles/julien-lengrand-lambert\r\n\r\nand\r\n\r\nhttp://www.mendeley.com/profiles/julien-lengrand-lambert1/\r\n\r\nI
     added you as a friend to the first one!"
 - id: 544
   author: Toby
@@ -113,7 +113,7 @@ comments:
 - id: 578
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMy0xMSAwOToyNzoyNiArMDEwMA==
   date_gmt: !binary |-
@@ -123,7 +123,7 @@ comments:
 - id: 579
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0wMy0xMSAwOToyOTozNCArMDEwMA==
   date_gmt: !binary |-
@@ -133,7 +133,7 @@ comments:
 - id: 8991
   author: Let&#8217;s scratch those itches! | loup2fu
   author_email: ''
-  author_url: https://www.lengrand.fr/2013/04/lets-scratch-those-itches/
+  author_url: http://www.lengrand.fr/2013/04/lets-scratch-those-itches/
   date: !binary |-
     MjAxMy0wNC0xNyAxNDoyODoyOCArMDIwMA==
   date_gmt: !binary |-
@@ -148,12 +148,12 @@ I also have a <strong>really bad memory</strong>. If I rarely forget a face, I m
 
 But if this could be a problem, my experience in research centers helped me find a nice workaround to highly increase my efficiency. Having no memory is no great deal, as soon as you are able to quickly process and find information. And a weak my long-term memory, as strong my need for organization.
 
-As a researcher, part of your job consists in being an expert in your field and "keep both eyes open". Some of your time should be spent reading publications related (or not) to your curent projects. And most researchers I know have their own way to handle this big piece of "paper knowledge" they process. While being in <strong><a title="TNO" href="https://www.tno.nl/" target="_blank">TNO</a></strong>, I found one piece of tool that I never stopped using : <strong><a title="mendeley" href="https://www.mendeley.com/" target="_blank">Mendeley Desktop</a></strong>.
+As a researcher, part of your job consists in being an expert in your field and "keep both eyes open". Some of your time should be spent reading publications related (or not) to your curent projects. And most researchers I know have their own way to handle this big piece of "paper knowledge" they process. While being in <strong><a title="TNO" href="http://www.tno.nl/" target="_blank">TNO</a></strong>, I found one piece of tool that I never stopped using : <strong><a title="mendeley" href="http://www.mendeley.com/" target="_blank">Mendeley Desktop</a></strong>.
 
-Basically speaking, <strong><a title="mendeley" href="https://www.mendeley.com/" target="_blank">Mendeley</a></strong> is a publication management tool. It would help you keep track of your publications by extracting meda-data from the pdfs, and sort them out for you. For each document, you can access its authors, abstract, . . . And you can also set these meta-data and add keywords or tags.
+Basically speaking, <strong><a title="mendeley" href="http://www.mendeley.com/" target="_blank">Mendeley</a></strong> is a publication management tool. It would help you keep track of your publications by extracting meda-data from the pdfs, and sort them out for you. For each document, you can access its authors, abstract, . . . And you can also set these meta-data and add keywords or tags.
 While keywords are often already filled by the authors of the pdfs, <strong>tags have become my very secret weapon</strong>.
 
-<center><a href="https://drive.google.com/open?id=0B4bXocpgiAyxQ01JZW9ZWWE2V1U"><img class="  " title="mendeley desktop" src="https://drive.google.com/open?id=0B4bXocpgiAyxQ01JZW9ZWWE2V1U" alt="mendeley desktop" width="552" height="301" /></a></center>
+<center><a href="http://drive.google.com/open?id=0B4bXocpgiAyxQ01JZW9ZWWE2V1U"><img class="  " title="mendeley desktop" src="http://drive.google.com/open?id=0B4bXocpgiAyxQ01JZW9ZWWE2V1U" alt="mendeley desktop" width="552" height="301" /></a></center>
 
 There are<strong> 3 major things</strong> I want to show you here that can help you efficiently handle tons of information.
 
@@ -175,19 +175,19 @@ While working, I eventually have to search for some tips or module. Most of the 
 I would get the answer I search for immediately. Less than 1 minut later, my code is usually ready to go.
 
 With time, I <strong>got rid of 95% of my web bookmarks</strong>. When I find some useful information on the web, <strong>I simply print the article as a pdf and store it into my knowledge database</strong>. Having Mendeley always open next to my code, this way of searching is way faster than finding a bookmark back in a browser :).
-And as a bonus, your knowledge is also available offline, and you don't need your<strong> <a title="hyperion" href="https://en.wikipedia.org/wiki/Hyperion_(Simmons_novel)" target="_blank">chrome persoc</a></strong> anymore :).
+And as a bonus, your knowledge is also available offline, and you don't need your<strong> <a title="hyperion" href="http://en.wikipedia.org/wiki/Hyperion_(Simmons_novel)" target="_blank">chrome persoc</a></strong> anymore :).
 <h2>Some more information (BONUS part) :</h2>
 As I code at work, in the train and also at home, my knowledge database has to be available in at least 3 different computers.
 Best of luck, Mendeley is pretty efficient and well developed, and as long as you don't use special characters <strong>you can use the software on different OSes without messing everything up</strong> (I tried Windows and Linux versions).
 What you have to do is to install the piece of software on each computer, and give Mendeley a folder to watch.
 I tried using a <strong>portable USB key</strong> to keep all my papers on the same place for some time, but it appear that it is greatly<strong> human-failure dependant</strong> (I kept forgettin' the damn key).
-What I use now for a complete real-time synchronization is simply a <strong><a title="dropbox referral" href="https://db.tt/pdGVlyW" target="_blank">Dropbox</a></strong> folder. This way, everything is updated real-time (assuming you won't update the same file on different computers at the same time. . . ) on all your computers.
+What I use now for a complete real-time synchronization is simply a <strong><a title="dropbox referral" href="http://db.tt/pdGVlyW" target="_blank">Dropbox</a></strong> folder. This way, everything is updated real-time (assuming you won't update the same file on different computers at the same time. . . ) on all your computers.
 
-Another "similar" tool is <strong><a title="calibre" href="https://calibre-ebook.com/" target="_blank">Calibre</a></strong>, a pretty efficient library management tool. But I prefer using it <strong>only for ebooks</strong>, while using <strong>Mendeley</strong> for small ( not more than 100 pages) documents. Basically if it has a cover page, I'll put it in my Calibre database :).
+Another "similar" tool is <strong><a title="calibre" href="http://calibre-ebook.com/" target="_blank">Calibre</a></strong>, a pretty efficient library management tool. But I prefer using it <strong>only for ebooks</strong>, while using <strong>Mendeley</strong> for small ( not more than 100 pages) documents. Basically if it has a cover page, I'll put it in my Calibre database :).
 <em>Note : Mendeley has a lot more capabilities (publication sharing, friends wish list, . . . ) and what I present here is only a tiny part of the software. I don't use them though, and I think they a</em><em>re not into the frame of this article.</em>
 
 Your turn now, let me know about your own way of handling the huge quantity of information we have to deal with every day in CS !
 
 Julien
 
-<strong>UPDATE : You can join the group contaning my list of publication related to computer vision <a title="computer vision papers" href="https://www.mendeley.com/groups/1982081/look-up-to-the-future/">here</a>!</strong>
+<strong>UPDATE : You can join the group contaning my list of publication related to computer vision <a title="computer vision papers" href="http://www.mendeley.com/groups/1982081/look-up-to-the-future/">here</a>!</strong>

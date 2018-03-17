@@ -6,7 +6,7 @@ title: Compiling Xuggle on Ubuntu 14.04
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 categories:
 - programming
 - java
@@ -44,7 +44,7 @@ For that, we use a ppa.
 
 Then, we can clone the latest Xuggle source code directly from github :
 
-    $ git clone https://github.com/artclarke/xuggle-xuggler.git
+    $ git clone http://github.com/artclarke/xuggle-xuggler.git
     $ cd xuggle-xuggler
 
 
@@ -84,7 +84,7 @@ Compiling Xuggle from scratch in 14.04 has been surprisingly easy comparing to 1
 **Note : Xuggle is now deprecated, and has not been updated for now almost a year. So far, I haven't found an equivalent that would be just as good. Let me know if you do!**
 
 
-  [1]: https://www.xuggle.com/
-  [2]: https://github.com/artclarke/xuggle-xuggler
-  [3]: https://www.xuggle.com/xuggler/build
-  [4]: https://www.xuggle.com/xuggler/advbuild
+  [1]: http://www.xuggle.com/
+  [2]: http://github.com/artclarke/xuggle-xuggler
+  [3]: http://www.xuggle.com/xuggler/build
+  [4]: http://www.xuggle.com/xuggler/advbuild

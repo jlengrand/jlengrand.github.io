@@ -6,9 +6,9 @@ title: Converting a flv file to avi
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 31
-wordpress_url: https://www.lengrandlambert.fr/wordpress/?p=31
+wordpress_url: http://www.lengrandlambert.fr/wordpress/?p=31
 date: 2011-10-18 13:16:00.000000000 +02:00
 categories:
 - tips
@@ -29,7 +29,7 @@ Here is a small tip to convert a flv file to avi, which is mainly supported on a
 
 This tip is useful for Linux users only ;)
 
-First of all, install the <strong>ffmpeg</strong> package. All debian based distros can do the following. For the others, look at your package manager possibilities, or check for <a href="https://ffmpeg.org/download.html">sources</a>.
+First of all, install the <strong>ffmpeg</strong> package. All debian based distros can do the following. For the others, look at your package manager possibilities, or check for <a href="http://ffmpeg.org/download.html">sources</a>.
 
 {% highlight bash %}
 $ sudo apt-get install ffmpeg
@@ -42,7 +42,7 @@ $ ffmpeg -o /your/flv/file.flv -vcodec mpeg1-video \
  -acodec copy -ar 44100 -s 320x240 -y /your/avi/file.avi
 {% endhighlight %}
 
-For more information, check at <a href="https://pwet.fr/man/linux/commandes/ffmpeg">ffmpeg man page</a> ;)
+For more information, check at <a href="http://pwet.fr/man/linux/commandes/ffmpeg">ffmpeg man page</a> ;)
 
 &nbsp;
 

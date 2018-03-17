@@ -6,9 +6,9 @@ title: Compiling OpenCV for Linux (Debian)
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 293
-wordpress_url: https://wordpress.lengrandlambert.fr/?p=293
+wordpress_url: http://wordpress.lengrandlambert.fr/?p=293
 date: 2011-11-23 14:00:39.000000000 +01:00
 categories:
 - OpenCV
@@ -19,13 +19,13 @@ tags:
 - compiling
 comments: []
 ---
-I am sure that most of you know <strong><a title="OpenCV" href="https://en.wikipedia.org/wiki/OpenCV" target="_blank">OpenCV</a></strong>, the open-source Computer Vision library initially developed by Intel.
+I am sure that most of you know <strong><a title="OpenCV" href="http://en.wikipedia.org/wiki/OpenCV" target="_blank">OpenCV</a></strong>, the open-source Computer Vision library initially developed by Intel.
 
-Synaptic, the packages manager of all Debian based distributions  do contain opencv packages (namely libcv, libcvaux and libhighgui). But they are seriously outdated (2.1 in Ubuntu 11.10 when the last stable release <a title="opencv_sourceforge" href="https://sourceforge.net/projects/opencvlibrary/" target="_blank">on sourceforge </a>is the 2.3.1a).
+Synaptic, the packages manager of all Debian based distributions  do contain opencv packages (namely libcv, libcvaux and libhighgui). But they are seriously outdated (2.1 in Ubuntu 11.10 when the last stable release <a title="opencv_sourceforge" href="http://sourceforge.net/projects/opencvlibrary/" target="_blank">on sourceforge </a>is the 2.3.1a).
 
 If you want to use some new features (such as the new Python bindings in my case), you will have to compile OpenCV by yourself.
 
-An excellent <strong>install guide for Debian</strong> is available on <a title="opencv_wiki" href="https://opencv.willowgarage.com/wiki/InstallGuide%20%3A%20Debian" target="_blank">the OpenCV Wiki</a>. Do not forget to install libgtk2.0 too if you want to use screen display functions later.
+An excellent <strong>install guide for Debian</strong> is available on <a title="opencv_wiki" href="http://opencv.willowgarage.com/wiki/InstallGuide%20%3A%20Debian" target="_blank">the OpenCV Wiki</a>. Do not forget to install libgtk2.0 too if you want to use screen display functions later.
 <div>{% highlight bash %}
 [jlengrand@ubuntu:~/downloads/OpenCV-2.3.1/release]$sudo apt-get install libgtk2.0-0 libgtk2.0-dev
 {% endhighlight %}

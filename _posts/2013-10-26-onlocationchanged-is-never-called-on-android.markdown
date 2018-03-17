@@ -6,9 +6,9 @@ title: onLocationChanged is never called on Android
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 892
-wordpress_url: https://www.lengrand.fr/?p=892
+wordpress_url: http://www.lengrand.fr/?p=892
 date: 2013-10-26 16:28:40.000000000 +02:00
 categories:
 - Uncategorized
@@ -33,7 +33,7 @@ comments:
 - id: 21886
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMy0xMi0xNCAxMDo0OToyOSArMDEwMA==
   date_gmt: !binary |-
@@ -42,11 +42,11 @@ comments:
     is a class I use internally. I removed the references to LocationInfo, so things
     should be ok now :).\r\n\r\nThanks for noticing!"
 ---
-I had problems with this while developing #<strong><a title="brestram play store page" href="https://play.google.com/store/apps/details?id=fr.lengrand.brestram" target="_blank">BresTram</a></strong>.
+I had problems with this while developing #<strong><a title="brestram play store page" href="http://play.google.com/store/apps/details?id=fr.lengrand.brestram" target="_blank">BresTram</a></strong>.
 
 I was developing a new feature, allowing my users to find bus stops nearby using their GPS location.
 
-But whatever I was trying, my location was never set, and <a title="java doc onlocationchanged" href="https://developer.android.com/reference/com/google/android/gms/location/LocationListener.html#onLocationChanged(android.location.Location)" target="_blank">onLocationChanged</a> was never called.
+But whatever I was trying, my location was never set, and <a title="java doc onlocationchanged" href="http://developer.android.com/reference/com/google/android/gms/location/LocationListener.html#onLocationChanged(android.location.Location)" target="_blank">onLocationChanged</a> was never called.
 
 Here is what my Activity would look like :
 
@@ -93,7 +93,7 @@ Log.d(TAG, "Received GPS request for " + String.valueOf(lat) + "," + String.valu
 
 {% endhighlight %}
 
-You can forget about the <a title="viewFlipper javadoc" href="https://developer.android.com/reference/android/widget/ViewFlipper.html" target="_blank">ViewFlipper</a>, that is here only to show something to the user.
+You can forget about the <a title="viewFlipper javadoc" href="http://developer.android.com/reference/android/widget/ViewFlipper.html" target="_blank">ViewFlipper</a>, that is here only to show something to the user.
 Basically, I am letting android decide which provider he wants to use (GPS or Network), and request for the last known location.
 Then, I want to do something clever each time onLocationChanged is called.
 
@@ -123,10 +123,10 @@ locationManager.requestLocationUpdates(provider, 400, 1, this);
 
 {% endhighlight %}
 
-I was somehow expecting that is was automatic, implied by the fact that my activity implements <a title="Location listener javadoc" href="https://developer.android.com/reference/android/location/LocationListener.html" target="_blank">LocationListener</a>.
+I was somehow expecting that is was automatic, implied by the fact that my activity implements <a title="Location listener javadoc" href="http://developer.android.com/reference/android/location/LocationListener.html" target="_blank">LocationListener</a>.
 
 <strong>Well it is not.</strong>
 So, if any of you has the same problem, look whether you actually ask for something before getting angry because you don't receive it :D.
 
 <strong>Have fun hacking around.</strong>
-Oh, and if you leave in Brest, give a shot to #<strong><a title="Brestram play store" href="https://play.google.com/store/apps/details?id=fr.lengrand.brestram" target="_blank">BresTram</a></strong>; it is awesome!
+Oh, and if you leave in Brest, give a shot to #<strong><a title="Brestram play store" href="http://play.google.com/store/apps/details?id=fr.lengrand.brestram" target="_blank">BresTram</a></strong>; it is awesome!

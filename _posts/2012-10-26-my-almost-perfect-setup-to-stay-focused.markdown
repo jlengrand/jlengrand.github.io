@@ -6,9 +6,9 @@ title: My (almost) perfect setup to stay focused
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 802
-wordpress_url: https://www.lengrand.fr/?p=802
+wordpress_url: http://www.lengrand.fr/?p=802
 date: 2012-10-26 12:44:16.000000000 +02:00
 categories:
 - tips
@@ -42,7 +42,7 @@ comments:
 - id: 2396
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNiAxNDo0Mzo0MSArMDIwMA==
   date_gmt: !binary |-
@@ -74,7 +74,7 @@ comments:
 - id: 2401
   author: Andrei Oprisan
   author_email: andrei@taskup.com
-  author_url: https://taskup.com
+  author_url: http://taskup.com
   date: !binary |-
     MjAxMi0xMC0yNiAxNTo1ODoyOSArMDIwMA==
   date_gmt: !binary |-
@@ -135,7 +135,7 @@ comments:
 - id: 2408
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNiAxOToxMToxMCArMDIwMA==
   date_gmt: !binary |-
@@ -145,7 +145,7 @@ comments:
 - id: 2410
   author: Gareth Elms
   author_email: garethmarkelms@gmail.com
-  author_url: https://www.garethelms.org
+  author_url: http://www.garethelms.org
   date: !binary |-
     MjAxMi0xMC0yNiAyMDowMjoxNCArMDIwMA==
   date_gmt: !binary |-
@@ -191,7 +191,7 @@ comments:
 - id: 2446
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjoxOTo1OSArMDIwMA==
   date_gmt: !binary |-
@@ -201,7 +201,7 @@ comments:
 - id: 2447
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjoyMTo0NCArMDIwMA==
   date_gmt: !binary |-
@@ -212,7 +212,7 @@ comments:
 - id: 2448
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjoyMzowMCArMDIwMA==
   date_gmt: !binary |-
@@ -223,7 +223,7 @@ comments:
 - id: 2450
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjoyNDoxOCArMDIwMA==
   date_gmt: !binary |-
@@ -234,7 +234,7 @@ comments:
 - id: 2451
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjoyNjozNyArMDIwMA==
   date_gmt: !binary |-
@@ -247,17 +247,17 @@ comments:
 - id: 2452
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjoyODoxMCArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0xMC0yNyAxMToyODoxMCArMDIwMA==
   content: ! "I couldn't agree more :). \r\n\r\nI already dropped a few lines about
-    that in the past ;)\r\nhttps://www.lengrand.fr/2012/02/run-for-your-life-fellow-programmers/"
+    that in the past ;)\r\nhttp://www.lengrand.fr/2012/02/run-for-your-life-fellow-programmers/"
 - id: 2453
   author: Julien Lengrand-Lambert
   author_email: julien@lengrand.fr
-  author_url: https://www.lengrand.fr
+  author_url: http://www.lengrand.fr
   date: !binary |-
     MjAxMi0xMC0yNyAxMjozMzoyMSArMDIwMA==
   date_gmt: !binary |-
@@ -268,46 +268,46 @@ comments:
     \r\n\r\nBasically, I use git for commiting small tasks, like several times an
     hour. I use svn as checkpoints. \r\n\r\nThe cool thing is that using git, you
     don't have to be connected on the network to commit for example. \r\n\r\nBut there
-    are much more powerful tools out there :)\r\nhttps://viget.com/extend/effectively-using-git-with-subversion\r\n\r\nHope
+    are much more powerful tools out there :)\r\nhttp://viget.com/extend/effectively-using-git-with-subversion\r\n\r\nHope
     this helped ;)"
 - id: 2469
   author: My (Almost) Perfect Setup To Stay Focused &laquo; Polarbear
   author_email: ''
-  author_url: https://polarbearapp.wordpress.com/2012/10/27/my-almost-perfect-setup-to-stay-focused/
+  author_url: http://polarbearapp.wordpress.com/2012/10/27/my-almost-perfect-setup-to-stay-focused/
   date: !binary |-
     MjAxMi0xMC0yNyAxNTo1MDowMSArMDIwMA==
   date_gmt: !binary |-
     MjAxMi0xMC0yNyAxNDo1MDowMSArMDIwMA==
-  content: ! '[...] (almost) perfect setup to stay focused: — https://www.lengrand.fr/2012/10/my-almost-perfect-setup-to-stay-focused/
+  content: ! '[...] (almost) perfect setup to stay focused: — http://www.lengrand.fr/2012/10/my-almost-perfect-setup-to-stay-focused/
     Share this:TwitterFacebookLike this:LikeBe the first to like this.   Categories
     [...]'
 ---
 Here is a pattern I recognized for some time now, and that I'd like to share.
 
-I keep trying to be <a title="be awesome" href="https://lifehacker.com/5658800/dont-be-efficient--just-be-awesome" target="_blank">as efficient as possible</a> in my daily working environment. <strong>Productivity</strong> is really important for me, as it is the root which allows you to acquire you <strong>tiny slice of knowledge of the day</strong>.
+I keep trying to be <a title="be awesome" href="http://lifehacker.com/5658800/dont-be-efficient--just-be-awesome" target="_blank">as efficient as possible</a> in my daily working environment. <strong>Productivity</strong> is really important for me, as it is the root which allows you to acquire you <strong>tiny slice of knowledge of the day</strong>.
 
 I use several tools to help be stay productive, among which :
 <div></div>
-<h2><strong><a title="pomodoro" href="https://en.wikipedia.org/wiki/Pomodoro_Technique" target="_blank">Pomodoro</a></strong></h2>
+<h2><strong><a title="pomodoro" href="http://en.wikipedia.org/wiki/Pomodoro_Technique" target="_blank">Pomodoro</a></strong></h2>
 A technique that consists in using a timer to switch between work and breaks. As it is really difficult (yeah, impossible) to stay focused for hours; Pomodoro trains you to work in bursts of 25 minutes.
 <div></div>
-<h2><strong><a title="GTD" href="https://en.wikipedia.org/wiki/Getting_Things_Done" target="_blank">GTD</a> (aka Getting Things Done)</strong></h2>
+<h2><strong><a title="GTD" href="http://en.wikipedia.org/wiki/Getting_Things_Done" target="_blank">GTD</a> (aka Getting Things Done)</strong></h2>
 I use a light, personal version of it but the idea stays the same. The first thing I do at work is to set up a list of<strong> 3 things to do for the day</strong>. On Mondays  I set 3 bigger objectives for the week. I never spend much time doing that, as I had loads of time to thing about it since the last time.
 
 When working, I also usually always spend some time setting up a set of simple objectives in order <strong>to avoid diverging from my final aim</strong>.
 
 The drawback of this method is that you have to set objectives that are<strong> precise enough to be doable in a week/day, </strong>but<strong> complex enough so that you don't have only a few hours of work. </strong>Coupled with <strong>Pomodoro</strong>, this technique is highly powerful as you can make you tasks fit into 25 minutes time frames.
 <div></div>
-<h2><strong><a title="stayfocused" href="https://www.stayfocusd.com/" target="_blank">StayFocused</a></strong></h2>
+<h2><strong><a title="stayfocused" href="http://www.stayfocusd.com/" target="_blank">StayFocused</a></strong></h2>
 A chrome extension that blocks a list of defined websites once you spent more than 10 minutes on them during the day.
-<h2><strong><a title="rescue time" href="https://www.rescuetime.com/" target="_blank">RescueTime</a></strong></h2>
+<h2><strong><a title="rescue time" href="http://www.rescuetime.com/" target="_blank">RescueTime</a></strong></h2>
 A piece of software that you install on your computer and keeps track of the application you have in foreground. Applications are divided into categories, depending on how effective they are for your productivity. As an example, I am (assumed to be) really efficient where I use Eclipse, but really distracted when I am on youtube.
 
 At the end of the day (month, year,  . . .) you get statistics; and a percentage of global productivity.
 
-You can set objectives, <strong>compare yourself with </strong><a title="hanselman rescuetime" href="https://www.hanselman.com/blog/ProductivityAndContinuousImprovementMeasurementAndRescueTimeMakesItHappenBothPersonallyAndAtWork.aspx" target="_blank"><strong>the best</strong> or the average of people</a> using RescueTime, . . .  I love this tool because<strong> it shows you how much time you can lose</strong> if you are not careful about what you do. And when you end up you day with a global productivity of ~30% you know you screwed up somewhere !
-<h2><strong><a title="GetWorkDoneMusic" href="https://www.getworkdonemusic.com/#" target="_blank">Headsets and music</a></strong></h2>
-Whenever I want to be 100% into a task, I put my headset on. This has become some sort of habit, and cuts me from the outside world. This effect is some <strong>kind of a <a title="pavlov" href="https://en.wikipedia.org/wiki/Classical_conditioning" target="_blank">pavlovian </a><a title="pavlov" href="https://en.wikipedia.org/wiki/Classical_conditioning" target="_blank">conditioning</a>.</strong> Listening to repetitive music <a title="GWD music" href="https://www.getworkdonemusic.com/#" target="_blank">(trance, drums and bass, . . .)</a> helps me stay into the flow.
+You can set objectives, <strong>compare yourself with </strong><a title="hanselman rescuetime" href="http://www.hanselman.com/blog/ProductivityAndContinuousImprovementMeasurementAndRescueTimeMakesItHappenBothPersonallyAndAtWork.aspx" target="_blank"><strong>the best</strong> or the average of people</a> using RescueTime, . . .  I love this tool because<strong> it shows you how much time you can lose</strong> if you are not careful about what you do. And when you end up you day with a global productivity of ~30% you know you screwed up somewhere !
+<h2><strong><a title="GetWorkDoneMusic" href="http://www.getworkdonemusic.com/#" target="_blank">Headsets and music</a></strong></h2>
+Whenever I want to be 100% into a task, I put my headset on. This has become some sort of habit, and cuts me from the outside world. This effect is some <strong>kind of a <a title="pavlov" href="http://en.wikipedia.org/wiki/Classical_conditioning" target="_blank">pavlovian </a><a title="pavlov" href="http://en.wikipedia.org/wiki/Classical_conditioning" target="_blank">conditioning</a>.</strong> Listening to repetitive music <a title="GWD music" href="http://www.getworkdonemusic.com/#" target="_blank">(trance, drums and bass, . . .)</a> helps me stay into the flow.
 <h2><strong>Versioning</strong> : daily branches</h2>
 <div></div>
 I usually use as much branches as I can in my daily developments. Those branches are fully temporary, and it happens that a branch stays alive for only one commit. :)
@@ -316,13 +316,13 @@ The thing I like is that I can make my branches and commits match the objectives
 
 In order to keep this as light as possible, I use git on top of SVN (the version control we use in Spacemetric.).
 <div></div>
-<h2><strong>Avoid Stack Overflow</strong> and use <a title="DDG" href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>.</h2>
-In my last post, I explained why <a title="Stack Overflow: a hate/love story" href="https://www.lengrand.fr/2012/10/stack-overflow-a-hate-love-story/" target="_blank">I hate Stack Overflow</a>, so I won't explain it again. Let's just say that I try to avoid searching for answers in there.
+<h2><strong>Avoid Stack Overflow</strong> and use <a title="DDG" href="http://duckduckgo.com/" target="_blank">DuckDuckGo</a>.</h2>
+In my last post, I explained why <a title="Stack Overflow: a hate/love story" href="http://www.lengrand.fr/2012/10/stack-overflow-a-hate-love-story/" target="_blank">I hate Stack Overflow</a>, so I won't explain it again. Let's just say that I try to avoid searching for answers in there.
 
 The best way I found to avoid Stack Overflow posts is to use DuckDuckGo. The reason is that SO posts are usually less present than in Google.
 
 In addition, DuckDuckGo is literally a command line for the web, and I can usually access the documentation  search for using shortcuts and without even having to touch my mouse :). How efficient is that !
-<h2><strong>Avoid the web</strong>, use <strong><a title="FreeMind" href="https://freemind.sourceforge.net/wiki/index.php/Main_Page" target="_blank">FreeMind</a></strong></h2>
+<h2><strong>Avoid the web</strong>, use <strong><a title="FreeMind" href="http://freemind.sourceforge.net/wiki/index.php/Main_Page" target="_blank">FreeMind</a></strong></h2>
 <div></div>
 Lastly, the best way I found to stay focused is usually to stay away from my browser. Any web search can turn into a 5 minutes break in my mailbox, or worst. . .
 
@@ -330,8 +330,8 @@ A way I found to reduce the number of searches I perform is to log them. Let's 
 
 The nice thing is that <strong>FreeMind is designed to help you save time.</strong>
 
-<a title="freemind screenshot" href="https://freemind.sourceforge.net/wiki/index.php/File:FreeMind-computer-knowledge-080.png" target="_blank">Just look at this screenshot, and I'm sure you'll be convinced :).</a>
-<div><a title="freemind screenshot" href="https://freemind.sourceforge.net/wiki/index.php/File:FreeMind-computer-knowledge-080.png" target="_blank"> </a></div>
+<a title="freemind screenshot" href="http://freemind.sourceforge.net/wiki/index.php/File:FreeMind-computer-knowledge-080.png" target="_blank">Just look at this screenshot, and I'm sure you'll be convinced :).</a>
+<div><a title="freemind screenshot" href="http://freemind.sourceforge.net/wiki/index.php/File:FreeMind-computer-knowledge-080.png" target="_blank"> </a></div>
 In summary, this set of tools highly help my mind stay focused. By <strong>setting a list of objectives</strong> in advance, and <strong>having a timer</strong> to refer to I relieve my brain from having to think about anything else but the task I intend to do.And each of those tools tackles of different issue from fine to low granularity :
 <div>
 <ul>

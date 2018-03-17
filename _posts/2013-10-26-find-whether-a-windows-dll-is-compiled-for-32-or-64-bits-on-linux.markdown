@@ -6,9 +6,9 @@ title: Find whether a Windows dll is compiled for 32 or 64 bits on Linux
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
-author_url: https://www.lengrand.fr
+author_url: http://www.lengrand.fr
 wordpress_id: 896
-wordpress_url: https://www.lengrand.fr/?p=896
+wordpress_url: http://www.lengrand.fr/?p=896
 date: 2013-10-26 16:33:36.000000000 +02:00
 categories:
 - misc
@@ -27,7 +27,7 @@ This morning, I stumbled upon an unexpected problem; and found myself not knowin
 I had to compile the native part of a library on Linux, based on the existing Windows dlls.
 <strong>Before compiling, I needed to know if the Windows dlls were compiled for 32 or 64 bits.</strong>
 
-It is quite easy to do on Windows, with tools such as <a title="dependency walker page" href="https://www.dependencywalker.com/" target="_blank">dependency walker</a>, but on Linux!?
+It is quite easy to do on Windows, with tools such as <a title="dependency walker page" href="http://www.dependencywalker.com/" target="_blank">dependency walker</a>, but on Linux!?
 
 I knew that for native linux (.so) files, <strong>objdump</strong> would be my weapon of choice.
 
