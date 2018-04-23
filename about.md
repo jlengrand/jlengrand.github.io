@@ -11,13 +11,13 @@ image:
   creditlink: http://www.fluidr.com/photos/49365498@N03/sets
 ---
 
-My name **Julien Lengrand-Lambert**, and I am a french 29 year old guy living in **Utrecht, the Netherlands**. I live there for 5 years with my girlfriend and my cat. And at the end of September 2016, I became the father of a little thing that keeps us awake at night and brings us all of the love in the world.
+My name **Julien Lengrand-Lambert**, and I am a french 30 year old guy living in **Utrecht, the Netherlands**. I live there for 6 years with my girlfriend and my cat. And at the end of September 2016, I became the father of a little thing that keeps us awake at night and brings us all of the love in the world.
 
 
 <br>
 
 
-I work at [ING](ing.nl) during the day as a **Chapter Lead**, and I am responsible for coaching a team of 8 to 10 engineers as well as being an engineer myself. During my free time, you can find me **[coding](http://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
+I work at [ING](ing.nl) during the day as an **IT Chapter Lead**, and I am responsible for coaching a team of 8 to 10 engineers as well as being an engineer myself. During my free time, you can find me **[coding](http://github.com/jlengrand)**, **[organizing meetups](http://www.meetup.com/Saturday-Morning-Coding-Utrecht/)** and **bouldering**. I also **[play DOTA2](http://dotabuff.com/teams/1132289) in a team**, and take **[a lot of pictures](http://www.fluidr.com/photos/49365498@N03/sets)** of things around me :).
 
 
 <br>
@@ -39,12 +39,11 @@ I try to write blog posts regularly, and be active on **[Twitter](http://twitter
 
 My latest projects include :
 
-
+- **[SkyAI](http://skyai.io/)**, a startup that aims at generating sustainability insights for businesses, municipalities and countries using satellite imagery.
+- **[ServsUp](http://servsup.co/)**, an open-source, self-hosted status page application written in Node.js
 - **[Brestram](http://play.google.com/store/apps/details?id=fr.lengrand.brestram&hl=en)**, an android app that delivers real-time bus schedules in Brest.
 - **[Spo2tube](http://spo2tu.be/)**, a Spotify to Youtube converter that I developed to learn node.js.
 - **[Ivolution](http://jlengrand.github.io/Ivolution/)**, a face timelapse generator written in Python.
-- **[ServsUp](http://servsup.co/)**, an open-source, self-hosted status page application written in Node.js
-- **[SkyAI](http://skyai.io/)**, a startup that aims at generating sustainability insights for businesses, municipalities and countries using satellite imagery.
 
 <br>
 
