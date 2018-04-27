@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Automating thr activation/deactivation of Spotify's proxy settings
+title: Automating the activation/deactivation of Spotify's proxy settings
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
