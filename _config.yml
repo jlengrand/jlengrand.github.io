@@ -8,7 +8,7 @@ url:              http://lengrand.fr
 owner:
   name:           Julien Lengrand-Lambert
   avatar:         us.jpg
-  bio:            "French guy living in the Netherlands. Chapter Lead @ING during the day, bouldering at night."
+  bio:            "French guy living in the Netherlands. IT Chapter Lead @ING during the day, CoFounder @Skyai at night."
   email:          julien@lengrand.fr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jlengrand
@@ -19,9 +19,9 @@ owner:
   lastfm:
   tumblr:
   # for stack overflow, user profile is of type http://stackoverflow.com/users/282677/jlengrand
-  stackoverflow:
+  stackoverflow: https://stackoverflow.com/users/282677/jlengrand
   # For Google Authorship http://plus.google.com/authorship
-  google_plus: http://plus.google.com/u/0/+julienlengrandlambert
+#  google_plus: http://plus.google.com/u/0/+julienlengrandlambert
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-24607514-3
@@ -42,7 +42,6 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Amsterdam
 future:      true
-pygments:    false
 markdown:    kramdown
 highlighter:  rouge
 
@@ -55,9 +54,9 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  syntax_highlighter: coderay
 
-  coderay:
+  syntax_highlighter_opts:
     coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
