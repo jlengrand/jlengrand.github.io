@@ -29,14 +29,17 @@ Heyo,
 At **[Skyai](http://skyai.io/)**, we are working a lot with [Geographic Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system).
 Just like the large majority of the market, we use [GDAL](http://www.gdal.org/) and its Python bindings for that. 
 
+<br/><br/>
 Even though we are ESRI partners, we still love our QGis and Python.
+<br/><br/>
 
 I recently changed laptop and got the latest Macbook, and had to reinstall the environement from scratch. And as much as I love Python, having to setup GDAL on my former laptop still give me nightmare so I was dreading this moment.
-
+<br/><br/>
 
 But actually, I have to admit that the process was much smoother than expected! I initially followed [this guide](https://hackernoon.com/install-python-gdal-using-conda-on-mac-8f320ca36d90) for Python 2.7, without success.
+<br/><br/>
 
-But without further due, here are the steps.
+Without further due, here are the steps.
 
 
 ## Installing GDAL on Python 3.6
@@ -208,7 +211,7 @@ ImportError: dlopen(/Users/jlengrand/miniconda3/envs/gdal_test/lib/python3.6/sit
 
 In the end the trick is pretty simple, but it took me a while to find out. 
 Hope it helps you too!
-
+<br/><br/>
 Now, back to coding
 
 Cheers, 
