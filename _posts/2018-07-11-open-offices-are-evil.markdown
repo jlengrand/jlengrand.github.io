@@ -18,7 +18,7 @@ tags:
 comments: []
 ---
 
-Until I join ING last year, I was convinced that Open Floor Plans were brilliant. Easier communication, Saving space, Team culture, ... But over the last year, I have grown to **hate them** with passion.
+Until I joined ING last year, I was convinced that Open Floor Plans were brilliant. Easier communication, Saving space, Team culture, ... But over the last year, I have grown to **hate them** with passion.
 
 My experience of Open Offices until last year was like this :
 
