@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Open Offices are evil, Long live the Open Offices!
+title: Open Offices are evil, Long live Open Offices!
 author: Julien Lengrand-Lambert
 author_login: jlengrand
 author_email: julien@lengrand.fr
