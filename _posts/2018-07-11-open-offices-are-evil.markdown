@@ -18,7 +18,7 @@ tags:
 comments: []
 ---
 
-Until I joined ING last year, I was convinced that Open Floor Plans were brilliant. Easier communication, Saving space, Team culture, ... But over the last year, I have grown to **hate them** with passion.
+Until I joined a large company last year, I was convinced that Open Floor Plans were brilliant. Easier communication, Saving space, Team culture, ... But over the last year, I have grown to **hate them** with passion.
 
 My experience of Open Offices until last year was like this :
 
@@ -52,6 +52,7 @@ Now, I don't deny that Open Floor plans do have some obvious advantages. But the
 
 * Easier to move people around as the company needs to adapt, reshuffle its teams, ....
 * Cost savings in setting up the workplace
+* A feeling that everybody is busy, and a quick overview of how teams are doing
 
 # Counter measures
 
