@@ -169,3 +169,5 @@ Hope this help ;)
 </div>
 <div>[<a title="source" href="http://www.editeurjavascript.com/scripts/scripts_navigation_3_182.php" target="_blank">source</a>]</div>
 <div><em>NOTE : Sorry for the code being in french (its not mine). I could take some time to translate it if you want :) </em></div>
+
+<strong>Note: I have recently done some cleanup and the sample website is not available any more (It needs a server with PHP to run). However, you can find the source of the [dark theme here](https://github.com/jlengrand/pluxml_theme_darkFuture).</strong>

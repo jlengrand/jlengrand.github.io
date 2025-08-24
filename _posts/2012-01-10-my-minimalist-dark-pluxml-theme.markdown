@@ -51,3 +51,5 @@ You can find a demo <strong><a title="pluxml test platform" href="http://pluxml.
 <br>
 
 Just let me know if you like it ;), and feel free to ask for help !
+
+<strong>Note: I have recently done some cleanup and the sample website is not available any more (It needs a server with PHP to run). However, you can find the source of the [dark theme here](https://github.com/jlengrand/pluxml_theme_darkFuture).</strong>

@@ -109,3 +109,5 @@ Lots of <strong>themes</strong> have been created by the community. <strong><a t
 You can have an idea of what pluxml can give <a title="pluxml test" href="http://www.lengrand.fr/pluxml/513/" target="_blank">here ( on my sample server)</a> or in <a title="websites powered by pluxml" href="http://wiki.pluxml.org/index.php?page=Sites+r%C3%A9alis%C3%A9s+avec+PluXml " target="_blank">the list of websites powered by Pluxml</a>!
 
 Enjoy, and let me know if you need any french translation!
+
+<strong>Note: I have recently done some cleanup and the sample website is not available any more (It needs a server with PHP to run). However, you can find the source of the [dark theme here](https://github.com/jlengrand/pluxml_theme_darkFuture).</strong>
